@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.556">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Open Social Psychology - 2&nbsp; False Consensus Effect</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./summary.html" rel="next">
+<link href="./chapter1.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./chapter2.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">False Consensus Effect</span></span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./resources/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Open Social Psychology</a> 
+        <div class="sidebar-tools-main">
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/rimamrahal/OpenSocialPsychology">
+            Source Code
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/rimamrahal/OpenSocialPsychology/issues">
+            Report a Bug
+            </a>
+          </li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-1">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Open-Social-Psychology.pdf">
+              <i class="bi bi-bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Open-Social-Psychology.epub">
+              <i class="bi bi-bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Preface</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howthisbook.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">How this Book Came to Be</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">How to Use this Book</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Introduction</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Ego Depletion</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter2.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">False Consensus Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Summary</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./glossary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Glossary</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#the-classic" id="toc-the-classic" class="nav-link active" data-scroll-target="#the-classic"><span class="header-section-number">2.1</span> The Classic</a></li>
+  <li><a href="#the-aftermath" id="toc-the-aftermath" class="nav-link" data-scroll-target="#the-aftermath"><span class="header-section-number">2.2</span> The Aftermath</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion"><span class="header-section-number">2.3</span> Conclusion</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">False Consensus Effect</span></span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><span style="color: gray;">written by Marcel Zubrod (original draft), Jana Berkessel (revision), and Márton Kolozsvári (revision)</span></p>
+<section id="the-classic" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="the-classic"><span class="header-section-number">2.1</span> The Classic</h2>
+<p>The false consensus effect is a cognitive bias in which individuals overestimate the extent to which their own beliefs, preferences, and behaviors are shared by others.</p>
+<blockquote class="blockquote">
+<p><span id="def-bias" style="color: orchid">#definition</span> Bias</p>
+<p>A systematic distortion of perception or judgment.</p>
+</blockquote>
+<p>This psychological phenomenon was first systematically studied by <span class="citation" data-cites="ross_false_1977">Ross, Greene, and House (<a href="references.html#ref-ross_false_1977" role="doc-biblioref">1977</a>)</span>, who demonstrated that individuals tend to perceive their own choices and opinions as more common than they actually are. For instance, people who express a preference for a particular option are likely to assume that others would make the same choice, even when evidence suggests otherwise. This bias occurs because individuals use their own perspective as a reference point, leading to distorted judgments about the preferences, opinions and behaviors of others.</p>
+<blockquote class="blockquote">
+<p><span id="def-falseconsensus" style="color: orchid">#definition</span> False Consensus Effect</p>
+<p>A cognitive bias where individuals overestimate the extent to which others share their beliefs, preferences, and behaviors.</p>
+</blockquote>
+<p>In Study 1 of the original research by <span class="citation" data-cites="ross_false_1977">Ross, Greene, and House (<a href="references.html#ref-ross_false_1977" role="doc-biblioref">1977</a>)</span>, participants were presented with one of four short stories, each describing a fictional scenario with a behavioral choice to be made. After reading the assigned story, participants were asked to estimate the percentage of their peers who would choose one behavioral option over the other within the context of the story.</p>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span></p>
+<p>Can you think of a time when you assumed others thought or behaved the same way you did and it turned out to not be the case?</p>
+</blockquote>
+<p>Following these percentage estimates, participants completed a questionnaire. First, they were required to indicate which behavioral option they personally would have chosen in the scenario. Next, they rated themselves on a personality scale. As part of the assessment, participants also evaluated the typical personality characteristics of someone their age and gender who would choose either behavioral option presented in the story.</p>
+<p>The results revealed a consistent pattern: participants who chose a particular behavioral option tended to believe that “people in general” would likely make the same choice. Conversely, participants who rejected an option perceived that behavior as less likely for others. Across all four stories, participants’ own choices strongly predicted their estimates of how the general population would behave.</p>
+<p>Additionally, significant differences emerged in personality evaluations based on participants’ own choices. For three of the four stories, participants rated the typical personality traits of those choosing their preferred behavioral option as less extreme than those who selected the alternative. These effects were statistically significant in three stories, while one story showed a weaker significance, and the fourth story showed no significant results.</p>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span></p>
+<p>Are there certain methodological choices that could enhance or reduce the magnitude of the false consensus effect? These could include, but are not limited to, the number of choices to choose from, the social setting, the controversiality of the choices and the order of choices. Do they increase or reduce the magnitude of the false consensus effect?</p>
+</blockquote>
+</section>
+<section id="the-aftermath" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="the-aftermath"><span class="header-section-number">2.2</span> The Aftermath</h2>
+<p>A meta-analysis by <span class="citation" data-cites="mullen_false_1985">Mullen et al. (<a href="references.html#ref-mullen_false_1985" role="doc-biblioref">1985</a>)</span> examined 23 studies and a total of 115 hypotheses related to the false consensus effect. The analysis demonstrated that tests for the false consensus effect were highly significant and produced a moderate effect size. Importantly, it identified specific methodological factors that influenced the magnitude of the effect. For instance, the number of behavioral decisions participants were asked to make, as well as the order in which decisions and consensus estimates were presented, significantly impacted the observed false consensus effect.</p>
+<blockquote class="blockquote">
+<p><span id="def-effectsize" style="color: orchid">#definition</span> Effect Size</p>
+<p>A quantitative measure of the magnitude of a phenomenon, used to assess the practical significance of research findings.</p>
+</blockquote>
+<p>These findings suggested that subsequent studies should limit the number of behavioral decisions participants are required to make and prioritize consensus assessments before behavioral decisions, as those methodological peculiarities might maximize the observed extent of the false consensus effect in experimental settings.</p>
+<p>The <strong>self-presentation explanation</strong> posits that individuals strategically align their behavior with perceived social norms. According to this theory, the false consensus effect should be more pronounced when individuals make their behavioral decision before estimating the consensus. Only in this sequence do participants have the chance to adjust the social norm (i.e., other people’s behavior) to their own behavior. However, the meta-analysis by Mullen et al. <span class="citation" data-cites="mullen_false_1985">(<a href="references.html#ref-mullen_false_1985" role="doc-biblioref">1985</a>)</span> found no statistical evidence supporting this prediction, suggesting that the false consensus effect does not vary as the self-presentation explanation would anticipate.</p>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span></p>
+<p>Which other mechanisms could explain the False Consensus Effect? How would you test those mechanisms?</p>
+</blockquote>
+<p>mullen_false_1985 outlined several theoretical explanations for the false consensus effect. One explanation, <strong>attributive projection</strong>, suggests that individuals rely on cognitive biases to justify their belief that their own behavioral choices are rational and appropriate responses to the environment. Another perspective suggests that the false consensus effect can <strong>protect a person’s self-esteem</strong>. It may help people feel better about themselves when they face failure or receive negative feedback about their personal characteristics. A third explanation focuses on <strong>social environments</strong>, noting that people tend to associate with others who share similar backgrounds, values, and interests. Using false consensus makes us associate with the others who are (often falsely) perceived to be similar, thus fulfilling the need for a sense of relatedness. This selective association reinforces the perception that their choices are widely shared. Finally, <strong>cognitive availability</strong> provides a more mechanistic account, proposing that the behaviors individuals have chosen—or would choose—are more easily recalled or imagined than alternative actions when theorising about the behavior of others, a phenomenon linked to the availability heuristic.</p>
+<blockquote class="blockquote">
+<p><span id="def-availabilityheuristic" style="color: orchid">#definition</span> Availability Heuristic</p>
+<p>A mental shortcut where people estimate the likelihood of an event based on how easily examples come to mind, which can lead to overestimating rare but memorable occurrences.</p>
+</blockquote>
+<p>Overall, the false consensus effect is often attributed to a psychological desire to see one’s thoughts and actions as appropriate, normal, and correct. Together, these cognitive and motivational factors help explain why individuals consistently overestimate the prevalence of their own opinions and behaviors, a phenomenon observed across numerous studies.</p>
+<p>Recent research has refined our understanding of the false consensus effect, particularly by situating it in contemporary social and digital contexts. In a series of studies, <span class="citation" data-cites="bunker_how_2021">Bunker and Varnum (<a href="references.html#ref-bunker_how_2021" role="doc-biblioref">2021</a>)</span> found that greater social media use was reliably associated with stronger false consensus effects across domains such as political attitudes, personality traits, and social motives. However, the size of these effects was consistently smaller than laypeople anticipated, suggesting a public overestimation of social media’s distorting power. <span class="citation" data-cites="luzsa_false_2021">Luzsa and Mayr (<a href="references.html#ref-luzsa_false_2021" role="doc-biblioref">2021</a>)</span> experimentally demonstrated that exposure to attitudinally congruent news feeds, especially those with high agreement and visible endorsement cues like “likes”, leads individuals to overestimate public support for their own views. Interestingly, this inference was moderated by participants’ interest in the topic, with highly engaged individuals showing more skepticism toward consensus cues.</p>
+<p>Building on the political implications of false consensus, <span class="citation" data-cites="steiner_false_2025">Steiner, Landwehr, and Harms (<a href="references.html#ref-steiner_false_2025" role="doc-biblioref">2025</a>)</span> found that individuals who overestimate how many others share their political preferences are more likely to express populist attitudes and to distrust political elites. Similarly, <span class="citation" data-cites="weinschenk_democratic_2021">Weinschenk, Panagopoulos, and Linden (<a href="references.html#ref-weinschenk_democratic_2021" role="doc-biblioref">2021</a>)</span> showed that individuals’ views about democratic norms, such as the peaceful transfer of power, were strongly linked to their perceptions of what others believe—indicating a false consensus bias, particularly among conservatives. Finally, <span class="citation" data-cites="furnas_people_2024">Furnas and LaPira (<a href="references.html#ref-furnas_people_2024" role="doc-biblioref">2024</a>)</span> extended the scope of the false consensus effect to unelected political elites (e.g., lobbyists and journalists) demonstrating that this group’s perceptions of public opinion systematically reflected their own views, suggesting egocentrism rather than ideological bias as the driving force.</p>
+<p>Together, these studies demonstrate that the false consensus effect is a robust phenomenon with wide-ranging relevance from digital communication to political judgment and that it is shaped not only by cognitive mechanisms but also by the structural, technological, and ideological environments in which opinions are formed.</p>
+</section>
+<section id="conclusion" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="conclusion"><span class="header-section-number">2.3</span> Conclusion</h2>
+<p>The body of research on the false consensus effect highlights its robustness as a psychological phenomenon while also revealing important complexities in how it comes about. Early experimental studies, such as those by <span class="citation" data-cites="ross_false_1977">Ross, Greene, and House (<a href="references.html#ref-ross_false_1977" role="doc-biblioref">1977</a>)</span>, demonstrated that individuals consistently overestimate the degree to which others share their beliefs and behaviors. Follow-up meta-analyses, like that of <span class="citation" data-cites="mullen_false_1985">Mullen et al. (<a href="references.html#ref-mullen_false_1985" role="doc-biblioref">1985</a>)</span>, confirmed the effect’s significance and explored the methodological and contextual factors that influence its magnitude.</p>
+<p>In the broader context of social psychology, the false consensus effect provides valuable insights into how cognitive biases and motivational factors shape human perception. Explanations for the effect, ranging from attributive projection and ego defense to mechanisms like cognitive availability, underline the interplay between how individuals view themselves and how they perceive the social world around them.</p>
+<p>However, as with many constructs in psychology, it is crucial to approach findings on the false consensus effect with careful scrutiny. Methodological variations can significantly impact the observed magnitude of the effect, and further research is needed to disentangle its underlying mechanisms. The enduring study of the false consensus effect is an example of the importance of revisiting and refining theoretical constructs to build a more comprehensive understanding of human cognition and behavior.</p>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-bunker_how_2021" class="csl-entry" role="listitem">
+Bunker, Cameron J., and Michael E. W. Varnum. 2021. <span>“How Strong Is the Association Between Social Media Use and False Consensus?”</span> <em>Computers in Human Behavior</em> 125 (December): 106947. <a href="https://doi.org/10.1016/j.chb.2021.106947">https://doi.org/10.1016/j.chb.2021.106947</a>.
+</div>
+<div id="ref-furnas_people_2024" class="csl-entry" role="listitem">
+Furnas, Alexander C., and Timothy M. LaPira. 2024. <span>“The People Think What <span>I</span> Think: <span>False</span> Consensus and Unelected Elite Misperception of Public Opinion.”</span> <em>American Journal of Political Science</em> 68 (3): 958–71. <a href="https://doi.org/10.1111/ajps.12833">https://doi.org/10.1111/ajps.12833</a>.
+</div>
+<div id="ref-luzsa_false_2021" class="csl-entry" role="listitem">
+Luzsa, Robert, and Susanne Mayr. 2021. <span>“False Consensus in the Echo Chamber: <span>Exposure</span> to Favorably Biased Social Media News Feeds Leads to Increased Perception of Public Support for Own Opinions.”</span> <em>Cyberpsychology: Journal of Psychosocial Research on Cyberspace</em> 15 (1). <a href="https://doi.org/10.5817/CP2021-1-3">https://doi.org/10.5817/CP2021-1-3</a>.
+</div>
+<div id="ref-mullen_false_1985" class="csl-entry" role="listitem">
+Mullen, Brian, Jennifer L Atkins, Debbie S Champion, Cecelia Edwards, Dana Hardy, John E Story, and Mary Vanderklok. 1985. <span>“The False Consensus Effect: <span>A</span> Meta-Analysis of 115 Hypothesis Tests.”</span> <em>Journal of Experimental Social Psychology</em> 21 (3): 262–83. <a href="https://doi.org/10.1016/0022-1031(85)90020-4">https://doi.org/10.1016/0022-1031(85)90020-4</a>.
+</div>
+<div id="ref-ross_false_1977" class="csl-entry" role="listitem">
+Ross, Lee, David Greene, and Pamela House. 1977. <span>“The <span>‘False Consensus Effect’</span>: <span>An</span> Egocentric Bias in Social Perception and Attribution Processes.”</span> <em>Journal of Experimental Social Psychology</em> 13 (3): 279–301. <a href="https://doi.org/10.1016/0022-1031(77)90049-X">https://doi.org/10.1016/0022-1031(77)90049-X</a>.
+</div>
+<div id="ref-steiner_false_2025" class="csl-entry" role="listitem">
+Steiner, Nils D., Claudia Landwehr, and Philipp Harms. 2025. <span>“False Consensus Beliefs and Populist Attitudes.”</span> <em>Political Psychology</em> 00: 1–22. <a href="https://doi.org/10.1111/pops.70026">https://doi.org/10.1111/pops.70026</a>.
+</div>
+<div id="ref-weinschenk_democratic_2021" class="csl-entry" role="listitem">
+Weinschenk, Aaron C., Costas Panagopoulos, and Sander van der Linden. 2021. <span>“Democratic <span>Norms</span>, <span>Social</span> <span>Projection</span>, and <span>False</span> <span>Consensus</span> in the 2020 <span>U</span>.<span>S</span>. <span>Presidential</span> <span>Election</span>.”</span> <em>Journal of Political Marketing</em> 20 (3-4): 255–68. <a href="https://doi.org/10.1080/15377857.2021.1939568">https://doi.org/10.1080/15377857.2021.1939568</a>.
+</div>
+</div>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./chapter1.html" class="pagination-link" aria-label="[Ego Depletion]{style=&quot;color: #004b23&quot;}">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Ego Depletion</span></span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./summary.html" class="pagination-link" aria-label="[Summary]{style=&quot;color: #004b23&quot;}">
+        <span class="nav-page-text"><span style="color: #004b23">Summary</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Open Social Psychology</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Edited by Rima-Maria Rahal</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
