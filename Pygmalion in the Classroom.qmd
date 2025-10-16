@@ -1,0 +1,66 @@
+---
+title: "Chapter 3"
+author: "scl"
+format: html
+editor: visual
+---
+
+## Pygmalion Effect 
+
+[written by Maja Düsenberg (wrote the original draft, approved revisions) and Jana Berkessel (revised)]{style="color: gray;"}
+
+The Classic
+
+The **Pygmalion Effect** is a social psychological phenomenon that highlights how expectations can influence performance. It was first demonstrated by Robert Rosenthal and Lenore Jacobson in their seminal study, Pygmalion in the Classroom (1968). The study investigated how teachers’ expectations about their students’ potential could shape the students’ academic performance.
+
+> [#definition]{#def-bias style="color: orchid"} **Pygmalion Effect**
+>
+> The phenomenon in which higher expectations from others lead to improved performance.
+
+In their experiment, Rosenthal and Jacobson told teachers that certain students were likely to be “growth spurters” who were expected to achieve significant academic improvement over the school year based on a fabricated test. The students were randomly selected and had no actual differences in ability compared to their peers. 
+
+The results were striking. The so-called “spurters” showed significantly higher gains in IQ scores from the pre-test to the post-test compared to their control peers. These changes could not be explained by retesting effects, familiarity with the test, or natural cognitive development due to aging. Instead, the findings highlighted the powerful role of teacher expectations in shaping student outcomes.
+
+The study also explored moderating factors. Younger children demonstrated greater improvements, potentially due to their higher malleability to external influences. Gender differences were observed, with girls showing greater increases in reasoning IQ and boys improving more in verbal IQ, aligning with their respective pretest strengths. Additionally, while not statistically significant, minority students appeared to benefit more from positive expectations, with “more Mexican-looking” boys (e.g., darker skin tones) showing particularly pronounced IQ gains. These results suggest that preconceived notions based on race and ethnicity may interact with expectation effects.
+
+> [#yourturn]{style="color: green"}
+>
+> > In which other situations could the Pygmalion effect play a role? Think about situations where your assumptions or expectations about others may influence their behavior—positively or negatively.
+
+The implications of the Pygmalion effect extend far beyond the classroom. In organizational settings, for instance, research has shown that managers’ high expectations for their employees can lead to improved performance through changes in behavior and increased self-efficacy (Eden, 1990). Similar dynamics have been observed in therapeutic relationships, where therapists’ beliefs about their clients’ potential for progress influence treatment outcomes (Jenner, 1990), and in healthcare, where nurses’ confidence in their patients’ recovery can affect health results (Learman et al., 1990). These examples illustrate how expectations have the power to shape behavior and performance in diverse domains.
+
+> [#yourturn]{style="color: green"}
+>
+> > Which other social psychological constructs are related to the Pygmalion effect?
+
+The Pygmalion effect is closely related to two other psychological concepts: the self-fulfilling prophecy and self-efficacy. A self-fulfilling prophecy occurs when an initially false belief or expectation leads to behaviors that ultimately make the false belief come true. This concept aligns with the Pygmalion effect, as individuals may unconsciously alter their actions to align with the expectations placed upon them. Additionally, self-efficacy, or one’s belief in their ability to succeed in specific situations, plays a key role in mediating the impact of expectations. When high expectations are communicated, they can enhance an individual’s self-efficacy, reinforcing their motivation and performance. These interconnected mechanisms help explain how expectations shape outcomes across various domains.
+
+## The Aftermath
+
+Thorndike (1968) and Snow (1969) offered early critiques of Rosenthal and Jacobson’s (1968) Pygmalion study, challenging its methodology, data analysis, and conclusions. Thorndike focused on issues with data quality, pointing out inconsistencies such as the implausibly low IQ scores of some participants, which he described as rendering the testing meaningless. He argued that the effects of the intervention were limited primarily to a small group of first- and second-grade students, raising concerns about the generalizability of the findings. Thorndike concluded that any observed effects might have been coincidental rather than genuinely linked to the intervention.
+
+> [#yourturn]{style="color: green"}
+>
+> > The Pygmalion effect often involves subconscious biases. How do you think societal stereotypes (e.g., gender, race) might influence the expectations we hold for others? Can you think of ways to address or mitigate these biases?
+
+Snow, similarly skeptical, critiqued the study's complex experimental design, highlighting incomplete data and methodological flaws, such as inadequate norms for the youngest children and those from lower socioeconomic backgrounds. He noted that 20% of the participants were not retested, an omission unaddressed in the analysis. Snow also questioned the mechanism of teacher influence, pointing out that teachers reportedly could not recall which students were identified as "bloomers," undermining the study’s foundational premise. Snow concluded that the study’s premature dissemination in popular media had harmed teachers, parents, and students by raising unrealistic expectations without robust evidence to support them.
+
+> [#definition]{#def-effectsize style="color: orchid"} **Special Issue** 
+>
+> A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study
+
+In 2018, the Journal “Educational Research and Evaluation” published a special issue on the Pygmalion effect, just in time for its 50th birthday. In the Editorial, they summarize that despite warranted criticism of the early studies, research conducted over the past five decades has refined our understanding of the Pygmalion effect. Specifically, empirical studies have shown that teachers generally show a degree of accuracy in their expectations (Jussim & Harber, 2005) but tend to favour students from affluent backgrounds over those from less privileged ones, while often holding lower expectations for special needs students (De Boer, Bosker, & Van der Werf, 2010; Cameron & Cook, 2013). Evidence on expectations related to student ethnicity and gender is more inconsistent, with some studies finding biases—such as lower expectations for ethnic minority students, boys in reading, and girls in mathematics—while others do not. Teacher expectations influence teaching behaviours, such as offering greater opportunities to learn, asking richer questions, and providing more targeted feedback for students with higher expectations (Brophy & Good, 1970; Rubie-Davies, 2007). These expectations can function as self-fulfilling prophecies, impacting student outcomes like performance, intelligence, and motivation. However, the magnitude of these effects varies significantly across studies (e.g., effect sizes ranging from d = .11; Raudenbush, 1984; to d = .70; Rosenthal & Rubin, 1978). Notably, students who are low achievers, from low-income families, or belong to ethnic minority groups appear more vulnerable to these effects, and some teachers are more likely than others to amplify these disparities (Madon, Jussim, & Eccles, 1997; Rubie-Davies, 2015).
+
+> [#definition]{style="color: orchid"} **Editorial** 
+>
+> An introductory article written by the editors of a special issue in an academic journal. It outlines the purpose, scope, and significance of the special issue, provides an overview of the included articles, and often highlights key themes, trends, or gaps in the research field.  
+
+Finally, the Editors underscore the need to view teacher expectations ecologically, considering the individuality of teachers and students, as well as the broader contexts of classrooms, schools, families, and communities. Teacher expectation effects are not universal; they vary by teacher practices, student vulnerability, and contextual factors like classroom composition. They also emphasize the importance of integrating teacher expectation findings into teacher education. Teaching future educators to avoid the negative effects of low expectations and to provide appropriately challenging learning opportunities could foster greater equity in student outcomes. 
+
+> [#yourturn]{style="color: green"}
+>
+> > Can the Pygmalion effect apply to self-expectations? How might your own beliefs about your abilities influence your performance in a given task or goal?
+
+## Conclusion
+
+The Pygmalion Effect is a social psychological phenomenon in which higher expectations from others lead to improved performance. This effect was first demonstrated by Robert Rosenthal and Lenore Jacobson in their seminal 1968 study, Pygmalion in the Classroom, which showed that teachers' beliefs about students’ potential could significantly influence academic outcomes. While the original study laid the groundwork for understanding this phenomenon, the decades of subsequent research have added nuance to our understanding. Teacher expectations can indeed enhance or hinder students’ academic achievements, but these effects are not uniform; they depend on various factors, including teacher practices, student background, and the context within which they operate.
