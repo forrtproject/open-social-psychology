@@ -1,0 +1,75 @@
+# [Facial Feedback Hypothesis]{style="color: #004b23"}
+
+[written by Sophia Reitmayer (original draft), Patrícia Arriaga (revision), and Effy Zachou (revision).]{style="color: gray;"}
+
+## The Classic
+
+Does what your body does influence how you feel? This is a central question that the Facial Feedback hypothesis addresses. The idea is simple, and quite old. In fact, it echoes one of the earliest theories of emotions in modern psychology: the James-Lange theory of emotion [@james_what_1884]. This theory proposes that bodily changes precede and give rise to emotional experiences. In other words, perhaps what our body does informs what we feel.
+
+> [#yourturn]{style="color: green"}
+>
+> Have you ever felt your heart beat faster when giving a presentation or walking into a room full of people, and then noticed yourself feeling nervous or fearful? These are examples of how bodily responses, such as a racing heart or sweating, might shape emotional experience, as suggested by James-Lange theory [@james_what_1884].
+
+Now think more specifically: have you ever noticed that frowning while concentrating made you feel more tense? Or that you felt more positive when you smiled, even without a clear reason? These are everyday examples of how facial expressions, as specific bodily reactions, might affect your emotional state, as proposed by the Facial Feedback Hypothesis.
+
+The Facial Feedback Hypothesis can also be related to the work of Darwin [-@darwin_expression_1872] and, later, Ekman [-@ekman_argument_1992], as both suggested that facial expressions play a role in emotion. Ekman, for example, emphasized that certain facial expressions are universal and biologically innate. However, these theories are distinct, since unlike the Facial Feedback Hypothesis, neither Darwin nor Ekman proposed that facial expressions causally influence the emotional experience itself. In contrast, the Facial Feedback Hypothesis suggests that the activation of facial muscles involved in an expression can modulate the subjective experience of emotion. This theory posits that the act of forming a facial expression, such as smiling, frowning, or furrowing the brow, can intensify, initiate, or modulate the corresponding emotional state, thereby establishing a bidirectional relationship between expression and affect. Thus, the act of smiling may actually make people feel happier.
+
+> [#yourturn]{style="color: green"}
+>
+> Can you think of everyday situations where the Facial Feedback Hypothesis might apply? Try to go beyond smiling, by considering how other facial expressions might also shape your emotional experience, such as sadness, anger, fear, disgust.
+
+The publication by @strack_inhibiting_1988 investigated this hypothesis in two studies. The authors tested whether adopting a facial expression typically associated with a specific emotion could influence people's emotional experience and their evaluation of external stimuli. More specifically, they investigated whether producing a smiling facial expression could lead to a more positive evaluation of cartoons and a more positive emotional state.
+
+@strack_inhibiting_1988 conducted two studies using a new methodology designed to prevent a cognitive interpretation of facial action. In other words, the aim was to avoid participants consciously recognising their facial movements as expressions of specific emotions. This was important because one of the main concerns is the risk of demand characteristics, that is, the possibility that participants’ awareness of the study’s true purpose might influence their responses. To address this, they introduced a cover story, telling participants that the study focused on psychomotor coordination. This procedure became known as the “pen-in-the-mouth” paradigm, allowing for a more subtle manipulation of facial muscle activity.
+
+In both studies, participants (N = 92, Study 1; N = 83, Study 2) used the same pen-in-the-mouth paradigm. In study 1, participants were assigned to three conditions. In one condition, participants were asked to hold a pen between their teeth in a way that would facilitate a facial configuration associated with smiling (“teeth” condition). In this condition, the way participants held the pen would activate the facial zygomaticus major muscles, which are typically involved in smiling.
+
+> [#definition]{#def-zygomaticusmajor style="color: orchid"} Zygomaticus Major Muscles
+>
+> These bilateral facial muscles, when activated, raise the corners of the mouth in an upward and lateral direction, facilitating expressions such as smiling.
+
+In a second condition, they were asked to hold the pen between their pursed lips (“lips” condition). In contrast to the “teeth” condition, this position engages the orbicularis oris muscles, which may inhibit the activation of the zygomaticus major, making smiling more difficult.
+
+> [#definition]{#def-orbicularisoris style="color: orchid"} Orbicularis Oris Muscles
+>
+> These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.
+
+The third condition included in study 1 served as a control group, as it did not involve any direct manipulation of the facial muscles. Instead, participants were asked to hold the pen with their non-dominant hand.
+
+In study 1, the aim was to test whether facial manipulation influenced the evaluation of humorous stimuli (perceived funniness) and study 2 aimed at replicating the procedure but also differentiating the effects on cognitive and affective components of this response. Thus, after being assigned to one of the conditions, participants were presented with cartoons on various topics, ranging from neutral to humorous situations, and asked to rate how funny each cartoon was on a scale of 0 to 9 (“not at all funny” to “very funny”). Additionally, in study 2, the affective experience of amusement was measured by asking participants to indicate how amused they felt while viewing the cartoons, also using a 10-point scale (from 0 = “I felt not at all amused” to 9 = “I felt very much amused”).
+
+The results in study 1 showed differences in the ratings of the cartoons between the “teeth” and “lips” conditions. In the “teeth” condition, participants rated the cartoons as significantly funnier than in the “lips” condition, and the results of the control group fell between these two conditions. This suggests that activating the facial muscles involved in smiling can lead to a more positive perception of humorous stimuli, while inhibiting those muscles reduces this positive perception. In study 2, by introducing separate measures for cognitive and affective components, the authors showed that facial manipulation affected only the amusement experience without affecting the cognitive evaluation of funniness. This highlights the need to distinguish between these two components explicitly. According to the authors, the effects obtained in the perceived funniness of the cartoons in study 1 likely reflected a combination of affective and cognitive influences within a single global evaluation.
+
+> [#yourturn]{style="color: green"}
+>
+> Why do you think Strack et al.'s (1988) publication was so influential? Are you fully convinced? Are there exceptions to the rule? How could facial-feedback be criticized?
+
+Over the years, several questions have been raised, and both conceptual and direct replications of Strack et al.'s [-@strack_inhibiting_1988] study have been conducted. For example: Are facial feedback effects stronger when people produce genuine, spontaneous smiles, compared to subtle and artificial manipulations like holding a pen in the mouth? Does facial feedback initiate emotional experiences, or does it merely amplify emotions that are already present? Also, although Strack et al. [-@strack_inhibiting_1988] focused specifically on smiling, the Facial Feedback Hypothesis suggests that other facial expressions may also contribute to shaping emotional experience.
+
+## The Aftermath
+
+Strack et al.’s [-@strack_inhibiting_1988] influential study has been the subject of debate in recent years, as several researchers have had difficulties replicating the original results. One of the attempts was the Registered Replication Report (RRR) by @wagenmakers_registered_2016. Despite coordination across 17 independent laboratories, the replication failed to reproduce original findings: participants did not rate cartoons as funnier when their facial muscles were configured into a smile. This null result raised doubts about how reliable the facial feedback hypothesis is. In response, @strack_reflection_2016 argued that small differences in the setting, especially the use of video cameras, may have affected the participants’ responses. He suggested that being watched could make people more self-aware and stop the natural reactions needed for facial feedback to work. Later, @noah_when_2018 investigated this concern by examining whether the presence of video cameras could alter participants' behavior. In two experiments, they compared conditions with and without video monitoring. The results showed that the pen-in-mouth task influenced results only when participants were not being observed. This suggests that the facial feedback effect is influenced by whether people feel they are being monitored, and that subtle changes in the study design can affect the results.
+
+More recently, @coles_multi-lab_2022 contributed to this debate with the Many Smiles Collaboration, designed as a large-scale, pre-registered multi-lab project to test the facial feedback hypothesis through both direct and conceptual replications.
+
+> [#definition]{#def-conceptualreplication style="color: orchid"} Conceptual Replication
+>
+> A study that aims to recreate the gist of a prior study without using an identical procedure. These studies often aim to explore boundary conditions, the influence of specific variables, or aim to broaden and extend a certain finding.
+
+Conducted across 19 countries with data from 3,878 participants, their study used various methods to examine the reliability of facial feedback effects. Participants were asked to imitate prototypical or less prototypical facial expressions of happiness (facial mimicry paradigm) or to perform voluntary facial movements (voluntary facial action). In addition, the pen-in-the-mouth paradigm from @strack_inhibiting_1988 was used, in which participants held the pen either between their teeth or between their lips.
+
+The results showed that, when present, the effects were small, supporting the idea that facial feedback contributes to emotion but is not its primary determinant. There was consistent evidence of emotional amplification in voluntary smiling and mimicry tasks, while results for the pen-in-mouth task were less clear, even when avoiding video recording. It is worth noting that Strack was directly involved in this project, highlighting the project’s collaborative effort to test the facial feedback hypothesis. The results suggest that different mechanisms may underlie the effects of each task. Rather than refuting the facial feedback hypothesis, Coles et al.’s [-@coles_multi-lab_2022] findings frame it as a conditional and modest phenomenon, dependent on how facial expressions are elicited and on contextual factors such as participant awareness.
+
+## Conclusion
+
+Attempts to replicate Strack et al.’s [-@strack_inhibiting_1988] original findings have produced inconsistent results. Importantly, the Many Smiles Collaboration [@coles_multi-lab_2022] did not provide clear evidence regarding the emotional amplification effect of the pen-in-mouth task used in Strack et al.'s [-@strack_inhibiting_1988] study. However, this recent project broadened the scope of investigation by including additional paradigms, such as voluntary smiling and facial mimicry, which yielded small but consistent facial feedback effects.
+
+Overall, the evidence suggests that facial feedback can influence emotional experience, but its effects are small, sensitive to context, and not consistent across all types of manipulations. These studies also highlight the importance of identifying the conditions under which facial feedback operates.
+
+From the perspective of James-Lange theory, the findings remain consistent with the idea that bodily changes contribute to affective experience, though in a more limited and conditional way than originally assumed.
+
+> [#yourturn]{style="color: green"}
+>
+> In light of these results, would you say that smiling more will make people feel happier?
+
+In short, the relationship between facial expressions and emotions is complex. Such effects may occur, but they are usually small, context-dependent, and further research is still needed to determine when and how they emerge. Smiling alone is unlikely to serve as a simple route to happiness.

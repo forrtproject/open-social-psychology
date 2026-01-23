@@ -1,0 +1,55 @@
+# [Heat Priming-Hostile Perception Effect]{style="color: #004b23"}
+
+[written by Hannes Dieterle (original draft), and Patrícia Arriaga (revision)]{style="color: gray;"}
+
+## 1. The Classic
+
+Does what you have recently seen, heard or read affect how you think, even if you do not realise it? This is a central question behind the concept of priming, which has been used to describe how subtle cues, like words related to temperature, might influence our thoughts, feelings, and behaviours.
+
+The verb “to prime” means “to activate”. In psychology, “priming” refers to the idea that exposure to a stimulus can activate mental representations, making it easier or faster to respond to that same stimulus later (direct priming), or to something related to it (indirect priming).
+
+> [#definition]{#def-priming style="color: orchid"} Definition of “priming”
+>
+> “Priming refers to facilitative effects of an encounter with a stimulus on subsequent processing of the same stimulus (direct priming) or a related stimulus (indirect priming)" [@tulving_priming_1982, pg.336].
+
+To test how such subtle verbal cues might affect person perception, @nathan_dewall_hot_2009 conducted an experiment (Study 2) in which they investigated the relationship between exposure to words associated with hot and cold temperatures and the subsequent evaluation of a fictitious person. The 72 undergraduate students who participated in this experiment were first randomly assigned to one of three groups, in which they were primed with temperature-related or neutral words.
+
+Their task consisted of creating grammatically correct sentences from five scrambled words. In the "heat prime" and “cold-prime” groups, six of the 13 sentences contained words associated with heat or cold, respectively. The "neutral prime" group’s task did not include any temperature-associated words; therefore, it served as the “control group”.
+
+A “control” group is often used as a baseline in experiments, allowing researchers to see whether the changes observed in the experimental groups are due to the manipulation, and not to other factors. In this study, the control group was created to test whether exposure to “hot” or “cold” words influenced how participants judged the fictitious person, compared to a group with no temperature cues.
+
+Thus, the priming condition, with the three levels (heat, cold, and neutral), was the independent variable (IV) in this experiment. Subsequently, all participants read a text about a fictitious man named Donald, whose behaviour was described in an ambiguous but potentially hostile manner. Participants were asked to rate Donald's personality in four questions related to hostility traits. The responses to these four questions were combined into an index of hostile perception, which served as the dependent variable (DV).
+
+> [#yourturn]{style="color: green"}
+>
+> Why did the researchers measure the perception of Donald’s personality after participants were primed with the concepts of heat or cold, compared to the neutral control group?
+
+The underlying assumption is that priming can increase the accessibility of specific personality-related concepts or trait descriptions in memory, which in turn may shape how ambiguous information about others is interpreted [@srull_role_1979]. Additionally, theoretical models such as the General Aggression Model [@anderson_temperature_nodate] integrate the temperature–aggression hypothesis, proposing that hot temperatures can serve as situational inputs that activate aggression-related thoughts and feelings. In Study 2, @nathan_dewall_hot_2009 tested the more specific hypothesis that exposure to heat-related words would increase hostile perceptions of an ambiguously described person, compared to both neutral and cold-related words.
+
+To compare the groups, the authors adopted the null hypothesis significance testing approach [NHST, @brandt_replication_2014; @cumming_new_2014; @wasserstein_asa_2016], by comparing the mean scores on the hostility index across the three priming conditions. In this approach, a result is considered statistically significant when the probability of observing a difference is sufficiently low, typically less than 5% (p < .05), assuming that there is actually no real difference between groups (the null hypothesis). As is typical in psychological research, the authors used this threshold to determine whether the differences between group means were statistically significant.
+
+@nathan_dewall_hot_2009 results showed that the "heat prime" group rated Donald as significantly more hostile than both the “neutral” and the “cold” groups (heat vs. cold: d = .67, p < .03; heat vs. neutral: d = .63, p < .05). Moreover, no significant differences were found between the “cold” and the “neutral” groups (p = .85).
+
+These findings suggest that exposure to heat-related words increased participants’ tendency to perceive ambiguous behavior as more hostile, supporting the hypothesis that temperature-related concepts can activate hostility-related trait perception. The absence of a statistical difference between the “cold” and “neutral” groups (p > .05) further indicates that this effect was specific to heat-related priming, rather than a general effect of temperature-related concepts.
+
+## 2. The Aftermath
+
+In 2014, McCarthy conducted two replication studies of this experiment [@mccarthy_close_2014].
+
+> [#yourturn]{style="color: green"}
+>
+> What criteria should a replication meet in order to be relevant and helpful for examining the effect?
+
+There are different types of replication studies, each with different criteria and goals, although both aim to test the same theoretical claims. Close replications aim to verify whether the original effect can be found again under the same conditions as the original study, using the same method. In contrast, conceptual replications test the generalisability of an effect across contexts and may rely on different operational definitions or use a different method [@brandt_replication_2014].
+
+By following Brandt et al.'s [-@brandt_replication_2014] definition and guidelines for close replication, @mccarthy_close_2014 designed two studies aiming to reproduce the original procedures but using larger samples. He justified these attempts to replicate with three arguments. First, a single study is not sufficient to establish the reliability of an effect, and further testing is necessary. Second, the original study had a relatively small sample size, which can lead to unstable effect size estimates; and larger samples are required. Third, the original findings had already been widely cited, so it is important to verify whether they could be replicated before treating them as reliable knowledge.
+
+In McCarthy's [-@mccarthy_close_2014] first replication study, involving 182 participants, participants were randomly assigned to one of three priming conditions (heat, cold, or neutral) and completed the same scrambled sentence task as in the original. After the priming task, they read the same ambiguous story about a fictitious man and rated his hostility using the same four items to measure hostile perceptions. The second replication, conducted online with 507 participants, used the same critical heat- and cold-related words as in the original experiment, but the scrambled sentences in which these words appeared were slightly different from the original materials. Otherwise, the procedure closely followed the original study.
+
+The results of these two replication studies did not support the original hypotheses. Donald’s rated hostility did not differ significantly between the heat and the cold prime groups. Thus, the findings reported by @nathan_dewall_hot_2009 could not be replicated. Additionally, @mccarthy_close_2014 conducted a meta-analysis combining the original study with the two replications. This analysis also indicated a non-significant effect of heat priming on hostile perceptions (d = 0.18, p < .05). Based on these results, @mccarthy_close_2014 concluded that priming individuals with heat-related concepts does not reliably affect hostile perceptions of others, and that the original effect is likely non-existent or too weak to be considered meaningful.
+
+## 3. Conclusion
+
+@mccarthy_close_2014 tried to replicate DeWall and Bushman’s [-@nathan_dewall_hot_2009] study twice and found no evidence that heat-related words increase hostile perceptions. Their meta-analysis combining the original and replication studies also showed a non-significant effect, suggesting the original finding is likely non-existent or too weak to be relevant.
+
+This replication failure reflects a broader debate in psychology that social priming effects may be fragile and difficult to reproduce, particularly when it comes to temperature-related words and their relation to hostility. Moreover, these studies evaluated hostile perceptions rather than aggressive behaviour. Therefore, the findings do not directly challenge broader theoretical models such as the General Aggression Model [@anderson_temperature_nodate], which integrates the temperature–aggression hypothesis through a variety of situational, cognitive, and affective mechanisms. What the replications do suggest is that simple word-based priming of hot and cold temperature is unlikely to be a reliable predictor of person perception in terms of hostility.

@@ -35,8 +35,15 @@ book:
     - howthisbook.qmd
     - howto.qmd
     - intro.qmd
-    - chapter1.qmd
     - chapter2.qmd
+    - chapter5.qmd
+    - chapter8.qmd
+    - chapter12.qmd
+    - chapter15.qmd
+    - chapter16.qmd
+    - chapter17.qmd
+    - chapter18.qmd
+    - chapter20.qmd
     - summary.qmd
     - references.qmd
     - glossary.qmd

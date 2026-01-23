@@ -1,21 +1,118 @@
 # [Glossary]{style="color: #004b23"} {.unnumbered}
 
-In this glossary, you can find the terms defined in this book in alphabetical order. Headings are clickable links that show you how the context of the term in one of the chapters of this book.
-
-#### [Availability Heuristic](chapter2.qmd#def-availabilityheuristic)
+#### [Availability Heuristic](chapter16.qmd#def-availabilityheuristic)
 A mental shortcut where people estimate the likelihood of an event based on how easily examples come to mind, which can lead to overestimating rare but memorable occurrences.
 
-#### [Bias](chapter2.qmd#def-bias)
+#### [Attitude](chapter15.qmd#def-attitude)
+The cognition, affect and behavioral tendencies towards a certain object.
+
+#### [Bias](chapter16.qmd#def-bias)
 A systematic distortion of perception or judgment.
 
-#### [Effect Size](chapter2.qmd#def-effectsize)
+#### [Cherry-Picking](chapter12.qmd#def-cherry-picking)
+Reporting only the data, outcomes, or time frames that support one’s hypothesis while ignoring or dismissing those that do not. This makes the story or articles simpler and might make them more publishable, but provides a distorted view of the evidence.
+
+#### [Conceptual Replication](chapter17.qmd#def-conceptualreplication)
+A study that aims to recreate the gist of a prior study without using an identical procedure. These studies often aim to explore boundary conditions, the influence of specific variables, or aim to broaden and extend a certain finding.
+
+#### Contact Interventions ([Chapter 12](chapter12.qmd#def-contactinterventions) [Chapter 20](chapter20.qmd#def-contactinterventions))
+Carefully tailored interventions that apply intergroup contact in real-world settings to try and reduce prejudice among social groups.
+
+#### [Construct Validity](chapter15.qmd#def-constructvalidity)
+The extent to which a test measures the theoretical construct or concept it is intended to measure.
+
+#### [Discriminant Validity](chapter15.qmd#def-discriminantvalidity)
+The extent to which a test is unrelated to measures designed to assess theoretically distinct constructs.
+
+#### [Dynamogenesis](chapter8.qmd#def-dynamogenesis)
+An increase in the mental or motor activity of an already functioning bodily system that accompanies any added sensory stimulation.
+
+#### [Effect Size](chapter16.qmd#def-effectsize)
 A quantitative measure of the magnitude of a phenomenon, used to assess the practical significance of research findings.
 
-#### [Ego Depletion](chapter1.qmd#def-egodepletion)
+#### [Editorial](chapter2.qmd#def-editorial)
+An introductory article written by the editors of a special issue in an academic journal. It outlines the purpose, scope, and significance of the special issue, provides an overview of the included articles, and often highlights key themes, trends, or gaps in the research field.
+
+#### [Ego Depletion](chapter5.qmd#def-egodepletion)
 A concept that describes willpower as a limited resource that can be used up (depleted).
 
-#### [False Consensus Effect](chapter2.qmd#def-falseconsensus)
+#### [Experiment](chapter12.qmd#def-experiment)
+A study where researchers deliberately manipulate one or more variables and randomly assign participants to different conditions. Random assignment helps ensure the groups are similar before the intervention, so differences in outcomes are more likely to be caused by the manipulation rather than by pre-existing differences.
+
+#### [Experiment](chapter20.qmd#def-experiment)
+A study where researchers deliberately manipulate one or more variables and randomly assign participants to different conditions. Random assignment helps ensure the groups are similar before the intervention, so differences in outcomes are more likely to be caused by the manipulation rather than by pre-existing differences.
+
+#### [False Consensus Effect](chapter16.qmd#def-falseconsensus)
 A cognitive bias where individuals overestimate the extent to which others share their beliefs, preferences, and behaviors.
 
-#### [Multi-Lab Study](chapter1.qmd#def-multilabstudy)
+#### [Generalized Drive](chapter8.qmd#def-generalizeddrive)
+The presence of others leads to an increase in generalized drive, thus facilitating habitualized dominant responses.
+
+#### [Implicit Association Test](chapter15.qmd#def-implicitassociationtest)
+A reaction-time task that measures the strength of automatic associations between concepts (e.g., flowers and positivity) by comparing how quickly people classify paired categories. Faster responses indicate stronger underlying associations.
+
+#### [Implicit Attitude](chapter15.qmd#def-implicitattitude)
+An enduring mental disposition toward something that is not consciously identified and of which a person may lack awareness.
+
+#### [Implicit Social Cognition](chapter15.qmd#def-implicitsocialcognition)
+The automatic, unconscious mental processes that influence how we perceive, evaluate, and interact with others.
+
+#### [Incongruent Association](chapter15.qmd#def-incongruentassociation)
+A mental relationship between two objects or concepts characterized by lack of harmony or misalignment.
+
+#### [Intergroup Bias](chapter12.qmd#def-intergroupbias)
+Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
+
+#### [Intergroup Bias](chapter20.qmd#def-intergroupbias)
+Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
+
+#### Meta-analysis ([Chapter 12](chapter12.qmd#def-meta-analysis) [Chapter 20](chapter20.qmd#def-meta-analysis))
+A statistical technique that combines the results of multiple independent studies to estimate an overall effect. Meta-analyses can reveal patterns across a large body of research, but the quality of their conclusions depends on the quality and comparability of the included studies.
+
+#### [Moderator](chapter12.qmd#def-moderator)
+A variable that modifies the relationship between independent and dependent variables.
+
+#### [Multi-Lab Study](chapter5.qmd#def-multilabstudy)
 A research project in which researchers working at several different locations (laboratories) implement the same experimental design and then analyse the data together.
+
+#### [Multimethod Study](chapter15.qmd#def-multimethodstudy)
+Research that employs two or more distinct methods.
+
+#### [Observational Research](chapter12.qmd#def-observationalresearch)
+A study design where researchers measure variables as they naturally occur, without manipulating them. Observational studies can reveal associations between variables but cannot, on their own, establish that one causes the other.
+
+#### [Pygmalion Effect](chapter2.qmd#def-pygmalioneffect)
+The phenomenon in which higher expectations from others lead to improved performance.
+
+#### [Prejudice](chapter12.qmd#def-prejudice)
+A negative attitude toward a group and its members, often based on stereotypes rather than direct experience.
+
+#### [Priming](chapter20.qmd#def-priming)
+A psychological phenomenon where exposure to one stimulus (e.g., a word, image, or idea) influences how you respond to a later stimulus, often without conscious awareness.
+
+#### [Representativity](chapter20.qmd#def-representativity)
+The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population (Rudolph, J. E., 2023).
+
+#### [Social Comparison Theory](chapter8.qmd#def-socialcomparisontheory)
+According to the social comparison theory, people are motivated to assess their own beliefs and skills by comparing them to external images. These images can be comparisons to other people or a reference to physical reality. Individuals have a tendency to view images portrayed by others as accessible and realistic and subsequently make comparisons between themselves, other people, and these idealized images.
+
+#### [Social Desirability](chapter15.qmd#def-socialdesirability)
+The tendency to want to be viewed positively by others, often by aligning with socially approved behaviors and attitudes.
+
+#### [Socially Desirable Responding](chapter15.qmd#def-sociallydesirableresponding)
+The act of providing inauthentic responses to better present oneself favorably according to current social norms.
+
+#### [Special Issue](chapter2.qmd#def-specialissue)
+A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.
+
+#### [Treatment and Control Conditions](chapter12.qmd#def-treatmentandcontrolconditions)
+In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.
+
+#### [Treatment and Control Conditions](chapter20.qmd#def-treatmentandcontrolconditions)
+In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.
+
+#### [Zygomaticus Major Muscles](chapter17.qmd#def-zygomaticusmajormuscles)
+These bilateral facial muscles, when activated, raise the corners of the mouth in an upward and lateral direction, facilitating expressions such as smiling.
+
+#### [Orbicularis Oris Muscles](chapter17.qmd#def-orbicularisoris)
+These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.

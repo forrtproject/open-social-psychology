@@ -1,0 +1,106 @@
+# [Implicit Association Test and Attitudes]{style="color: #004b23"}
+
+[written by Karolin Kessel (original draft), Bradley Baker (revision), Savannah C. Lewis (revision)]{style="color: gray;"}
+
+## 1. The Classic
+
+How can we know what people truly think about a certain topic? This question is difficult to answer, given that people are sometimes motivated to misreport their true attitudes. 
+
+> [#definition]{#def-attitude style="color: orchid"} Definition of “attitude”
+>
+> The cognition, affect and behavioral tendencies towards a certain object.
+
+For example, if a friend was very excited about a new band they discovered, you might feel like you don’t want to burst their bubble of joy by telling them you don’t enjoy the music as much as your friend. Because it is socially desirable to respond positively, to mirror your friends’ liking of the band, you might misreport your true attitude to them.
+
+> [#yourturn]{style="color: green"}
+>
+> Think back to a time you thought or felt differently from what you expressed publicly. Why did you not report the truth?
+
+Researchers in social psychology have been working on ways to assess and measure people’s attitudes towards a multitude of different topics. The Implicit Association Test (IAT), developed by @Greenwald-et-al_1998, is a psychological tool to measure implicit attitudes that people may not be aware of or may not openly express. 
+
+> [#definition]{#def-implicitattitude style="color: orchid"} Implicit Attitude
+>
+> An enduring mental disposition toward something that is not consciously identified and of which a person may lack awareness.
+
+The test works by measuring how quickly people process and respond to pairs of words or images. It relies on the idea that people respond faster when two concepts that are closely linked – or associated – in their mind (a congruent association) are paired than when the pairing feels mismatched or unrelated [an incongruent association, @Jhangiani-Tarry_2022]. 
+
+
+> [#definition]{#def-association style="color: orchid"} Association
+>
+> “A connection or relationship between two items (e.g., ideas, events, feelings) with the result that experiencing the first item activates a representation of the second” [@APA-dict_2018].
+
+> [#definition]{#def-congruentassociation style="color: orchid"} Congruent Association
+>
+> A mental relationship between two objects or concepts characterized by agreement or harmony.
+
+> [#definition]{#def-incongruentassociation style="color: orchid"} Incongruent Association
+>
+> A mental relationship between two objects or concepts characterized by lack of harmony or misalignment.
+
+
+Measuring these reaction times allows researchers to understand the strength of automatic associations between concepts. Being able to measure implicit attitudes provides a different perspective on how people feel than is available from simply asking people to report their attitudes, either because people may not realize their preferences or may not be willing to share them. The IAT is designed to reveal unconscious biases and remove bias that can be introduced by people simply giving answers they think are socially acceptable, rather than what they truly believe.
+
+
+> [#definition]{#def-implicitassociationtest style="color: orchid"} Implicit Association Test
+>
+> A reaction-time task that measures the strength of automatic associations between concepts (e.g., flowers and positivity) by comparing how quickly people classify paired categories. Faster responses indicate stronger underlying associations.
+
+In the classic study by @Greenwald-et-al_1998, participants completed a task called the Implicit Association Test (IAT) to measure automatic associations. They were asked to quickly sort words and pictures into four groups: two groups of objects (like flowers and insects) and two groups of feelings (pleasant and unpleasant words). The test had two main parts. In one part, participants pressed the same key for flowers and pleasant words, and another key for insects and unpleasant words. In the other part, the pairings were switched: flowers with unpleasant words and insects with pleasant words. Participants had to respond as fast and accurately as possible. If someone naturally associates flowers with pleasantness, they will respond faster when those two categories are paired together.
+
+> [#yourturn]{style="color: green"}
+>
+> Why would researchers not simply ask participants about their attitudes?
+
+This approach is used to capture unconscious connections between concepts in memory, which in the original test format were aimed at assessing implicit stereotypes and prejudices, but have been used to identify a variety of subtle attitudes in various subject areas [@Nosek-Smyth_2007].
+
+> [#yourturn]{style="color: green"}
+>
+> Do you think that reaction times or spontaneous reactions are an appropriate measure of implicit cognitions such as stereotypes? Why or why not?
+
+## 2. The Aftermath
+
+In his study, “The Implicit Association Test: A Method in Search of a Construct,” Ulrich Schimmack [-@Schimmack_2021] examines the power of the IAT in revealing individual differences in implicit social cognition. 
+
+> [#definition]{#def-implicitsocialcognition style="color: orchid"} Implicit Social Cognition
+>
+> The automatic, unconscious mental processes that influence how we perceive, evaluate, and interact with others.
+
+
+The results show that there is insufficient evidence for the construct validity of the test [@Schimmack_2021], in other words, that there is not enough proof that the IAT measures what it was intended to measure (implicit bias), rather than something else. This can be seen when scores from a test aren’t related to other measures of the same concept in the expected ways. Based on examination of several multimethod studies, Schimmack found little or no evidence of discriminant validity compared to measures of explicit attitudes, making it unclear whether the test really captures a different type of attitude (implicit, rather than explicit). Problems with discriminant validity show up when a measure’s scores are too similar to those of an established measure for a different concept, making it unclear whether the new measure is assessing something unique. That is, @Schimmack_2021 raises questions regarding a lack of evidence that the IAT adequately measures individual-level differences in implicit associations and the extent to which the IAT measures something different from self-report measures of explicit associations.
+
+> [#definition]{#def-multimethodstudy style="color: orchid"} Multimethod Study
+>
+> Research that employs two or more distinct methods.
+
+> [#definition]{#def-discriminantvalidity style="color: orchid"} Discriminant Validity
+>
+> The extent to which a test is unrelated to measures designed to assess theoretically distinct constructs.
+
+> [#definition]{#def-constructvalidity style="color: orchid"} Construct Validity
+>
+> The extent to which a test measures the theoretical construct or concept it is intended to measure.
+
+Schimmack highlights that these deficiencies have been overlooked for many years and finds that explicit measures are more valid than the IAT in all areas. This means simply asking participants about their attitudes might indeed be the better measure of these attitudes than making them take the IAT. At the same time, Schimmack also argues that the IAT can be used as a complementary measurement tool to explicit measures for sensitive settings to reduce measurement errors by employing a multi-method measurement model. In other words, using both explicit measures and the IAT might be the best approach.
+
+> [#yourturn]{style="color: green"}
+>
+> What are the pros and cons of using this kind of test in bias training?
+
+## 3. Conclusion
+
+The establishment of implicit association testing resulted in one of the most influential articles in personality and social psychology [@Greenwald-et-al_1998], and established the foundation for a variety of new (social psychological) theories [@Schimmack_2021]. At the same time, the difficulties identified by Schimmack illustrate the extent to which social psychological theory formation is highly complex. Particularly when investigating the discrepancy between human thinking and socially desirable conformity, as well as its (uncertain) influence on behavior, precise (construct) differentiation and validity testing are essential in research. Extensive research has used and built on the IAT [@Greenwald-et-al_2003; @Greenwald-et-al_2009] and related approaches to measuring the strength of automatic associations or using implicit measures to bypass bias in research data due to socially desirable responding by study participants.
+
+> [#definition]{#def-socialdesirability style="color: orchid"} Social Desirability
+>
+> The tendency to want to be viewed positively by others, often by aligning with socially approved behaviors and attitudes.
+
+> [#definition]{#def-sociallydesirableresponding style="color: orchid"} Socially Desirable Responding
+>
+> The act of providing inauthentic responses to better present oneself favorably according to current social norms.
+
+However, @Schimmack_2021 highlighted weaknesses of the IAT regarding construct and discriminant validity as a measure of implicit constructs. He emphasizes the significance of being cautious when making claims about subtle ideas based on the IAT and highlights the variation in the IAT’s validity depending on the construct being measured. If the IAT is not measuring implicit attitudes (unconscious biases) or does not provide additional information beyond simply asking people about their attitudes, as suggested by Schimmack, then the test offers limited utility to researchers and calls into question findings that rely on the IAT.
+
+
+> [#yourturn]{style="color: green"}
+>
+> The IAT was designed to assess automatic associations people may hold unconsciously. However, if implicit and explicit attitudes are highly correlated, what are the implications for how we understand the relationship between conscious and unconscious mental processes?
