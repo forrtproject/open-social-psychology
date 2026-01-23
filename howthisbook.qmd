@@ -9,9 +9,8 @@ It started by bringing together the work of students at Heidelberg University du
 Researchers working on (areas related to) social psychology then revised these chapters. Through engaging the communities at the Big Team Science Conference 2024 ([BTScon](https://bigteamscienceconference.github.io)), the 2025 annual meeting of the Society for the Improvement of Psychological Science ([SIPS](http://improvingpsych.org)) and the Framework for Open and Reproducible Research Training ([FORRT](https://forrt.org)), we found collaborators willing to contribute their knowledge and expertise to turning chapter drafts into an approachable and fact checked resource. 
 
 ![](FORRT.png "FORRT logo")
-<!--
+
 An *International Bridge-Building Award* of the Society for Personality and Social Psychology ([SPSP](https://spsp.org)) to members of [FORRT](https://forrt.org) in 2026 facilitated three online hackathons with researchers from the Global South, as well as marginalized and liminal scholars. 
---->
 
 The creation of this book was also supported by the German Reproducibility Network ([GRN](https://reproducibilitynetwork.de)).
 

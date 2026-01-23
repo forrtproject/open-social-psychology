@@ -15,7 +15,7 @@ Reporting only the data, outcomes, or time frames that support one’s hypothesi
 #### [Conceptual Replication](chapter17.qmd#def-conceptualreplication)
 A study that aims to recreate the gist of a prior study without using an identical procedure. These studies often aim to explore boundary conditions, the influence of specific variables, or aim to broaden and extend a certain finding.
 
-#### Contact Interventions ([Chapter 12](chapter12.qmd#def-contactinterventions) [Chapter 20](chapter20.qmd#def-contactinterventions))
+#### Contact Interventions ([Chapter 12](chapter12.qmd#def-contactinterventions), [Chapter 20](chapter20.qmd#def-contactinterventions))
 Carefully tailored interventions that apply intergroup contact in real-world settings to try and reduce prejudice among social groups.
 
 #### [Construct Validity](chapter15.qmd#def-constructvalidity)
@@ -36,10 +36,7 @@ An introductory article written by the editors of a special issue in an academic
 #### [Ego Depletion](chapter5.qmd#def-egodepletion)
 A concept that describes willpower as a limited resource that can be used up (depleted).
 
-#### [Experiment](chapter12.qmd#def-experiment)
-A study where researchers deliberately manipulate one or more variables and randomly assign participants to different conditions. Random assignment helps ensure the groups are similar before the intervention, so differences in outcomes are more likely to be caused by the manipulation rather than by pre-existing differences.
-
-#### [Experiment](chapter20.qmd#def-experiment)
+#### Experiment ([Chapter12](chapter12.qmd#def-experiment), [Chapter 20](chapter20.qmd#def-experiment))
 A study where researchers deliberately manipulate one or more variables and randomly assign participants to different conditions. Random assignment helps ensure the groups are similar before the intervention, so differences in outcomes are more likely to be caused by the manipulation rather than by pre-existing differences.
 
 #### [False Consensus Effect](chapter16.qmd#def-falseconsensus)
@@ -60,13 +57,10 @@ The automatic, unconscious mental processes that influence how we perceive, eval
 #### [Incongruent Association](chapter15.qmd#def-incongruentassociation)
 A mental relationship between two objects or concepts characterized by lack of harmony or misalignment.
 
-#### [Intergroup Bias](chapter12.qmd#def-intergroupbias)
+#### Intergroup Bias ([Chapter 12](chapter12.qmd#def-intergroupbias), [Chapter 20](chapter20.qmd#def-intergroupbias))
 Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
 
-#### [Intergroup Bias](chapter20.qmd#def-intergroupbias)
-Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
-
-#### Meta-analysis ([Chapter 12](chapter12.qmd#def-meta-analysis) [Chapter 20](chapter20.qmd#def-meta-analysis))
+#### Meta-analysis ([Chapter 12](chapter12.qmd#def-meta-analysis), [Chapter 20](chapter20.qmd#def-meta-analysis))
 A statistical technique that combines the results of multiple independent studies to estimate an overall effect. Meta-analyses can reveal patterns across a large body of research, but the quality of their conclusions depends on the quality and comparability of the included studies.
 
 #### [Moderator](chapter12.qmd#def-moderator)
@@ -105,14 +99,11 @@ The act of providing inauthentic responses to better present oneself favorably a
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.
 
-#### [Treatment and Control Conditions](chapter12.qmd#def-treatmentandcontrolconditions)
+#### Treatment and Control Conditions ([Chapter 12](chapter12.qmd#def-treatmentandcontrolconditions), [Chapter 20](chapter20.qmd#def-treatmentandcontrolconditions))
 In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.
-
-#### [Treatment and Control Conditions](chapter20.qmd#def-treatmentandcontrolconditions)
-In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.
-
-#### [Zygomaticus Major Muscles](chapter17.qmd#def-zygomaticusmajormuscles)
-These bilateral facial muscles, when activated, raise the corners of the mouth in an upward and lateral direction, facilitating expressions such as smiling.
 
 #### [Orbicularis Oris Muscles](chapter17.qmd#def-orbicularisoris)
 These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.
+
+#### [Zygomaticus Major Muscles](chapter17.qmd#def-zygomaticusmajormuscles)
+These bilateral facial muscles, when activated, raise the corners of the mouth in an upward and lateral direction, facilitating expressions such as smiling.
