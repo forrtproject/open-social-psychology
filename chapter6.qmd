@@ -1,0 +1,141 @@
+# [Feeling the Future]{style="color: #004b23"}
+
+[written by Melissa Engelbart (original draft), and Katerina Michalaki (revision)]{style="color: gray;"}
+
+## The Classic
+
+Humans have long been interested in telling the future. Whether wanting to know if we should take an umbrella to work because it might rain in the evening or wishing one could foretell the lottery numbers on a jackpot draw, our interest in the future is pervasive.
+
+> [#yourturn]{style="color: green"}
+>
+> What was the last time you wished you could tell the future?
+
+Some endeavors of telling the future are relatively successful: We can, for instance, forecast the weather or make targeted predictions for stock market behavior. These approaches use historical data and up-to-date information on relevant developments (e.g., rain in a neighboring area, quarterly company reports) to predict what will happen. In other instances, forecasting is necessarily futile, because events are random. For instance, a truly fair 6-from-49 lottery draw is random. We cannot hope to accurately predict the winning numbers with a probability higher than 1 in 13,983,816. But what if we could?
+
+Some psychological research deals with the idea that individuals may anticipate unpredictable events or stimuli. This forecasting ability for random events has been referred to as PSI [@ThoulessWiesner1946] or as precognition. There is even some empirical evidence demonstrating precognition performance above-chance levels – like being able to predict a lottery draw, after all [@HonortonFerrari1989].
+
+> [#definition]{#def-psi style="color: orchid"} Psi
+>
+> A descriptive term used in parapsychology to describe a set of paranormal processes including telepathy, clairvoyance, psychokinesis, precognition, and premonition. Telepathy refers to the extrasensory transfer of information, and clairvoyance refers to the perception of events or stimuli that have no sensory foundations. In contrast, psychokinesis refers to the effect of intentions on physiological or physical processes.
+
+> [#definition]{#def-precognition style="color: orchid"} Precognition or Premonition
+>
+> The conscious cognitive awareness or affective apprehension of a future event that could not otherwise be anticipated through any known inferential process [@Bem2011].
+
+Across 9 experiments, Bem [-@Bem2011] investigated what he termed extrasensory perception (ESP), which refers to the idea that a future event can influence individuals’ behavior in the present. Bem conducted numerous experiments on this idea and published them in one manuscript. In the first laboratory study, 100 undergraduate students completed 36 trials of a computer-based task in which they were asked to predict which of two curtains in the initial screen concealed an erotic image. Bem hypothesized that participants could precognitively detect erotic stimuli with statistically significant accuracy levels. Following the directions of previous studies [@HonortonEtAl1990], Bem constructed and administered a stimulus-seeking scale to explore whether high psi performance is associated with stimulus-seeking tendencies. From the total sample, 40 participants completed 36 trials, comprising equal numbers of erotic, negative, and neutral images. The sequence of trials and the spatial positioning of the images were randomly determined. The remaining 60 participants completed 18 trials featuring erotic images and 18 trials featuring non-erotic positive images, which varied in arousal level. According to the results, participants correctly identified the future position across 53.1% of the trials containing erotic pictures. This means they seemed to be significantly better than chance (50%, p = 0.01). Conversely, their ability to retroactively identify the location of a non-erotic image was below chance levels. Individuals’ performance when asked to locate where erotic and non-erotic images would be presented was different (p = 0.001): Participants could predict the future location of erotic stimuli, but could not predict the location of non-erotic stimuli on screen.
+
+In the second experiment, Bem explored whether individuals avoided unforeseen negative outcomes at a pre-cognitive level. One hundred and fifty undergraduate students were presented with two neutral images and were asked to indicate which one they preferred. After participants completed their choice, the computer randomly selected one of the two images as the target. If the participant had chosen the target, a pleasant image was briefly flashed on the screen. If they had chosen the other image, a highly arousing, negative image was flashed instead.
+
+> [#yourturn]{style="color: green"}
+>
+> What would you expect to happen if individuals could foretell which images would be followed by an unpleasant picture?
+
+Bem hypothesized that individuals would prefer the image that would avoid exposure to a negative outcome. Results aligned with this hypothesis. Participants tended to choose the image that avoided the negative stimulus more often than would be expected by chance. This means that, again, the results seemed to suggest that participants could feel the future: They seemed to avoid negative stimuli.
+
+In the third and fourth experiments, Bem conducted two “retroactive priming” experiments to explore whether future events influence present behavior. Across two separate studies, two hundred participants viewed emotionally evocative images and quickly judged each one as either pleasant or unpleasant. Immediately after their response, either a positive or a negative priming word was briefly flashed on the screen. In congruent trials, the word matched the emotional valence of the image, whereas incongruent trials consisted of images and words with different valence (e.g., a pleasant image followed by an unpleasant word). In Experiment 3, priming words were randomly selected after participants’ response. Experiment 4 refined this approach by assigning each image a fixed pair of semantically related positive and negative words in advance, making the trial outcomes unpredictable. A standard forward priming condition was included across the two studies to ensure that congruent trials would lead to quicker reactions than incongruent ones. In the standard priming condition, pictures were presented before the judgement of the images, like it is usually done in priming experiments. Across all priming conditions, reaction time was significantly shorter on congruent trials, even when the primed word appeared after participants’ judgment. Bem concluded that participants were able to - at least implicitly - foretell if the word they reacted to would be followed by a matching image or not. This means that, again, these studies seemed to show that people could feel the future.
+
+> [#definition]{#def-priming style="color: orchid"} Priming
+>
+> Priming refers to the effects of a subtle cue on future behavior. The primed stimulus works by activating related concepts and making them easier to access. Typical priming techniques include the very short exposure of participants to a visual, auditory, olfactory, or haptic cue. For instance, presenting the word “lion” may lead to faster categorization of the word “cat” because the two concepts represent the same “animal” category.
+
+In three subsequent experiments, Bem built on the idea of retroactive habituation and investigated a provocative question: Do future experiences shape present preferences? These studies tested whether repeatedly showing a stimulus, after a participant made a choice, could retroactively influence their initial preference. In Experiments 5 and 6, participants were presented with pairs of images and asked to select the one they preferred. The images included negative, neutral, and erotic content. After the choice, one image was randomly selected and shown repeatedly without the participant's awareness. This means the image was flashed on the screen below the threshold of where people can actually perceive and process what they are seeing.
+
+> [#definition]{#def-subliminal style="color: orchid"} Subliminal
+>
+> Subliminal refers to the exposure of stimuli for such a short amount of time that humans are not aware of the stimuli perceived and therefore cannot actively process the information.
+
+> [#yourturn]{style="color: green"}
+>
+> What do you think Bem expected to happen?
+
+> [#definition]{#def-habituation style="color: orchid"} Habituation
+>
+> Habituation is a phenomenon where we get used to a stimulus, following its repeated exposure. As a consequence, the reaction to the stimuli is reduced.
+
+Results showed that, even before participants were exposed to the repeatedly flashed image, they preferred the image that was later shown. This was the case when the pair involved negative images, suggesting that future exposure may reduce avoidance: It seemed like habituation to the stimuli repeated in the future made them less aversive in the present. However, with erotic images, they were more likely to prefer the image that was not later repeatedly shown. Bem thought this indicated a decrease in liking for erotic stimuli that would later be shown repeatedly.
+
+Experiment 7 focused on exploring the retroactive induction of boredom with the use of neutral images and visible exposures instead of subliminal ones. Participants’ overall hit rate was below 50% and not statistically significantly different from chance. However, participants with high stimulus-seeking characteristics (a “tendency to seek out stimulation,” Bem, 2011; [-@Bem2011], p. 410) were reported to avoid the image that would later be presented repeatedly. These findings have been attributed to a potentially higher retroactive boredom effect for those more sensitive to overstimulation.
+
+In Studies 8 and 9, Bem conducted two “backward recognition” experiments to unravel whether memory can be influenced by future cognitive ability.
+
+> [#yourturn]{style="color: green"}
+>
+> How would you design an experiment that tests if participants’ memory now can be influenced by how much they practiced remembering certain words later?
+
+He hypothesized that participants would recall or recognize more of those words that would be practiced after the recall than words that would not. Similarly to the other two designs, participants were expected to “feel” which words would be practiced after the recall and “recognize” the words practiced in “backwards” a backwards process. After a short relaxation period, participants were presented with 48 words and were asked to visualize them. Following, participants were asked to recall them. Six words from each of the four categories (foods, animals, occupations, clothes) were randomly selected for participants to practice after the recall. Precognition was estimated by subtracting the “unpracticed” words that were recalled from the selected and practiced words. Bem accounted for overall memory performance by estimating the weighted Differential Recall score (DR). He multiplied the individual total number of recalled words and divided by the maximum possible score across all different trials. In Study 8, the mean DR was 2.27% (p = 0.029), whereas in Study 9 the estimated DR was 4.21% (p = 0.002). These findings suggested that practicing words after a recall test may retroactively enhance the ability to recall them in the first place.
+
+In summary, all experiments conducted by Bem, except experiment seven, yielded statistically significant results that seemed to support the notion that people could “feel” the future: Their behavior at one point in time was apparently affected by events that were yet to occur in the future.
+
+> [#yourturn]{style="color: green"}
+>
+> What do you think these results mean? Can people really tell the future? And what would the implications be if this was true?
+
+## The Aftermath
+
+Many researchers in psychology expressed skepticism about the existence of precognition, based on empirical and theoretical challenges in studying humans’ ability to perceive unforeseen conditions. Other researchers, however, were convinced that the theory of psi was right. Consequently, Bem’s [-@Bem2011] publication sparked substantial follow-up research.
+
+One part of the debate attempted to recreate the original experiments to see if the same results could be obtained again. Several replication attempts were conducted to further test if precognition could be detected.
+
+Across three pre-registered studies, Ritchie et al. [-@RitchieWisemanFrench2012] recruited a sample of N = 150 participants. Before collecting the data, they conducted a power analysis to find out how many participants were required to have good chances to detect a precognition effect. The replication studies followed experimental processes highly similar to the ones by Bem [-@Bem2011], with limited modifications. The design was very close to the original study in terms of procedure, participants, and so forth. Nevertheless, Ritchie et al. failed to provide statistically significant evidence for retroactive facilitation of recall.
+
+> [#definition]{#def-preregistration style="color: orchid"} Pre-registration
+>
+> The process of formally specifying the hypotheses, methods, and planned analyses of a study before any data is collected or examined. Preregistration distinguishes genuine predictions from post hoc explanations, fosters transparency, and increases the credibility and interpretability of research findings [@NosekEbersoleDeHavenMellor2018; @vanDenAkkerEtAl2023].
+
+> [#definition]{#def-poweranalysis style="color: orchid"} Power Analysis
+>
+> A power analysis is used in research to estimate the probability that an effect, if it does exist, could be found in the data given. Usually, a power analysis is conducted to estimate the minimum sample size needed to detect a certain effect before running the study (a priori).
+
+At least three other replication attempts also failed to find evidence for a precognition effect when replicating the “backward recognition” experiments [@GalakLeBoeufNelsonSimmons2012; @Robinson2011; @MuhmenthalerDubravacMeier2022]. @MuhmenthalerDubravacMeier2022 furthermore attempted to replicate one of Bem’s “retroactive priming” experiments (experiment 3). In this attempt, the difference between congruent and incongruent trials was close to zero, with a difference of 2 ms (SD = 114 ms). Therefore, again, no evidence for a precognition effect was found.
+
+A recent multi-lab replication study [@KekecsEtAl2023] brought together researchers who thought that Bem’s [-@Bem2011] results supported the concept of psi, and researchers who did not. This process is sometimes also referred to as an adversarial collaboration. Together they decided on what they thought was the best way to test the theory, how to analyze the data, and how to avoid questionable research practices. They focused on replicating Bem’s [-@Bem2011] experiment 1, replicating it across multiple laboratories in different countries and languages. More than 2000 participants completed more than 37000 erotic trials, in which they needed to indicate where on the screen a target image would show up. The position where the image was shown was determined randomly, and only after the participant had indicated their guess. Their guesses were successful in 49.89% of the trials, which did not differ from chance.
+
+> [#definition]{#def-adversarialcollaboration style="color: orchid"} Adversarial Collaboration
+>
+> A research project where researchers have different views and predictions, or support opposing theories.
+
+> [#definition]{#def-questionableresearchpractices style="color: orchid"} Questionable Research Practices
+>
+> Unethical behaviors in research which produce unreliable results and reduce the validity of the findings.
+
+> [#yourturn]{style="color: green"}
+>
+> Do you think these results prove or disprove the theory that humans can “feel the future”?
+
+A second line of research concerned discussions on how the data should be analyzed. There were different opinions on whether the analyses originally used by Bem [-@Bem2011] were appropriate to assess the effects of psi.
+
+Along these lines, @RouderMorey2011] reevaluated Bem’s data. They found evidence for a slight “feeling the future-effect” for neutral and erotic stimuli, as well as some evidence for emotionally valenced stimuli. According to their analyses, Bem’s data would speak in favor of a precognition effect, even when evaluated more strictly.
+
+Wagenmakers et al. [@WagenmakersWetzelsBorsboomVanDerMaas2011] on the other hand, found a small to non-existent precognition effect when they reanalyzed Bem’s data. @WagenmakersWetzelsBorsboomVanDerMaas2011 discussed weaknesses of the original statistical analyses and the crucial role of their correct and transparent application. In particular, they argued that confirmatory studies and conservative statistical tests are needed to provide informative evidence. Otherwise, the risk of Type I errors, and consequently of drawing false inferences, increases. Put differently, this research suggested that the way Bem’s [-@Bem2011] experiments were conducted, and the way the data was handled increased the chances that the findings were false positives.
+
+> [#definition]{#def-confirmatorystudy style="color: orchid"} Confirmatory Study
+>
+> A research investigation that tests (often preregistered) hypotheses derived from theory or prior empirical research.
+
+> [#definition]{#def-typeIerror style="color: orchid"} Type I Error / Alpha Error / False Positives
+>
+> Inferring from a statistical test that a certain effect exists, although it does not exist in reality.
+
+Similarly, @Schimmack2012 demonstrated that the results reported in @Bem2011 were unlikely to stem from only the limited number of studies reported in the original article. Rather, Schimmack’s reverse-engineering of Bem’s [-@Bem2011] research process suggested that many studies were conducted and only significant results reported (potentially due to publication bias).
+
+Overall, many researchers alleged that Bem’s [-@Bem2011] using questionable research practices led to the results [see @Schimmack2018, for an overview].
+
+> [#definition]{#def-publicationbias style="color: orchid"} Publication Bias
+>
+> Refers to distortions in which publications with significant results are more likely to be published than studies with non-significant results.
+
+A third stream of work focused on bringing together evidence from multiple studies to assess the cumulative evidence on precognition.
+
+@MossbridgeRadin2018 reviewed the empirical evidence for precognition effects and they concluded that “(...) several classes of experiments have demonstrated time-reversed anomalies under tightly controlled protocols.” and “it seems to us that precognition may eventually be considered just one of several forms of prediction that have evolved to enhance our survival.” (p. 89). In 2016, @BemTressoldiRabeyronDuggan2016 conducted a meta-analysis of precognition effects as well. In contrast to some of the replications, they concluded that the combined evidence showed decisive evidence in favor of the psi theory. However, if the evidence in the individual studies included in these meta assessments is full of false positives (see above), a combined birds’ eye view would make it seem like there is a lot of evidence in favor of the psi theory, too. Put differently, researchers worried that the results of these meta assessments were biased, too [@Wagenmakers2014].
+
+## Conclusion
+
+In the question of a parapsychological effect, one can conclude that the empirical data is conflicting and sometimes directly contradictory. Evidence seems to accumulate that suggests a small precognition ability in humans. However, there are reasons to worry that this evidence is unreliable and the source of methodological and statistical artifacts. Research needs to be done in order to understand the potential nature and mechanisms underlying the time-reversed anomalies reported, and to address the continued skepticism and justified worries about uninformative evidence that this theory has triggered.
+
+> [#yourturn]{style="color: green"}
+>
+> Would you bet on the psi theory?
+
+As controversial as the area of parapsychology and Bem’s study of “feeling the future” might have been, it did promote a body of research and resulted in a discussion of adequate measures of effects. The scientific discourse shed further light on the relevance of replication and meta-studies as well as pre-registration and open science, aiming to reduce data manipulation and enhance transparency of research and reproducibility of results.
+
+Bem’s [-@Bem2011] study triggered considerable debate about whether research practices in psychology were appropriate for creating robust, reliable, and valid insights [see @WagenmakersWetzelsBorsboomVanDerMaas2011]. The publication of Bem’s [-@Bem2011] psi article was akin to a turning point, at which questionable research practices and misaligned incentives in the field culminated. Its publication, among other developments, sparked a larger debate about how psychological research should be conducted, published, and rewarded [@SimmonsNelsonSimonsohn2011].

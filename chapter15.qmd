@@ -6,7 +6,7 @@
 
 How can we know what people truly think about a certain topic? This question is difficult to answer, given that people are sometimes motivated to misreport their true attitudes. 
 
-> [#definition]{#def-attitude style="color: orchid"} Definition of “attitude”
+> [#definition]{#def-attitude style="color: orchid"} Attitude
 >
 > The cognition, affect and behavioral tendencies towards a certain object.
 

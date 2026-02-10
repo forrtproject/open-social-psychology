@@ -8,7 +8,7 @@ Does what you have recently seen, heard or read affect how you think, even if yo
 
 The verb “to prime” means “to activate”. In psychology, “priming” refers to the idea that exposure to a stimulus can activate mental representations, making it easier or faster to respond to that same stimulus later (direct priming), or to something related to it (indirect priming).
 
-> [#definition]{#def-priming style="color: orchid"} Definition of “priming”
+> [#definition]{#def-priming style="color: orchid"} Priming
 >
 > “Priming refers to facilitative effects of an encounter with a stimulus on subsequent processing of the same stimulus (direct priming) or a related stimulus (indirect priming)" [@tulving_priming_1982, pg.336].
 

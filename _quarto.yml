@@ -13,7 +13,7 @@ book:
           address: Welthandelsplatz 1
           city: 1020 Wien
           state: Austria
-  date: 2025-08-27
+  date: 2026-02-10
   downloads: [pdf, epub]
   page-footer: 
     left: |
@@ -36,7 +36,9 @@ book:
     - howto.qmd
     - intro.qmd
     - chapter2.qmd
+    - chapter3.qmd
     - chapter5.qmd
+    - chapter6.qmd
     - chapter8.qmd
     - chapter12.qmd
     - chapter15.qmd

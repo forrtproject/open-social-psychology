@@ -1,5 +1,8 @@
 # [Glossary]{style="color: #004b23"} {.unnumbered}
 
+#### [Adversarial Collaboration](chapter6.qmd#def-adversarialcollaboration)
+A research project where researchers have different views and predictions, or support opposing theories.
+
 #### [Availability Heuristic](chapter16.qmd#def-availabilityheuristic)
 A mental shortcut where people estimate the likelihood of an event based on how easily examples come to mind, which can lead to overestimating rare but memorable occurrences.
 
@@ -12,8 +15,18 @@ A systematic distortion of perception or judgment.
 #### [Cherry-Picking](chapter12.qmd#def-cherry-picking)
 Reporting only the data, outcomes, or time frames that support one’s hypothesis while ignoring or dismissing those that do not. This makes the story or articles simpler and might make them more publishable, but provides a distorted view of the evidence.
 
+#### [Cognition](chapter3.qmd#def-cognition)
+Cognitions can be thought of as bits of knowledge, such as opinions, attitudes, or beliefs about the world, about oneself or one’s behavior. If two cognitions are relevant to each other, but the opposite of one follows from the other, these cognitions are said to be inconsistent.
+
+#### [Cognitive Dissonance](chapter3.qmd#def-cognitivedissonance)
+Cognitive dissonance describes the discomforting state that people experience when they hold cognitions that are relevant to each other but inconsistent with each other—meaning that one bit of knowledge suggests the opposite of another bit of knowledge.
+
+
 #### [Conceptual Replication](chapter17.qmd#def-conceptualreplication)
 A study that aims to recreate the gist of a prior study without using an identical procedure. These studies often aim to explore boundary conditions, the influence of specific variables, or aim to broaden and extend a certain finding.
+
+#### [Confirmatory Study](chapter6.qmd#def-confirmatorystudy)
+A research investigation that tests (often preregistered) hypotheses derived from theory or prior empirical research.
 
 #### Contact Interventions ([Chapter 12](chapter12.qmd#def-contactinterventions), [Chapter 20](chapter20.qmd#def-contactinterventions))
 Carefully tailored interventions that apply intergroup contact in real-world settings to try and reduce prejudice among social groups.
@@ -42,8 +55,15 @@ A study where researchers deliberately manipulate one or more variables and rand
 #### [False Consensus Effect](chapter16.qmd#def-falseconsensus)
 A cognitive bias where individuals overestimate the extent to which others share their beliefs, preferences, and behaviors.
 
+#### [Forced-Compliance Paradigm](chapter3.qmd#def-forcedcomplianceparadigm)
+A very early paradigm of cognitive dissonance initially stemming from the persuasion field where participants are asked to perform a discrepant behavior (mainly a speech or essay), being more or less incentivized for doing it. Classic studies [e.g., @festinger1959cognitive] report counter-intuitive results showing more attitude change when paid a small amount of money in comparison to a bigger amount. This contradicted predominant theoretical frameworks at the time, such as the reinforcement theory [@skinner1958reinforcement], which would have predicted that people adjust their attitudes especially when they receive a high reward.
+
+
 #### [Generalized Drive](chapter8.qmd#def-generalizeddrive)
 The presence of others leads to an increase in generalized drive, thus facilitating habitualized dominant responses.
+
+#### [Habituation](chapter6.qmd#def-habituation)
+Habituation is a phenomenon where we get used to a stimulus, following its repeated exposure. As a consequence, the reaction to the stimuli is reduced.
 
 #### [Implicit Association Test](chapter15.qmd#def-implicitassociationtest)
 A reaction-time task that measures the strength of automatic associations between concepts (e.g., flowers and positivity) by comparing how quickly people classify paired categories. Faster responses indicate stronger underlying associations.
@@ -56,6 +76,10 @@ The automatic, unconscious mental processes that influence how we perceive, eval
 
 #### [Incongruent Association](chapter15.qmd#def-incongruentassociation)
 A mental relationship between two objects or concepts characterized by lack of harmony or misalignment.
+
+#### [Induced-Compliance Paradigm](chapter3.qmd#def-inducedcomplianceparadigm)
+An evolution of the forced-compliance paradigm [@linder1967decision] where participants have to perform a behavior that is inconsistent with their attitudes—typically writing or delivering a counter-attitudinal essay. In this version, all participants engage in the discrepant task, but they differ in the justification provided. Half are explicitly told they have a free choice in performing the task (freedom condition), while the other half are simply asked to do it, as in the original forced-compliance paradigm. The key difference lies in the source of justification: an external incentive in the traditional condition, versus perceived freedom of choice in the revised one. The classic results show a greater change in the attitude in the choice condition (high choice) compared to the control condition (low choice).
+
 
 #### Intergroup Bias ([Chapter 12](chapter12.qmd#def-intergroupbias), [Chapter 20](chapter20.qmd#def-intergroupbias))
 Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
@@ -75,17 +99,38 @@ Research that employs two or more distinct methods.
 #### [Observational Research](chapter12.qmd#def-observationalresearch)
 A study design where researchers measure variables as they naturally occur, without manipulating them. Observational studies can reveal associations between variables but cannot, on their own, establish that one causes the other.
 
-#### [Pygmalion Effect](chapter2.qmd#def-pygmalioneffect)
-The phenomenon in which higher expectations from others lead to improved performance.
+#### [Paradigm](chapter3.qmd#def-paradigm)
+Within Kuhn’s [-@kuhn1962structure] tradition, a paradigm transcends mere methodological procedure, constituting instead a foundational scientific framework that combines theoretical principles, methodological standards, and empirical expectations. This comprehensive system guides scientific practice by providing explanatory models and predicting experimental outcomes. The paradigm's coherence depends on the alignment of these elements—when empirical results contradict theoretical predictions or methodological applications fail to produce expected findings, the entire paradigm faces fundamental challenges.
+
+#### [Power Analysis](chapter6.qmd#def-poweranalysis)
+A power analysis is used in research to estimate the probability that an effect, if it does exist, could be found in the data given. Usually, a power analysis is conducted to estimate the minimum sample size needed to detect a certain effect before running the study (a priori).
+
+#### [Precognition or Premonition](chapter6.qmd#def-precognition)
+The conscious cognitive awareness or affective apprehension of a future event that could not otherwise be anticipated through any known inferential process [@Bem2011].
 
 #### [Prejudice](chapter12.qmd#def-prejudice)
 A negative attitude toward a group and its members, often based on stereotypes rather than direct experience.
 
+#### [Pre-registration](chapter6.qmd#def-preregistration)
+The process of formally specifying the hypotheses, methods, and planned analyses of a study before any data is collected or examined. Preregistration distinguishes genuine predictions from post hoc explanations, fosters transparency, and increases the credibility and interpretability of research findings [@NosekEbersoleDeHavenMellor2018; @vanDenAkkerEtAl2023].
+
 #### [Priming](chapter20.qmd#def-priming)
 A psychological phenomenon where exposure to one stimulus (e.g., a word, image, or idea) influences how you respond to a later stimulus, often without conscious awareness.
 
-#### [Representativity](chapter20.qmd#def-representativity)
-The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population (Rudolph, J. E., 2023).
+#### [Priming](chapter6.qmd#def-priming)
+Priming refers to the effects of a subtle cue on future behavior. The primed stimulus works by activating related concepts and making them easier to access. Typical priming techniques include the very short exposure of participants to a visual, auditory, olfactory, or haptic cue. For instance, presenting the word “lion” may lead to faster categorization of the word “cat” because the two concepts represent the same “animal” category.
+
+#### [Publication Bias](chapter6.qmd#def-publicationbias)
+Refers to distortions in which publications with significant results are more likely to be published than studies with non-significant results.
+
+#### [Pygmalion Effect](chapter2.qmd#def-pygmalioneffect)
+The phenomenon in which higher expectations from others lead to improved performance.
+
+#### [Questionable Research Practices](chapter6.qmd#def-questionableresearchpractices)
+Unethical behaviors in research which produce unreliable results and reduce the validity of the findings.
+
+#### [Representativity or Representativeness](chapter20.qmd#def-representativity)
+The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population [@rudolph_defining_2023].
 
 #### [Social Comparison Theory](chapter8.qmd#def-socialcomparisontheory)
 According to the social comparison theory, people are motivated to assess their own beliefs and skills by comparing them to external images. These images can be comparisons to other people or a reference to physical reality. Individuals have a tendency to view images portrayed by others as accessible and realistic and subsequently make comparisons between themselves, other people, and these idealized images.
@@ -99,8 +144,14 @@ The act of providing inauthentic responses to better present oneself favorably a
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.
 
+#### [Subliminal](chapter6.qmd#def-subliminal)
+Subliminal refers to the exposure of stimuli for such a short amount of time that humans are not aware of the stimuli perceived and therefore cannot actively process the information.
+
 #### Treatment and Control Conditions ([Chapter 12](chapter12.qmd#def-treatmentandcontrolconditions), [Chapter 20](chapter20.qmd#def-treatmentandcontrolconditions))
 In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.
+
+#### [Type I Error / Alpha Error / False Positives](chapter6.qmd#def-typeIerror)
+Inferring from a statistical test that a certain effect exists, although it does not exist in reality.
 
 #### [Orbicularis Oris Muscles](chapter17.qmd#def-orbicularisoris)
 These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.

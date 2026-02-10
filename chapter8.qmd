@@ -6,7 +6,7 @@
 
 Social Facilitation is a theory that posits that one will perform better on a task when it is completed in the presence of others. In 1898, Norman Triplett demonstrated that when people complete a task in competition with another person, they perform better on the task compared to completing the task alone [@Triplett_1898]. This seminal experiment sparked a rich literature on the concept of “social facilitation,” a term which was coined some 20 years later by @Allport_1954 – the idea that the mere presence of others can lead to improvements in performance [@Aronson-et-al_2005; @Bond-Titus_1983].
 
-> [#definition]{#def-socialfacilitation style="color: orchid"} Definition of Social Facilitation
+> [#definition]{#def-socialfacilitation style="color: orchid"} Social Facilitation
 >
 > This theory proposes that the mere presence of others will positively affect performance on a task.
 
@@ -14,7 +14,7 @@ Triplett’s seminal study [-@Triplett_1898] was the result of perceived trends 
 
 To test his theory, Triplett designed a lab-based study to examine if the presence of a competitor stimulates competition arousal, which he called “dynamogenic factors.”
 
-> [#definition]{#def-dynamogenesis style="color: orchid"} Definition of Dynamogenesis
+> [#definition]{#def-dynamogenesis style="color: orchid"} Dynamogenesis
 >
 > An increase in the mental or motor activity of an already functioning bodily system that accompanies any added sensory stimulation (Merriam-Webster).
 
@@ -30,7 +30,7 @@ Triplett’s findings and theory posited that competition stimulates performance
 
 Subsequent research focused on social facilitation across a number of different social pressure contexts, including having an observer or audience present, having an evaluative observer or audience, a non-competing co-actor, and similar to Triplett’s study - in the presence of a competing co-actor [@Dashiell_1930]. Some research has highlighted the importance of task complexity. For instance, @Zajonc_1965 examined social facilitation in a sample of cockroaches, showing that social presence enhances performance on simple tasks but hinders performance on more complex tasks (completing a runway vs completing a maze). Based on behaviour theory [@Hull_1943; @Spence_1956], Zajonc postulated that “generalized drive” is what motivates habits. According to Zajonc’s theory, having other people around increases generalized drive, which makes it easier for habitual dominant responses to occur. While for more complex tasks the dominant response may not be the correct response [@Bond-Titus_1983; @Zajonc_1965]). However, a replication of Zajonc’s study did not fully replicate this effect; in simple and complex tasks, the cockroaches performed more slowly when other cockroaches were present [@Halfmann-et-al_2020].
 
-> [#definition]{#def-generalizeddrive style="color: orchid"} Definition of Generalized Drive
+> [#definition]{#def-generalizeddrive style="color: orchid"} Generalized Drive
 >
 > The presence of others leads to an increase in generalized drive, thus facilitating habitualised dominant responses.
 
@@ -41,11 +41,11 @@ There are a number of theoretical explanations to explain how, why, and when soc
 - *Distraction-conflict theory:* the idea that the presence of others is distracting and takes up attention resources which may lead to cognitive overload, reducing attention on the task [@Baron_1986; @Sanders-et-al_1978]. This may result in dominant responses facilitating performance when the task is simple and requires attention to a small number of cues, but when the task is more complex or demands attention to a larger number of cues performance may be hindered.
 - Muller and Butera's [-@Muller_Butera_2007] *Integrated distraction-conflict theory and Social comparison theory* [@Festinger_1954]; e.g., that people compare their own skills to other people’s skills), and proposed that when in a co-action setting people can experience self-evaluation threat which may increase their attentional focus, in particular when a co-actor is seen to be superior, increasing drive and thus performance.
 
-> [#definition]{#def-distractionconflicttheory style="color: orchid"} Definition of Distraction-Conflict Theory
+> [#definition]{#def-distractionconflicttheory style="color: orchid"} Distraction-Conflict Theory
 >
 > This theory states that attentional conflict, a type of response conflict regarding what attentional response one should make, can arise when the social presence of others (co-actors or an audience) is distracting, at least when the task is attention demanding. The actor may then be at risk of cognitive overload as a result of this conflict, which would ultimately lead to a limitation in their ability to focus on the task.
 
-> [#definition]{#def-socialcomparisontheory style="color: orchid"} Definition of Social Comparison Theory
+> [#definition]{#def-socialcomparisontheory style="color: orchid"} Social Comparison Theory
 >
 > According to the social comparison theory, people are motivated to assess their own beliefs and skills by comparing them to external images. These images can be comparisons to other people or a reference to physical reality. Individuals have a tendency to view images portrayed by others as accessible and realistic and subsequently make comparisons between themselves, other people, and these idealized images.
 

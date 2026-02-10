@@ -18,13 +18,13 @@ Much psychological research is interested in how environments shape human behavi
 
 In a 2008 study, researchers @williams_experiencing_2008 worked on a related question. They wanted to know if temperature – a salient feature of the environment if you think about how often conversations are centered on the weather – affected how people are perceived. They hypothesized that “physical warmth should activate concepts or feelings of interpersonal warmth” [@williams_experiencing_2008, pg. 3].
 
-> [#definition]{#def-psychologicalwarmth style="color: orchid"} Definition of psychological warmth
+> [#definition]{#def-psychologicalwarmth style="color: orchid"} Psychological warmth
 >
 > The sense that another person is friendly, kind, and has good intentions. It is one of the two central dimensions we rely on when forming first impressions, the other being competence. People tend to notice warmth quickly and often use it as a basis for deciding whether someone is trustworthy. Importantly, research suggests that experiences of physical warmth can subtly shape these social judgements [@williams_experiencing_2008; @fiske_universal_2007].
 
 The researchers asked undergraduate subjects to hold either a warm cup of coffee or iced coffee in their hands while writing down information. The expectation was that the concepts of warmth (or coldness) would be primed due to the physical experience of the temperature of the coffee, making it more likely that a person was correspondingly perceived as warm (or cold).
 
-> [#definition]{#def-priming style="color: orchid"} Definition of “priming”
+> [#definition]{#def-priming style="color: orchid"} Priming
 >
 > “A change in how easily we recognise or produce something because of an earlier encounter with it. In other words, our previous experience with an item can make us faster or more accurate in responding to it later, even if we are not consciously aware of the connection” @tulving_priming_1982.
 
@@ -48,7 +48,7 @@ Given the striking and intuitive appeal of the original findings, they received 
 
 A second issue was that the participants were not representative of the wider population. They were all undergraduate students from one university in New York State. College students often share similar age, education level, and cultural background, which means the findings might not apply to older adults, children, or people from other places and backgrounds.
 
-> [#definition]{#def-representativity style="color: orchid"} Definition of representativity
+> [#definition]{#def-representativity style="color: orchid"} Representativity or representativeness
 >
 > The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population [@rudolph_defining_2023].
 
