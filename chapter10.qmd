@@ -1,0 +1,82 @@
+# [Stanford Prison Experiment]{style="color: #004b23"}
+
+[written by Johanna Moersch (original draft), Kristine Brance (revision), Aoife O'Mahony (revision), and Shanu Sadhwani (revision) (revision)]{style="color: gray;"}
+
+## The Classic
+
+Understanding why ordinary people can commit acts of cruelty or oppression has been a major concern in Psychology. History provides stark reminders: from the atrocities of the Second World War to authoritarian regimes across the globe, scholars have sought to understand how seemingly normal individuals can engage in violence, discrimination, or tyranny [@adorno_authoritarian_1952; @staub_roots_1989]. Social Psychologists have been particularly interested in understanding the conditions that lead people to condone or participate in oppressive systems, questioning: is it the dispositions of a few pathological individuals, or can anyone become complicit given the right circumstances? One influential response to this question was the Stanford Prison Experiment (SPE).
+
+> [#definition]{#def-tyranny style="color: orchid"} Tyranny
+>
+> Tyranny refers to a system of unequal power in which one group or its representative use authority in an arbitrary or oppressive way over another group.
+
+The SPE [@zimbardo_comment_1972], conducted in 1971 under the direction of Philip Zimbardo, aimed to investigate the psychological origins of violence in ordinary individuals. As Zimbardo [-@zimbardo1983control, pg. 62] later explained: “To show that normal people could behave in pathological ways even without the external pressure of an experimenter authority, my colleagues and I put college students in a simulated prison setting and observed the power of roles, rules, and expectations.”	
+
+For this purpose, a simulated prison environment was created in a basement at Stanford University. Twenty-four healthy male participants were recruited and randomly assigned as prisoners or guards. Participants who were assigned as prisoners were arrested by real police and made to wear dresses as uniforms, along with a locked chain around their ankles. Zimbardo's goal was to create an oppressive atmosphere and, in his role as an authority figure, he instructed the participants acting as guards to keep the prisoners under strict control. The prisoners had to follow strict routines and rules. Very quickly, the guards began displaying abusive behaviors, including psychological humiliation, sleep deprivation, and arbitrary punishments. Due to the escalation into extremely unethical and distressing conditions, the experiment was terminated after six days, rather than the originally intended two weeks. 
+
+> [#yourturn]{style="color: green"}
+>
+> How do you think his role of prison superintendent might have affected Zimbardo himself? Who do you think would participate in such a study? Would you have liked to participate?
+
+Zimbardo drew several conclusions from the experiment [@zimbardo_comment_1972]. His resulting ‘situational hypothesis’ argued that behavior is shaped by the specific social context in which individuals find themselves. In such circumstances, personal identity becomes less influential and people’s behavior and actions are increasingly shaped by the social environment. Roles quickly become internalized: prisoners come to view themselves as criminals, whereas guards assume the position of power. As a result, individuals perform roles and established social norms may no longer apply. Zimbardo suggested that the combination of group dynamics and power imbalances can lead to a re-establishment of what constitutes appropriate behaviour, groupthink, and hence, the emergence of tyranny. This provided an alternative view to the previously common ‘dispositional hypothesis’, which argued that it was pathological or tyrannical people that created pathological or tyrannical systems or environments.
+
+> [#definition]{#def-groupthink style="color: orchid"} Groupthink
+>
+> A psychological phenomenon that occurs when members of a group strive for consus and harmony, often at the expense of critical thinking or considering alternative options.
+
+> [#yourturn]{style="color: green"}
+>
+> Why do you think the participants identified so strongly with their roles, despite knowing it was an experiment?
+
+## The Aftermath
+
+The SPE has been widely criticized. Soon after its publication, Erich Fromm [-@fromm_anatomy_1997] raised several key concerns. First, he criticized the unethical treatment of participants, especially the harsh conditions on those in the prisoners' role [also see @savin_professors_1973]. Secondly, he questioned whether the study truly demonstrated the power of roles, or whether it reflected the personalities of the particular participants. He suggested that participants with sadistic or masochistic predispositions may not have been identified by Zimbardo’s pretests. This points to a problem of selection bias, suggesting that the sample may not have represented ordinary people, but instead a particular subset more prone to certain behaviours. 
+
+
+> [#definition]{#def-selectionbias style="color: orchid"} Selection Bias
+>
+> Selection bias occurs when the participants selected for the study are not representative of the wider population, which can distort the research findings.
+
+At the same time, because of the very small sample size, Fromm suggests that these findings may not be generalisable – not everyone in this situation necessarily would have abused power. Lastly, he highlighted that the simulated prison environment created an ambiguous experience for participants. On the one hand, participants knew they were volunteers in an experiment; on the other hand, they were arrested by real police, stripped of personal identity, and subjected to degrading treatment. The blurring of boundaries made it difficult for participants to distinguish between ‘role-play’ and reality, creating uncertainty about how they were expected to behave. 
+
+
+Another criticized aspect: The students had clearly understood what the experimenter expected to happen. Of the students tested, 81% accurately identified the experimenter’s hypothesis (that guards would be aggressive and prisoners would revolt or comply), and 90% predicted that the guards would be “oppressive, hostile, aggressive, humiliating” [@banuazizi_interpersonal_1975, pg. 158]. This supports the argument that behavior in the SPE may have been shaped by demand characteristics [@banuazizi_interpersonal_1975]. 
+
+
+> [#definition]{#def-demandcharacteristics style="color: orchid"} Demand Characteristics
+>
+> These are cues in an experiment that give away what the researcher expects, which can lead participants to change their behavior to fit those expectations.
+
+More recently, it has been argued that the official reports of guard and participant interviews suggest that some guards were encouraged by Zimbardo and his team to act harshly, while others behaved more fairly than reported. At the same time, some prisoners admitted exaggerating their distress. These accounts raise the possibility that the dramatic narrative of the SPE was partly constructed through selective reporting and coaching rather than unbiased observation  [see the article The Lifespan of a Lie, @blum_lifespan_2019]. 
+
+In 2006, Reicher and Haslam conducted the BBC Prison Study, which sought to revisit the psychological effects of power dynamics [@reicher_rethinking_2006]. For ethical reasons, this does not represent an exact replication study, but rather a social psychological study of intergroup power relations. Contrary to the Stanford study, a prison-like system was created here that shows hierarchical structures and thus inequality between groups. Participants were split into five guards and ten prisoners, with roles assigned after initially grouping individuals based on traits linked to authoritarian tendencies, followed by random selection. In addition, the guards  received no instructions on how to behave, only the task of keeping the prison running. 
+
+The results were strikingly different. The guards did not identify with their role and showed little authority. They were eventually overwhelmed by the prisoners, who developed stronger group cohesion. Whereas in the SPEt the prisoners’ submission contributed to the rise of tyranny, in the BBC study it was the guards’ lack of unity that led to collapse. This led to an alternative interpretation, shifting the focus on the role of social identity. Group behavior, @reicher_rethinking_2006 argued, is shaped by the values and norms associated with a group identity, whether those are prosocial or antisocial. Difficulties arise when individuals fail to identify with the group they are assigned to, or when the group cohesion breaks down.
+
+> [#definition]{#def-norms style="color: orchid"} Norms
+>
+> These are shared rules or expectations within a group about how members should think, feel, or behave. They guide behavior by defining what is considered acceptable or unacceptable in that social context.
+
+
+> [#yourturn]{style="color: green"}
+>
+> Based on the findings of the Stanford Prison Experiment, and the BBC Prison Experiment, which study do you think better represents how people behave in real-life institutions, and why? How do both studies help us understand power dynamics in everyday life (e.g., schools, workplaces, prisons, governments)?
+
+
+## Conclusion
+
+Due to the ethical issues regarding the SPE,more reliable conclusions can be drawn more from the BBC Prison Study. This showed that group failure and a sense of powerlessness are key conditions under which tyranny can flourish. However, the BBC study also demonstrated that methodologically significant research—even on sensitive topics—can be conducted ethically, as long as proper safeguards are in place. This ensures that valuable discussions about human behavior and social structures can continue without compromising participant welfare.The issue of how social relationships vary systematically remains highly relevant, particularly for those in positions of responsibility, such as policymakers and administrators who shape the structure and procedures of institutions like prisons.  The study demonstrates that social psychological elements, including group identity and perceived group power, can be linked to mental health issues and clinical symptoms. It also shows that extreme institutional settings can foster and sustain extreme behaviors. This is also consistent with the social psychological theory that leadership is influenced by the dynamic interaction between personal characteristics and situational factors.
+
+However: The findings were again "supporting the argument that Zimbardo’s guidance and demand characteristics likely played a major role in the SPE's outcome [...] Reicher and Haslam concluded that "people do not automatically assume roles that are given to them in the manner suggested by the role account that is typically used to explain events in the SPE" (p. 30)."[@le_texier_debunking_2019, pg.2].
+
+It seems that  tyranny arises from a combination of failure and promises, highlighting the importance of empowering groups in ways that promote responsible and ethical use of power. Additionally, while the Stanford Prison Experiment is well-known, it has faced significant criticism. Therefore, conclusions should be drawn cautiously and primarily based on findings from multiple replication studies that address the original study’s methodological problems—such as potential demand characteristics, ethical concerns, selection bias, and experimenter effects.
+
+
+> [#yourturn]{style="color: green"}
+>
+> What do we learn from the SPE and its replications? How do psychological studies have to be conducted in order to provide evidence for or against a proposed psychological effect or theory?
+
+In sum, group failure and powerlessness are the two main components of situations 
+where tyranny can flourish. Social factors such as group identity and group power are associated with clinical symptoms. Although extreme institutions can encourage and perpetuate extreme behavior, ordinary people are unlikely to behave in pathological ways without the external pressure of an experimenter authority, as proposed by Zimbardo. 
+The SPE serves as a reminder of the importance of scientific discourse as well as high methodological standards and replication-studies in psychological science.
+

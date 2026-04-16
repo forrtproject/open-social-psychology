@@ -12,6 +12,10 @@ The cognition, affect and behavioral tendencies towards a certain object.
 #### [Bias](chapter16.qmd#def-bias)
 A systematic distortion of perception or judgment.
 
+#### [Causal Relationship](chapter14.qmd#def-causal)
+A causal relationship refers to the situation when an event is the direct result of a preceding event. In the research context, causal relationships occur when the manipulation of an independent variable causes and explains the observed effects in a dependent variable that would otherwise not occur. Conversely, correlation is a statistical measure that describes the magnitude and direction of the relationship between two or more variables. In contrast to causal relationships, correlation does not imply that changes in the independent variable will automatically lead to and explain the observed effects in the dependent variable.
+
+
 #### [Cherry-Picking](chapter12.qmd#def-cherry-picking)
 Reporting only the data, outcomes, or time frames that support one’s hypothesis while ignoring or dismissing those that do not. This makes the story or articles simpler and might make them more publishable, but provides a distorted view of the evidence.
 
@@ -34,8 +38,17 @@ Carefully tailored interventions that apply intergroup contact in real-world set
 #### [Construct Validity](chapter15.qmd#def-constructvalidity)
 The extent to which a test measures the theoretical construct or concept it is intended to measure.
 
+#### [Demand Characteristics](chapter10.qmd#def-demandcharacteristics)
+These are cues in an experiment that give away what the researcher expects, which can lead participants to change their behavior to fit those expectations.
+
+
+
 #### [Discriminant Validity](chapter15.qmd#def-discriminantvalidity)
 The extent to which a test is unrelated to measures designed to assess theoretically distinct constructs.
+
+#### [Dual Process Theories](chapter14.qmd#def-dualprocess)
+A set of theories that distinguish human thought into two sub-systems: a fast, intuitive system (System 1) and a slow, deliberate system (System 2). The former appears to be independent of cognitive control, whereas the latter is effortless and relies on working memory and cognitive capacity.
+
 
 #### [Dynamogenesis](chapter8.qmd#def-dynamogenesis)
 An increase in the mental or motor activity of an already functioning bodily system that accompanies any added sensory stimulation.
@@ -62,8 +75,16 @@ A very early paradigm of cognitive dissonance initially stemming from the persua
 #### [Generalized Drive](chapter8.qmd#def-generalizeddrive)
 The presence of others leads to an increase in generalized drive, thus facilitating habitualized dominant responses.
 
+#### [Groupthink](chapter10.qmd#def-groupthink)
+A psychological phenomenon that occurs when members of a group strive for consensus and harmony, often at the expense of critical thinking or considering alternative options.
+
+
 #### [Habituation](chapter6.qmd#def-habituation)
 Habituation is a phenomenon where we get used to a stimulus, following its repeated exposure. As a consequence, the reaction to the stimuli is reduced.
+
+#### [Heuristic](chapter14.qmd#def-heuristic)
+Heuristics refer to simple processes that assist individuals to identify adequate, but imperfect, answers to complex questions [@kahneman_thinking_2011].
+
 
 #### [Implicit Association Test](chapter15.qmd#def-implicitassociationtest)
 A reaction-time task that measures the strength of automatic associations between concepts (e.g., flowers and positivity) by comparing how quickly people classify paired categories. Faster responses indicate stronger underlying associations.
@@ -84,6 +105,10 @@ An evolution of the forced-compliance paradigm [@linder1967decision] where parti
 #### Intergroup Bias ([Chapter 12](chapter12.qmd#def-intergroupbias), [Chapter 20](chapter20.qmd#def-intergroupbias))
 Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
 
+#### [Intuitive Behavior](chapter14.qmd#def-intuitivebehavior)
+Behavior that occurs through automatic, prepotent and effortless cognitive operations. Commonly referred to as “System 1”, these mental operations are fast, associative and hard to control (Kahneman, 2002; Stanovich & West, 2000).
+
+
 #### Meta-analysis ([Chapter 12](chapter12.qmd#def-meta-analysis), [Chapter 20](chapter20.qmd#def-meta-analysis))
 A statistical technique that combines the results of multiple independent studies to estimate an overall effect. Meta-analyses can reveal patterns across a large body of research, but the quality of their conclusions depends on the quality and comparability of the included studies.
 
@@ -96,11 +121,20 @@ A research project in which researchers working at several different locations (
 #### [Multimethod Study](chapter15.qmd#def-multimethodstudy)
 Research that employs two or more distinct methods.
 
+#### [Norms](chapter10.qmd#def-norms)
+These are shared rules or expectations within a group about how members should think, feel, or behave. They guide behavior by defining what is considered acceptable or unacceptable in that social context.
+
+
 #### [Observational Research](chapter12.qmd#def-observationalresearch)
 A study design where researchers measure variables as they naturally occur, without manipulating them. Observational studies can reveal associations between variables but cannot, on their own, establish that one causes the other.
 
 #### [Paradigm](chapter3.qmd#def-paradigm)
 Within Kuhn’s [-@kuhn1962structure] tradition, a paradigm transcends mere methodological procedure, constituting instead a foundational scientific framework that combines theoretical principles, methodological standards, and empirical expectations. This comprehensive system guides scientific practice by providing explanatory models and predicting experimental outcomes. The paradigm's coherence depends on the alignment of these elements—when empirical results contradict theoretical predictions or methodological applications fail to produce expected findings, the entire paradigm faces fundamental challenges.
+
+#### [Paradigm](chapter14.qmd#def-paradigm)
+The term paradigm refers to “the set of common beliefs and agreements shared between scientists about how problems should be understood and addressed” [@kuhn1962structure]. Paradigms reflect the assumptions associated with the state-of-affairs. In the experimental context, these assumptions directly shape the methodological strategies employed to address a research question and influence the interpretation of empirical findings.
+
+
 
 #### [Power Analysis](chapter6.qmd#def-poweranalysis)
 A power analysis is used in research to estimate the probability that an effect, if it does exist, could be found in the data given. Usually, a power analysis is conducted to estimate the minimum sample size needed to detect a certain effect before running the study (a priori).
@@ -120,8 +154,16 @@ A psychological phenomenon where exposure to one stimulus (e.g., a word, image, 
 #### [Priming](chapter6.qmd#def-priming)
 Priming refers to the effects of a subtle cue on future behavior. The primed stimulus works by activating related concepts and making them easier to access. Typical priming techniques include the very short exposure of participants to a visual, auditory, olfactory, or haptic cue. For instance, presenting the word “lion” may lead to faster categorization of the word “cat” because the two concepts represent the same “animal” category.
 
+#### [Prosocial Behavior](chapter14.qmd#def-prosocial)
+Prosocial behavior refers to the voluntary actions aimed at benefiting others, including sharing, helping, and confronting [@eisenberg_prosocial_1998].
+
+
 #### [Publication Bias](chapter6.qmd#def-publicationbias)
 Refers to distortions in which publications with significant results are more likely to be published than studies with non-significant results.
+
+#### [Public Goods Game](chapter14.qmd#def-pgg)
+Public Goods Games (PGG) refer to multi-player experimental scenarios in which individuals are required to suppress selfish behavior and cooperate to attain a mutually beneficial outcome. In this design, individuals can choose to voluntarily contribute to a common pool that will be multiplied and equally distributed across all group members. Individuals who do not contribute may free-ride on the contribution of cooperators which imposes the risk of exploitation. Although avoiding contribution is commonly rewarded in PGG, if the number of defectors is large no collectively beneficial outcomes are achieved [@gomez-gardenes_evolutionary_2011; @tomassini_public_2020].
+
 
 #### [Pygmalion Effect](chapter2.qmd#def-pygmalioneffect)
 The phenomenon in which higher expectations from others lead to improved performance.
@@ -129,8 +171,16 @@ The phenomenon in which higher expectations from others lead to improved perform
 #### [Questionable Research Practices](chapter6.qmd#def-questionableresearchpractices)
 Unethical behaviors in research which produce unreliable results and reduce the validity of the findings.
 
+#### [Reflective Behavior](chapter14.qmd#def-reflectivebehavior)
+Reflective behavior is supported by “System 2” and relies on effortful and slow mental operations that are deliberately controlled through reason (Kahneman, 2002).
+
+
 #### [Representativity or Representativeness](chapter20.qmd#def-representativity)
 The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population [@rudolph_defining_2023].
+
+#### [Selection Bias](chapter10.qmd#def-selectionbias)
+Selection bias occurs when the participants selected for the study are not representative of the wider population, which can distort the research findings.
+
 
 #### [Social Comparison Theory](chapter8.qmd#def-socialcomparisontheory)
 According to the social comparison theory, people are motivated to assess their own beliefs and skills by comparing them to external images. These images can be comparisons to other people or a reference to physical reality. Individuals have a tendency to view images portrayed by others as accessible and realistic and subsequently make comparisons between themselves, other people, and these idealized images.
@@ -140,6 +190,13 @@ The tendency to want to be viewed positively by others, often by aligning with s
 
 #### [Socially Desirable Responding](chapter15.qmd#def-sociallydesirableresponding)
 The act of providing inauthentic responses to better present oneself favorably according to current social norms.
+
+#### [Social Dilemma](chapter14.qmd#def-socialdilemma)
+Social dilemmas refer to a set of scenarios in which individual and collective interests are mutually exclusive, yielding a conflict between selecting strategies that increase personal over collective benefits. Although selfish decisions are typically rewarded, personal gains are reduced if a substantial number of individuals aim for maximum gains [@APA-dict_2018].
+
+
+#### [Social Heuristics Hypothesis](chapter14.qmd#def-socialheuristic)
+A dual-process theoretical framework illustrating that social decision-making lies on internalized strategies that are considered advantageous in social encounters. People employ these intuitive responses in typical and atypical contexts. Under uncertain conditions, automatic responses may be overridden by effortful and evaluative processing that yields context-appropriate responses [@rand_spontaneous_2012].
 
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.
@@ -152,6 +209,9 @@ In experimental design, treatment condition refers to the participants who are r
 
 #### [Type I Error / Alpha Error / False Positives](chapter6.qmd#def-typeIerror)
 Inferring from a statistical test that a certain effect exists, although it does not exist in reality.
+
+#### [Tyranny](chapter10.qmd#def-tyranny)
+Tyranny refers to a system of unequal power in which one group or its representative use authority in an arbitrary or oppressive way over another group.
 
 #### [Orbicularis Oris Muscles](chapter17.qmd#def-orbicularisoris)
 These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.
