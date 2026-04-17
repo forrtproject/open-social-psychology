@@ -1,6 +1,6 @@
 # [Stanford Prison Experiment]{style="color: #004b23"}
 
-[written by Johanna Moersch (original draft), Kristine Brance (revision), Aoife O'Mahony (revision), and Shanu Sadhwani (revision) (revision)]{style="color: gray;"}
+[written by Johanna Moersch (original draft), Kristine Brance (revision), Aoife O'Mahony (revision), and Shanu Sadhwani (revision) ]{style="color: gray;"}
 
 ## The Classic
 

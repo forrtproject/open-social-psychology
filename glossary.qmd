@@ -3,17 +3,28 @@
 #### [Adversarial Collaboration](chapter6.qmd#def-adversarialcollaboration)
 A research project where researchers have different views and predictions, or support opposing theories.
 
-#### [Availability Heuristic](chapter16.qmd#def-availabilityheuristic)
-A mental shortcut where people estimate the likelihood of an event based on how easily examples come to mind, which can lead to overestimating rare but memorable occurrences.
+#### [Agentic State](chapter4.qmd#def-agenticstate)
+The agentic state is a psychological condition where individuals see themselves as agents executing the wishes of an authority figure, thereby absolving themselves of responsibility for their actions.
+
+#### [A priori power analysis](chapter11.qmd#def-apriorianalysis)
+Before a study is conducted ("a priori"), researchers use a statistical method to estimate the minimum sample size needed to reliably detect a specified effect size. Often, researchers aim for tests that have at least 80% power, that means that the tests can correctly reject a null hypothesis when it is false in at least 80% of cases. This analysis guides the determination of the planned sample size.
+
 
 #### [Attitude](chapter15.qmd#def-attitude)
 The cognition, affect and behavioral tendencies towards a certain object.
+
+#### [Availability Heuristic](chapter16.qmd#def-availabilityheuristic)
+A mental shortcut where people estimate the likelihood of an event based on how easily examples come to mind, which can lead to overestimating rare but memorable occurrences.
+
 
 #### [Bias](chapter16.qmd#def-bias)
 A systematic distortion of perception or judgment.
 
 #### [Causal Relationship](chapter14.qmd#def-causal)
 A causal relationship refers to the situation when an event is the direct result of a preceding event. In the research context, causal relationships occur when the manipulation of an independent variable causes and explains the observed effects in a dependent variable that would otherwise not occur. Conversely, correlation is a statistical measure that describes the magnitude and direction of the relationship between two or more variables. In contrast to causal relationships, correlation does not imply that changes in the independent variable will automatically lead to and explain the observed effects in the dependent variable.
+
+#### [Ceiling Effect](chapter4.qmd#def-ceilingeffect)
+A ceiling effect is said to occur when a high proportion of subjects in a study have maximum scores on the variable.
 
 
 #### [Cherry-Picking](chapter12.qmd#def-cherry-picking)
@@ -28,6 +39,10 @@ Cognitive dissonance describes the discomforting state that people experience wh
 
 #### [Conceptual Replication](chapter17.qmd#def-conceptualreplication)
 A study that aims to recreate the gist of a prior study without using an identical procedure. These studies often aim to explore boundary conditions, the influence of specific variables, or aim to broaden and extend a certain finding.
+
+#### [Confederate](chapter4.qmd#def-confederate)
+A confederate is a person who is secretly working with the experimenter and plays a scripted role in the study.
+
 
 #### [Confirmatory Study](chapter6.qmd#def-confirmatorystudy)
 A research investigation that tests (often preregistered) hypotheses derived from theory or prior empirical research.
@@ -53,6 +68,9 @@ A set of theories that distinguish human thought into two sub-systems: a fast, i
 #### [Dynamogenesis](chapter8.qmd#def-dynamogenesis)
 An increase in the mental or motor activity of an already functioning bodily system that accompanies any added sensory stimulation.
 
+#### [Effect Size](chapter11.qmd#def-effectsize)
+In statistics, the effect size refers to a value that indicates the magnitude of the relation between independent and dependent variable. In factorial designs (experiments), the effect size gives us information on how large the difference between groups is.
+
 #### [Effect Size](chapter16.qmd#def-effectsize)
 A quantitative measure of the magnitude of a phenomenon, used to assess the practical significance of research findings.
 
@@ -68,12 +86,19 @@ A study where researchers deliberately manipulate one or more variables and rand
 #### [False Consensus Effect](chapter16.qmd#def-falseconsensus)
 A cognitive bias where individuals overestimate the extent to which others share their beliefs, preferences, and behaviors.
 
+#### [Foot-in-the-door](chapter4.qmd#def-footinthedoor)
+Foot-in-the-door is a two-step procedure for enhancing compliance in which a minor initial request is presented immediately before a more substantial target request. Agreement to the initial request makes people more likely to agree to the target request than would have been the case if the latter had been presented on its own.
+
 #### [Forced-Compliance Paradigm](chapter3.qmd#def-forcedcomplianceparadigm)
 A very early paradigm of cognitive dissonance initially stemming from the persuasion field where participants are asked to perform a discrepant behavior (mainly a speech or essay), being more or less incentivized for doing it. Classic studies [e.g., @festinger1959cognitive] report counter-intuitive results showing more attitude change when paid a small amount of money in comparison to a bigger amount. This contradicted predominant theoretical frameworks at the time, such as the reinforcement theory [@skinner1958reinforcement], which would have predicted that people adjust their attitudes especially when they receive a high reward.
 
 
 #### [Generalized Drive](chapter8.qmd#def-generalizeddrive)
 The presence of others leads to an increase in generalized drive, thus facilitating habitualized dominant responses.
+
+#### [Group Cohesion](chapter7.qmd#def-groupcohesion)
+Group cohesion describes how connected and committed people feel to the group.
+
 
 #### [Groupthink](chapter10.qmd#def-groupthink)
 A psychological phenomenon that occurs when members of a group strive for consensus and harmony, often at the expense of critical thinking or considering alternative options.
@@ -115,6 +140,10 @@ A statistical technique that combines the results of multiple independent studie
 #### [Moderator](chapter12.qmd#def-moderator)
 A variable that modifies the relationship between independent and dependent variables.
 
+#### [Motivation](chapter7.qmd#def-motivation)
+Motivation encompasses internal and external factors that initiate and sustain behavior in service of a goal.
+
+
 #### [Multi-Lab Study](chapter5.qmd#def-multilabstudy)
 A research project in which researchers working at several different locations (laboratories) implement the same experimental design and then analyse the data together.
 
@@ -124,9 +153,17 @@ Research that employs two or more distinct methods.
 #### [Norms](chapter10.qmd#def-norms)
 These are shared rules or expectations within a group about how members should think, feel, or behave. They guide behavior by defining what is considered acceptable or unacceptable in that social context.
 
+#### [Obedience](chapter4.qmd#def-obedience)
+Obedience is the act of following orders or instructions from an authority figure, often without questioning the morality or consequences of those actions.
+
 
 #### [Observational Research](chapter12.qmd#def-observationalresearch)
 A study design where researchers measure variables as they naturally occur, without manipulating them. Observational studies can reveal associations between variables but cannot, on their own, establish that one causes the other.
+
+
+#### [Orbicularis Oris Muscles](chapter17.qmd#def-orbicularisoris)
+These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.
+
 
 #### [Paradigm](chapter3.qmd#def-paradigm)
 Within Kuhn’s [-@kuhn1962structure] tradition, a paradigm transcends mere methodological procedure, constituting instead a foundational scientific framework that combines theoretical principles, methodological standards, and empirical expectations. This comprehensive system guides scientific practice by providing explanatory models and predicting experimental outcomes. The paradigm's coherence depends on the alignment of these elements—when empirical results contradict theoretical predictions or methodological applications fail to produce expected findings, the entire paradigm faces fundamental challenges.
@@ -148,6 +185,10 @@ A negative attitude toward a group and its members, often based on stereotypes r
 #### [Pre-registration](chapter6.qmd#def-preregistration)
 The process of formally specifying the hypotheses, methods, and planned analyses of a study before any data is collected or examined. Preregistration distinguishes genuine predictions from post hoc explanations, fosters transparency, and increases the credibility and interpretability of research findings [@NosekEbersoleDeHavenMellor2018; @vanDenAkkerEtAl2023].
 
+#### [Pre-registration](chapter11.qmd#def-preregistration)
+Pre-registrations are documents outlining the research plan (materials, analyses) and hypotheses prior to the research being conducted.
+
+
 #### [Priming](chapter20.qmd#def-priming)
 A psychological phenomenon where exposure to one stimulus (e.g., a word, image, or idea) influences how you respond to a later stimulus, often without conscious awareness.
 
@@ -157,9 +198,15 @@ Priming refers to the effects of a subtle cue on future behavior. The primed sti
 #### [Prosocial Behavior](chapter14.qmd#def-prosocial)
 Prosocial behavior refers to the voluntary actions aimed at benefiting others, including sharing, helping, and confronting [@eisenberg_prosocial_1998].
 
+#### [Psychological Reactance](chapter4.qmd#def-psychologicalreactance)
+Psychological reactance states that individuals have certain freedoms with regard to their behaviour. If these behavioural freedoms are reduced or threatened with reduction, the individual will be motivationally aroused to regain them.
 
 #### [Publication Bias](chapter6.qmd#def-publicationbias)
 Refers to distortions in which publications with significant results are more likely to be published than studies with non-significant results.
+
+#### [Publication Bias](chapter11.qmd#def-publicationbias)
+The phenomenon that research findings are more likely to be published when the results are statistically significant.
+
 
 #### [Public Goods Game](chapter14.qmd#def-pgg)
 Public Goods Games (PGG) refer to multi-player experimental scenarios in which individuals are required to suppress selfish behavior and cooperate to attain a mutually beneficial outcome. In this design, individuals can choose to voluntarily contribute to a common pool that will be multiplied and equally distributed across all group members. Individuals who do not contribute may free-ride on the contribution of cooperators which imposes the risk of exploitation. Although avoiding contribution is commonly rewarded in PGG, if the number of defectors is large no collectively beneficial outcomes are achieved [@gomez-gardenes_evolutionary_2011; @tomassini_public_2020].
@@ -174,9 +221,13 @@ Unethical behaviors in research which produce unreliable results and reduce the 
 #### [Reflective Behavior](chapter14.qmd#def-reflectivebehavior)
 Reflective behavior is supported by “System 2” and relies on effortful and slow mental operations that are deliberately controlled through reason (Kahneman, 2002).
 
+#### [Registered Report](chapter11.qmd#def-registeredreport)
+A publishing format where peer review comes before researchers conduct the study. Research first submit Introduction and Method sections, alongside the detailed hypotheses and plan of data analysis to test them. Only after this phase (Stage 1 Registered report) is reviewed and accepted, researchers start collecting the data and write the full report (Stage 2). This ensures that theoretically valuable and methodologically sound research is published regardless of the results.
+
 
 #### [Representativity or Representativeness](chapter20.qmd#def-representativity)
 The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population [@rudolph_defining_2023].
+
 
 #### [Selection Bias](chapter10.qmd#def-selectionbias)
 Selection bias occurs when the participants selected for the study are not representative of the wider population, which can distort the research findings.
@@ -194,12 +245,23 @@ The act of providing inauthentic responses to better present oneself favorably a
 #### [Social Dilemma](chapter14.qmd#def-socialdilemma)
 Social dilemmas refer to a set of scenarios in which individual and collective interests are mutually exclusive, yielding a conflict between selecting strategies that increase personal over collective benefits. Although selfish decisions are typically rewarded, personal gains are reduced if a substantial number of individuals aim for maximum gains [@APA-dict_2018].
 
+#### [Social Group](chapter11.qmd#def-socialgroup)
+A social group consists of two (often called a dyad) or more individuals who depend on each other and influence each other through their social interactions.
 
 #### [Social Heuristics Hypothesis](chapter14.qmd#def-socialheuristic)
 A dual-process theoretical framework illustrating that social decision-making lies on internalized strategies that are considered advantageous in social encounters. People employ these intuitive responses in typical and atypical contexts. Under uncertain conditions, automatic responses may be overridden by effortful and evaluative processing that yields context-appropriate responses [@rand_spontaneous_2012].
 
+#### [Social Loafing](chapter7.qmd#def-socialloafing)
+Social loafing or the Ringelmann effect refers to the decrease in individual effort that occurs when people work as part of a group rather than independently.
+
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.
+
+#### [Stereotype](chapter11.qmd#def-stereotype)
+Stereotypes are beliefs about people held because of their membership in a social group.
+
+#### [Stereotype Threat](chapter11.qmd#def-stereotypethreat)
+Stereotype threat refers to an individual’s fear that their own characteristics or behaviors could confirm negative stereotypes about their group.
 
 #### [Subliminal](chapter6.qmd#def-subliminal)
 Subliminal refers to the exposure of stimuli for such a short amount of time that humans are not aware of the stimuli perceived and therefore cannot actively process the information.
@@ -213,8 +275,9 @@ Inferring from a statistical test that a certain effect exists, although it does
 #### [Tyranny](chapter10.qmd#def-tyranny)
 Tyranny refers to a system of unequal power in which one group or its representative use authority in an arbitrary or oppressive way over another group.
 
-#### [Orbicularis Oris Muscles](chapter17.qmd#def-orbicularisoris)
-These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.
+#### [Working Memory](chapter11.qmd#def-workingmemory)
+Working memory refers to a part of human cognitive functioning that temporarily stores information and holds available to be "worked with".
+
 
 #### [Zygomaticus Major Muscles](chapter17.qmd#def-zygomaticusmajormuscles)
 These bilateral facial muscles, when activated, raise the corners of the mouth in an upward and lateral direction, facilitating expressions such as smiling.

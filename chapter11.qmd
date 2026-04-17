@@ -1,0 +1,82 @@
+# [Stereotype Threat]{style="color: #004b23"}
+
+[written by David Ehrhardt (original draft), Amélie Gourdon-Kanhukamwe (revision), and Milica Ninković (revision) ]{style="color: gray;"}
+
+We often have certain expectations about what people will behave like, look like or think like based on the social groups they belong to. We call these thoughts about others based on their group membership stereotypes. Sometimes, these generalized expectations based on group membership even affect how we think or feel about ourselves, and what we do (self-stereotyping).
+
+> [#yourturn]{style="color: green"}  
+> Which social groups do you belong to? How might they affect how others think about you, or how you think about yourself?
+
+> [#definition]{#def-stereotype style="color: orchid"} Stereotype  
+> Stereotypes are beliefs about people held because of their membership in a social group.
+
+> [#definition]{#def-socialgroup style="color: orchid"} Social Group  
+> A social group consists of two (often called a dyad) or more individuals who depend on each other and influence each other through their social interactions.
+
+When individuals feel that their behavior would confirm negative stereotypes about their social group, we say that they feel a stereotype threat [@spencer_stereotype_1999]. For example, women who perform math can be afraid that their non-exceptional results might confirm the stereotype that women are generally bad in mathematics. This may interfere with performance and would not be felt by individuals unaffected by this stereotype. In other words, it can result in women’s underachievement in math, without their skills being really lower than men’s. Besides potentially affecting test scores, general math achievement may also be affected and a feeling of not belonging in related classes may be induced.
+
+
+> [#definition]{#def-stereotypethreat style="color: orchid"} Stereotype Threat  
+> Stereotype threat refers to an individual’s fear that their own characteristics or behaviors could confirm negative stereotypes about their group.  
+
+
+In Study 1 of the original research by @spencer_stereotype_1999, researchers selected an equal number of men and women whose math ability was above average. Then, they asked them to take a math test containing simpler and more advanced mathematical problems. As expected, men and women had similar average scores on simpler problems; however, men had a significantly better performance on more advanced tasks. Two potential explanations emerged: either there are real differences in math ability that result in men performing better than women, or women are afraid that they would underperform because they are expected to.
+
+To test which of the two explanations is more appropriate, the researchers conducted another experiment (Study 2). It was similar to Study 1, but with an additional explanation for participants: prior to taking the test, half of the participants was informed that the test is insensitive to gender differences (i.e., that men and women score equally high). Another half was told that the test is sensitive to gender differences. In the group that learned that the test was insensitive to gender, women and men had very similar average scores, i.e., the difference in their scores was not statistically significant. On the other hand, women scored significantly lower in the group that learned about gender-sensitivity of the test. Researchers interpreted this as evidence of stereotype threat: if women knew that there was no danger of confirming negative stereotypes, they would perform as high as men. This means that women’s general underperformance should not be attributed to lower math skills, but to social expectations. In Study 3, they replicated these findings and also found that women who learned that the test was gender sensitive were more anxious than those who did not - indicating that fear or anxiety might underlie the differences between men and women in math performance.
+
+> [#yourturn]{style="color: green"}  
+> Can you think of other examples where stereotype threat makes a difference in individuals’ performance?
+
+After almost two decades of research on stereotype threat, @flore_influence_2018 tried to replicate the initial findings in a large-scale registered report. To motivate their replication study, they find that despite stereotype threat being supported by a number of meta-analyses, some methodological flaws may put their results in doubt. For example, the effects of stereotype threat were more often found in published studies compared to the unpublished ones - even though all of them were methodologically sound. This phenomenon is called publication bias and it often occurs when meta-analytic studies take into account only those experiments that have been published in professional journals. Furthermore, generalizability of the published studies was questionable, given that the conclusions were often made based on the convenient samples of undergraduate students.
+
+> [#definition]{#def-publicationbias style="color: orchid"} Publication Bias  
+> The phenomenon that research findings are more likely to be published when the results are statistically significant.
+
+In fact, the experiment conducted by @flore_influence_2018 showed no evidence of stereotype threat among Dutch children. However, as authors discuss, these results could have occurred due to some cultural specificities. Perhaps Dutch children do not hold the stereotype that women are worse at math, or perhaps Dutch girls do not feel anxious about conforming with this stereotype. Consequently, this null finding does not necessarily mean that stereotype threat does not exist in the domain of math performance.
+
+Meta-analyses on stereotype threat regarding women’s math performance highlight the differences (heterogeneity) in effect sizes. This means that whether the effect is shown and how strong it is depends …
+
+> [#definition]{#def-effectsize style="color: orchid"} Effect Size  
+> In statistics, the effect size refers to a value that indicates the magnitude of the relation between independent and dependent variable. In factorial designs (experiments), the effect size gives us information on how large the difference between groups is.  
+
+
+> [#definition]{#def-registeredreport style="color: orchid"} Registered Report  
+> A publishing format where peer review comes before researchers conduct the study. Research first submit Introduction and Method sections, alongside the detailed hypotheses and plan of data analysis to test them. Only after this phase (Stage 1 Registered report) is reviewed and accepted, researchers start collecting the data and write the full report (Stage 2). This ensures that theoretically valuable and methodologically sound research is published regardless of the results.
+
+These criticisms of the literature may encourage further research, but do not negate their results. They note mixed results when it comes to moderators, specifically domain identification, gender identification, math anxiety, and test difficulty. A gender gap in reported math anxiety could offer an alternative explanation. Easier tests could be more motivating, thereby reducing the effect of stereotype threat, more physical arousal during difficult tests has been observed, and stereotype threat taking up parts of working memory could interfere more with challenging tasks.
+
+> [#definition]{#def-workingmemory style="color: orchid"} Working Memory  
+> Working memory refers to a part of human cognitive functioning that temporarily stores information and holds available to be "worked with". 
+
+The original study was split up into three different lab experiments, with small samples of a rather specific population. This was changed in the replication, which was done on a large sample of Dutch high schoolers with a wider range of backgrounds. Despite adding to potential generalizability, there was a lack of diversity in the sample, which by the author's account should increase the effect. However, this reduces generalizability. Previous research on school aged children is inconclusive. Methodologically the replication study introduced pre-registration to counter publication bias, a priori analysis to reduce the risk of being underpowered and efforts to ensure the independence of observations which can be difficult when working with classroom settings.
+
+> [#yourturn]{style="color: green"}  
+> When are observations independent, when dependent? Can you think of examples?
+
+> [#definition]{#def-preregistration style="color: orchid"} Pre-registration  
+> Pre-registrations are documents outlining the research plan (materials, analyses) and hypotheses prior to the research being conducted.
+
+> [#definition]{#def-apriorianalysis style="color: orchid"} A priori power analysis  
+> Before a study is conducted ("a priori"), researchers use a statistical method to estimate the minimum sample size needed to reliably detect a specified effect size. Often, researchers aim for tests that have at least 80% power, that means that the tests can correctly reject a null hypothesis when it is false in at least 80% of cases. This analysis guides the determination of the planned sample size. 
+
+The original study [@spencer_stereotype_1999] differs in that it first checks whether women indeed underperform on the more difficult test, then compares a treatment that has been told about gender differences on the test with one that has been told there are no differences, and finally compares a treatment that has been told there are no differences with a control group that received no mentioning of gender differences. Methodologically, the replication study [@flore_influence_2018] appears more rigorous.
+
+The original study [@spencer_stereotype_1999] supports the effects of stereotype threat on women’s math performance, while the replication study [@flore_influence_2018] does not find an effect.
+
+> [#yourturn]{style="color: green"}  
+> What could be the reason for this differing result? What factors could have played a role?
+
+There were about two decades between the studies. Differences in results could be due to cultural change (perhaps the stereotype that women are worse at math was simply not as strong anymore at the time of replication) or differences in the studied population (Dutch high schoolers compared to US college students).
+
+## 3. Conclusion
+
+Since most of the literature seems to support the original results, the replication study may cast some doubt on those results, but is so far insufficient to reconsider the effects of stereotype threat on women’s math performance. Contemporary literature suggests that the relation between stereotypes and performance is not simple. Whilst stereotype threat has been widely studied, there is a less known complementary phenomenon — stereotype lift or stereotype boost. It refers to a boost in performance among members of nonstereotyped groups [@priest_stereotype_2024].
+
+> [#yourturn]{style="color: green"}  
+> Which stereotypes have you used in everyday conversations? How might they affect how others think about themselves?
+
+Finally, it seems that individual sensitivity to stereotype threat / lift is intertwined with the level of implicit belief that the particular stereotype is true [@franceschini_implicit_2014]. Thus, the literature undoubtedly suggests that stereotypes — held by ourselves or by others — can largely impact how we behave.
+
+> [#yourturn]{style="color: green"}  
+> Can you think of other examples of stereotype threat beyond gender differences in math performance? What would be the real-life consequences of stereotype threat?
+

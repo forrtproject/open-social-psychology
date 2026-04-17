@@ -1,0 +1,73 @@
+# [Obedience to Authority]{style="color: #004b23"}
+
+[written by Ena Uzelac (original draft), and Yu-Fang Yang (revision)]{style="color: gray;"}
+
+
+## 1. The Classic
+
+In the early 1960s, psychologist Stanley Milgram conducted a series of now-famous experiments at Yale University [@milgram_behavioral_1963], inspired by the trial of Adolf Eichmann, a Nazi officer who claimed he was "just following orders" during the Holocaust [@fraser_why_2016]. This post-World War II zeitgeist was deeply concerned with understanding the mechanisms of genocide and the "banality of evil," a concept popularized by philosopher Hannah Arendt [@arendt_eichmann_2006]. Milgram sought to answer a disturbing question: Could ordinary people commit atrocious acts simply by following orders from authority figures? To investigate this, Milgram designed an elaborate deception. Participants were told they were part of a study on learning and memory. The experimental paradigm involved three roles: 1) the experimenter (an authority figure in a gray lab coat), 2) the teacher (the actual participant), and 3) the learner (a confederate). Though the shocks were entirely fake, participants believed them to be real.
+
+
+> [#definition]{#def-obedience style="color: orchid"} Obedience
+>
+> Obedience is the act of following orders or instructions from an authority figure, often without questioning the morality or consequences of those actions.
+
+
+> [#definition]{#def-confederate style="color: orchid"} Confederate
+>
+> A confederate is a person who is secretly working with the experimenter and plays a scripted role in the study.
+
+
+The teacher was seated at an imposing electric shock generator with 30 switches ranging from 15 to 450 volts, labeled from "Slight Shock" to "XXX." The learner, strapped to a chair in an adjacent room with electrodes attached, would deliberately give wrong answers to a word-association task. With each error, the teacher was instructed to administer progressively stronger shocks. The learner's responses were scripted: at 150 volts, they would bang on the wall and demand to be released; at 300 volts, they would refuse to answer; beyond 315 volts, ominous silence. When participants hesitated, the experimenter employed four standardized prods in sequence: "Please continue," "The experiment requires that you continue," "It is absolutely essential that you continue," and finally, "You have no other choice, you must go on.”
+
+The results were disturbing: in the baseline condition, 65% of participants continued to the maximum 450-volt level, despite the learner's protests and eventual silence. Across different experimental variations, obedience rates ranged from 0% to 92.5%, depending on factors such as proximity to the victim, presence of the experimenter, and institutional setting. A meta-analysis by @haslam_meta-milgram_2014 later revealed that the average obedience rate across all conditions was approximately 43%, with significant variation based on experimental manipulations.
+
+Milgram explained these results through his 'agentic state' theory [@milgram_behavioral_1963], proposing that individuals shift from an autonomous state (where they see themselves as responsible for their actions) to an agentic state (where they view themselves as instruments carrying out another's wishes). In this agentic state, participants supposedly focus solely on authority demands and become insensitive to the victim's suffering, allowing them to commit acts they would normally find morally reprehensible.
+
+
+> [#definition]{#def-agenticstate style="color: orchid"}  Agentic State
+>
+> The agentic state is a psychological condition where individuals see themselves as agents executing the wishes of an authority figure, thereby absolving themselves of responsibility for their actions.
+
+> [#yourturn]{style="color: green"}  
+> Can you think of a time when you followed instructions, even if you felt uncomfortable doing so? What made you obey?
+
+## 2. The Aftermath
+
+Replications of Milgram's experiments in their original form are not possible today, but there are variations on the theme. One of the more famous partial replications is that of Jerry Burger [-@burger_replicating_2009], whose primary goal was to determine if obedience rates have changed over time and to examine the influence of individual differences and modelled refusal on participants' responses, while ensuring participant well-being. He did this by modifying ethically suspect elements of the original research. First, the study replicated Milgram's Experiment 5 up to the point where the learner's verbal protest at 150 volts was heard. This critical 150-volt point was chosen because a high percentage of Milgram's original participants who passed this point continued to the end of the shock generator's range, allowing for reasonable estimations of continued obedience without exposing participants to extreme stress. Second, a two-step screening process was implemented to exclude individuals who might have a negative reaction to the experience, including those with psychiatric disorders or extensive psychological knowledge. Third, participants were explicitly informed multiple times that they could withdraw at any point and still receive payment. Fourth, the shock level used as an example was 15 volts instead of 45 volts. Fifth, immediate debriefing occurred after the session, with the learner entering the room to reassure the participant that no shocks were actually administered. Sixth, the experimenter was a clinical psychologist instructed to end the study immediately if signs of excessive stress were observed. His key findings were that 70% of participants continued past the 150-volt point, compared to 82.5% in Milgram's comparable condition, a difference that was not statistically significant. Contrary to expectations, participants who witnessed a confederate refuse to continue (modelled refusal condition) obeyed as often as those who saw no model. Men and women did not differ significantly in their rates of obedience, nor were there any effects (or very small effects) of desire for control or empathy. In conclusion, this partial replication suggests that obedience levels remained largely consistent with Milgram's original findings, despite ethical safeguards and a more contemporary participant pool.
+
+These persistent high obedience rates raise important questions about Milgram's original theoretical explanation. The traditional agentic state theory has faced substantial criticism based on closer examination of the original data. Milgram's own recordings and notes revealed that participants were far from emotionally detached - they displayed extreme signs of moral distress including nervous laughter, sweating, trembling, and stuttering. Crucially, many participants actively tried to help the learner by emphasizing correct answers or speaking them louder, directly contradicting the idea that they had become mere instruments of authority without concern for the victim [@gonzalez-franco_participant_2018]. The meta-analysis by @haslam_meta-milgram_2014 provided further evidence against the agentic state, showing that variations affecting the perceived legitimacy of the scientific enterprise had the strongest impact on obedience rates. This suggests participants were engaged with the goals of science rather than simply surrendering their autonomy to authority.
+
+Later work of @burger_their_2011 highlighted that a sense of personal responsibility plays a crucial role in a participant's decision to resist authority in Milgram-like scenarios. While concern for the victim's well-being may induce reluctance, it does not necessarily lead to disobedience. Furthermore, the study challenges the notion of blind obedience by demonstrating that participants were less likely to comply as the experimenter's prods became more forceful, suggesting that explicit commands may trigger resistance rather than obedience. The results suggest that Milgram's participants' behaviour might not be solely attributed to 'obeying orders,' but rather to a complex interplay of factors, including the incremental nature of the requests (foot-in-the-door effect) and psychological reactance to perceived loss of freedom.
+
+> [#definition]{#def-footinthedoor style="color: orchid"}  Foot-in-the-door
+>
+> Foot-in-the-door is a two-step procedure for enhancing compliance in which a minor initial request is presented immediately before a more substantial target request. Agreement to the initial request makes people more likely to agree to the target request than would have been the case if the latter had been presented on its own.
+
+> [#definition]{#def-psychologicalreactance style="color: orchid"}  Psychological reactance
+>
+> Psychological reactance states that individuals have certain freedoms with regard to their behaviour. If these behavioural freedoms are reduced or threatened with reduction, the individual will be motivationally aroused to regain them.
+
+> [#yourturn]{style="color: green"}  
+> Have you ever found yourself in a situation where you didn't want to do something just because someone ordered you to?
+
+In line with alternative interpretations of Milgram’s finding, @reicher_working_2012 showed that 'obedient' participants were motivated by "engaged followership", that is, appeals to science and identified with the experimenter's scientific goals, rather than blind obedience to authority. Identification with the experimenter positively predicts 'obedience,' while identification with the learner negatively predicts it. Further, @haslam_nothing_2014 demonstrated that prods appealing to scientific goals positively predicted continuation of an objectionable task, while prods perceived as orders did not, supporting the idea of @burger_their_2011 that participants were more inclined to disobey orders than to follow them.
+
+Furthermore, @dolinski_would_2017 investigated the level of obedience to authority in Poland in 2015, following Burger's [-@burger_replicating_2009] ethical modification of Milgram's [-@milgram_behavioral_1963] obedience paradigm. Unlike most previous studies, this research specifically examined the influence of the 'learner's' sex on obedience, hypothesizing that participants might be less willing to shock a woman due to cultural norms. The study confirmed the persistence of high obedience levels, consistent with Milgram's original findings. While the study explored the impact of the learner's sex, the overwhelming obedience rate created a ceiling effect, making it difficult to discern the influence of this or other moderating variables conclusively. Although there was a tendency for participants to be three times more likely to withdraw when the 'learner' was a woman, this difference was not statistically significant due to the very low number of overall withdrawals (only 10% of participants failed to comply fully). The findings reinforce the idea that the situation plays a powerful role in human behaviour, as demonstrated by the consistent high levels of obedience across different eras and cultural contexts.
+
+> [#definition]{#def-ceilingeffect style="color: orchid"} Ceiling Effect
+>
+> A ceiling effect is said to occur when a high proportion of subjects in a study have maximum scores on the variable.
+
+A valuable alternative methodology for conducting empirical studies on complex social-psychological phenomena, such as obedience, is immersive virtual reality (VR). In one such VR experiment designed to replicate Milgram’s studies, @slater_virtual_2006 put participants in one of the two conditions, visible (VC), where participants saw and heard the virtual learner, and hidden (HC), where participants communicated with the learner only through a text interface, without seeing or hearing protests directly. Similar to Milgram's [-@milgram_behavioral_1963] findings, the study showed that a greater 'distance' (i.e., the HC) between the participant and the learner resulted in less emotional impact and greater compliance.
+
+@gonzalez-franco_participant_2018 challenged the traditional 'agentic state' explanation of obedience in their virtual reality replication of Milgram’s study. Their study aimed to provide systematic data on participant concern for the learner, specifically by measuring helping behaviour (e.g., emphasizing correct answers), hesitation in administering shocks, and self-assessed stress levels. A secondary aim was to explore the relationship between identification with science and concern for the Learner. The findings refute 'agentic state' explanation by demonstrating that participants exhibit significant concern for the learner, even while obeying instructions. Moreover, the study highlights that identification with science complexly influences these concerns, increasing helping and hesitation while simultaneously reducing reported stress. This supports the 'engaged followership' model, suggesting that obedience can coexist with genuine concern for the victim.
+
+> [#yourturn]{style="color: green"}  
+> Do you have experience with immersive virtual environments? Does it sound plausible that VR can elicit realistic physiological and behavioural human responses to extreme social situations?
+
+## 3. Conclusion
+
+The current understanding of Milgram's obedience studies has evolved considerably from the initial interpretation of blind obedience through an agentic state. Meta-analytic evidence [@haslam_meta-milgram_2014] and modern replications consistently show that obedience rates remain high across cultures and time periods, but the mechanism appears to be 'engaged followership' rather than passive submission. Participants identify with scientific goals while maintaining genuine concern for victims, as demonstrated in virtual reality studies.
+
+@griggs_milgrams_2017 advocates, these studies should be taught with their full complexity, including both the disturbing findings about human compliance and the nuanced understanding that people often obey not because they lose their moral compass. Rather, they may obey because they believe they are contributing to a greater scientific good, with the reinterpretation that views participant behaviour not as blind obedience but as 'engaged followership,' driven by identification with the experimenter's scientific goals. This reframing raises equally troubling questions about how legitimate-seeming authorities can leverage our prosocial motivations for harmful ends. This nuanced understanding challenges the traditional narrative perpetuated in many social psychology textbooks.
