@@ -10,7 +10,7 @@ Researchers working on (areas related to) social psychology then revised these c
 
 ![](FORRT.png "FORRT logo")
 
-An *International Bridge-Building Award* of the Society for Personality and Social Psychology ([SPSP](https://spsp.org)) to members of [FORRT](https://forrt.org) in 2026 facilitated three online hackathons with researchers from the Global South, as well as marginalized and liminal scholars. 
+An *International Bridge-Building Award* of the Society for Personality and Social Psychology ([SPSP](https://spsp.org)) to members of [FORRT](https://forrt.org) and [ABRIR](https://abrirpsy.org) in 2026 facilitated three online hackathons with researchers from the Global South, as well as marginalized and liminal scholars. 
 
 The creation of this book was also supported by the German Reproducibility Network ([GRN](https://reproducibilitynetwork.de)).
 
