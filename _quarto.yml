@@ -37,29 +37,29 @@ book:
     - intro.qmd
     - science.qmd
     - part1.qmd
-    - chapter2.qmd
-    - chapter3.qmd
-    - chapter5.qmd
-    - chapter6.qmd
+    - chapter2.qmd #Pygmalion Effect
+    - chapter3.qmd #Cognitive Dissonance
+    - chapter15.qmd #Implicit association Test and Attitudes
+    - chapter5.qmd #Ego Depletion
+    - chapter6.qmd #Feeling the Future
     - part2.qmd
-    - chapter21.qmd
-    - chapter4.qmd
-    - chapter7.qmd
-    - chapter8.qmd
-    - chapter1.qmd
-    - chapter9.qmd
-    - chapter10.qmd
-    - chapter11.qmd
-    - chapter12.qmd
-    - chapter13.qmd
-    - chapter14.qmd
+    - chapter21.qmd #Conformity
+    - chapter4.qmd #Obedience to Authority
+    - chapter7.qmd #Social Loafing (Ringelmann Effect)
+    - chapter8.qmd #Social Facilitation
+    - chapter1.qmd #Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies
+    - chapter9.qmd #Minimal Group Effect
+    - chapter10.qmd #Standford Prison Experiment
+    - chapter11.qmd #Stereotype Threat
+    - chapter12.qmd #Intergroup Contact Theory
+    - chapter13.qmd #Bystander Effect
+    - chapter14.qmd #Social Heuristics Hypothesis
     - part3.qmd
-    - chapter15.qmd
-    - chapter16.qmd
-    - chapter17.qmd
-    - chapter18.qmd
-    - chapter19.qmd  
-    - chapter20.qmd
+    - chapter16.qmd #False Consensus Effect
+    - chapter17.qmd #Facial Feedback Hypothesis
+    - chapter18.qmd #Heat Priming-Hostile Perception Effect 
+    - chapter19.qmd #Florida Priming Effect
+    - chapter20.qmd #Hot Coffee Effect
     - references.qmd
     - glossary.qmd
     - summary.qmd

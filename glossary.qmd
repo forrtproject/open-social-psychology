@@ -149,6 +149,9 @@ Tendency to favour one’s own social group (ingroup) over other groups (outgrou
 #### [Intuitive Behavior](chapter14.qmd#def-intuitivebehavior)
 Behavior that occurs through automatic, prepotent and effortless cognitive operations. Commonly referred to as “System 1”, these mental operations are fast, associative and hard to control (Kahneman, 2002; Stanovich & West, 2000).
 
+#### [Meta-Analysis](howto.qmd#meta-analysis)
+An analysis that brings together evidence from several individual studies or experiments to estimate an overall effect across the available evidence.
+
 
 #### Meta-analysis ([Intergroup Contact Theory](chapter12.qmd#def-meta-analysis), [Hot Coffee Effect](chapter20.qmd#def-meta-analysis))
 A statistical technique that combines the results of multiple independent studies to estimate an overall effect. Meta-analyses can reveal patterns across a large body of research, but the quality of their conclusions depends on the quality and comparability of the included studies.
@@ -269,6 +272,10 @@ Reflective behavior is supported by “System 2” and relies on effortful and s
 #### [Registered Report](chapter11.qmd#def-registeredreport)
 A publishing format where peer review comes before researchers conduct the study. Research first submit Introduction and Method sections, alongside the detailed hypotheses and plan of data analysis to test them. Only after this phase (Stage 1 Registered report) is reviewed and accepted, researchers start collecting the data and write the full report (Stage 2). This ensures that theoretically valuable and methodologically sound research is published regardless of the results.
 
+
+#### [Replication](howto.qmd#replication)
+An attempt to find the same result as a previous study in a new data set.
+
 #### [Replication](science.qmd#def-replication)
 Replication involves repeating a study using the same methods and sample size to see whether the results hold up. Replications help identify which findings are reliable and support the self-correcting nature of science.
 
@@ -291,7 +298,7 @@ Selection bias occurs when the participants selected for the study are not repre
 A self-fulfilling prophecy suggests that the probability of an event occurring can be increased solely by the expectation of that event [@merton_self-fulfilling_1948].
 
 #### [Scientific Method](science.qmd#def-scientificmethod)
-The universal, step-by-step logical framework that underlies all scientific inquiry. Scientific method is a defined, step-by-step process for investigating phenomena. It is a formalization of a generalized human problem solving process.
+The universal, step-by-step logical framework that underlies all scientific inquiry. The scientific method is a defined, step-by-step process for investigating phenomena. It is a formalization of a generalized human problem solving process.
 
 #### [Scientific Process](science.qmd#def-scientificprocess)
 The specific methods and approaches (e.g., saw for the table or surveys) that scientists use based on their specific field and matter. Various methods and approaches scientists use to investigate phenomena in their pursuit of knowledge.

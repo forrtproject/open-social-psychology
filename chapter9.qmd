@@ -1,6 +1,6 @@
 # [Minimal Group Effect]{style="color: #004b23"}
 
-[written by Angel Sánchez-Zavala (original draft), Nadia S. Corral Frías (revision), and M. Yancy Lucas (revision) ]{style="color: gray;"}
+[written by Angel Sánchez-Zavala (original draft), Nadia Saraí Corral Frías (revision), and M. Yancy Lucas (revision) ]{style="color: gray;"} 
 
 ## The Classic 
 
