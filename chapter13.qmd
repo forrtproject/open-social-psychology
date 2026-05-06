@@ -1,0 +1,93 @@
+# [Bystander Effect]{style="color: #004b23"}
+
+[written by Liz Barleben (original draft), and Aoife O’Mahony (revision)]{style="color: gray;"}
+
+In the 1960s, the murder of Catherine “Kitty” Genovese went largely unnoticed by the public and by contemporary news media. The question why nobody came to help her even though she was killed right in front of her apartment building where neighbors were thought to have heard her cries for help, however, sparked vivid research interest in social psychology. Bibb Latané and John Darley analyzed whether the presence of others influences individuals’ helping behavior in emergencies. With their study “Bystander Intervention in Emergencies: Diffusion of Responsibility” [-@darley_bystander_1968], the two social psychologists devoted themselves to the in-depth investigation of the bystander effect, a phenomenon whereby the presence of other people reduces the likelihood of individuals offering assistance in emergency situations. The more individuals present, the less individual responsibility each person is thought to feel, therefore making them less likely to take action to help.
+ This study was part of the broad field of prosocial behavior in social psychology, which studies the factors and influences involved in behaviors such as helping others, sharing or donating resources.
+
+> [#definition]{#def-prosocialbehavior style="color: orchid"} Prosocial Behavior  
+> Behavior where people help others, even at a cost to themselves.
+
+> [#yourturn]{style="color: green"}  
+> In which situations or contexts do you act prosocially? When don’t you? Why?
+
+
+The research primarily examined the extent to which the number of people present influences the probability of actively intervening and calling for help in an emergency. The study involved 62 test participants, consisting of 59 female and 13 male American college students, who believed they were participating in a study on students’ personal problems living in an urban college environment. Each participant was isolated in a separate room and connected via an intercom system to what seemed to be other participants in the study. However, the voices participants listened to via the intercom were actually pre-recorded confederate voices.
+
+> [#definition]{#def-confederate style="color: orchid"} Confederate  
+> In some experiments, researchers are interested in the behavior of participants given very specific social settings, and very specific behavior of others. Because it can be difficult to observe these settings in a naturally occurring environment - particularly if they also need to be varied systematically to conduct an experiment - sometimes confederates are engaged to carry out these specific behaviors. In other words, they are not real participants in the study, they are hired helpers who act in accordance with the experimental setup.
+
+During this discussion, one of the confederates simulated an epileptic seizure. While the would-be seizure was occurring, the participants were unable to communicate with the other "discussion members" and could not determine how they were responding to the situation. Researchers assessed the time until participants reported the emergency (dependent variable), and varied how many confederates were present in the discussion group (independent variable).
+
+
+> [#yourturn]{style="color: green"}  
+> What do you think are some of the ethical considerations involved in studying the bystander effect, especially when simulating emergencies?
+
+
+
+> [#yourturn]{style="color: green"}  
+> To what extent do you think the artificial setting of Latané and Darley's laboratory experiments affects the findings’ generalizability to real-life situations?
+
+The findings demonstrated that the presence of others significantly influenced the time until the emergency was reported. Participants reacted more slowly if they believed that a larger number of people were observing the incident. This finding was then termed the “bystander effect”.
+
+The gender distribution of the “bystanders” had no significant influence on reaction times. In addition, personality and background measures showed little influence on willingness to help. Latané and Darley explained the results using the concepts of diffusion of responsibility and social inhibition. Diffusion of responsibility suggests that people in groups tend to take less individual responsibility because they assume that others will intervene. Social inhibition indicates that the presence of others influences reaction time and can lead to delayed help, especially within groups, due to uncertainty or passive behaviors among group members. According to Latané and Darley [-@darley_bystander_1968], the larger the number of people present, the stronger the effects of diffusion of responsibility and social inhibition.
+
+> [#definition]{#def-bystandereffect style="color: orchid"} Bystander Effect  
+> When others (bystanders) are thought to be present, this delays or even fully undermines prosocial behavior.
+
+> [#yourturn]{style="color: green"}  
+> Have you ever experienced (something similar to) the bystander effect yourself or have you seen others “bystanding”?
+
+> [#yourturn]{style="color: green"}  
+> How might cultural norms influence the strength or presence of the bystander effect across different societies? Can you think of an example where this might vary?
+
+## The Aftermath
+
+The results of the present study were corroborated by a meta-analysis conducted by Bibb Latané and Steve Nida in 1981 [@latane_ten_1981], which included 56 studies with a participant sample of at least 6,000 individuals. 
+
+> [#definition]{#def-metaanalysis style="color: orchid"} Meta Analysis 
+> A meta analysis is a study that combines the results of many studies to assess the overall evidence regarding a research question.
+
+The analysis focused on determining the prevalence of helping behavior and the influence of group size on such behavior. In 48 of 56 comparisons, it was found that people acting alone provided assistance more often than people in groups, with the overall help rate being around 75% for individuals and less than 53% for groups. The results revealed a negative correlation between group size and the likelihood of individual intervention. 
+
+> [#definition]{#def-correlation style="color: orchid"} Correlation 
+> Two variables are said to correlate when there is a relationship between the two, where one increases or increases as the other does, too, or one increases as the other falls. The degree to which these variables move together is expressed as the size of the correlation coefficient, which ranges from 0 (no correlation) to abs(1) (perfect correlation). 
+
+> [#yourturn]{style="color: green"}  
+> Do you think that a correlation is capable of explaining a causal cause and effect? Why, or why not?
+
+Multiple other studies have attempted to replicate and critically evaluate the bystander effect since Latané and Darley’s original research. These studies have supported the general idea that people are less likely to help in the presence of others but have also explored important moderators such as the social context, group membership, and the nature of the emergency [see @fischer_bystander-effect_2011 for another meta analysis].
+
+Theoretical criticism also highlighted such considerations. For example, feminist psychologist Valerie Cherry [-@cherry_stubborn_2019] challenged and expanded the traditional explanations by incorporating social identity and group dynamics, emphasising that helping behavior is influenced by how individuals relate to the people involved. She emphasized the importance of considering the social context and cultural influences involved in the situation such as systemic inequalities, social power, or fear of retaliation, which could also explain why people do or do not intervene. She highlights that research on the bystander effect treats non-intervention as negative and as a failure of individual responsibility, without considering legitimate reasons why someone might hesitate to act, such as fear for their own safety, distrust in police, prior trauma.Cherry also pointed out limitations of laboratory studies, stressing the need for research in more naturalistic settings where social bonds and group affiliations are clearer, arguing that these factors could either mitigate or exacerbate the bystander effect depending on the context. Although Cherry’s criticisms were not based on empirical studies, her points were highly relevant to subsequent studies of the bystander effect.
+
+A key conceptual replication of Latané and Darley’s work was conducted by @levine_identity_2005. They investigated how group membership influences helping behavior in emergency situations, introducing a social identity perspective to the study of the bystander effect. The researchers were particularly interested in whether people are more likely to help others when they perceive them as part of a shared social group. To test this, they conducted a field experiment involving football fans. Participants, who were all supporters of the football team Manchester United, were primed regarding their love of this team by writing an essay and answering questions. They were then asked to walk between university buildings, where they encountered a staged emergency: a jogger falling and appearing to be injured. The jogger either wore a Manchester United shirt (signifying in-group membership), a rival team’s shirt (Liverpool, signifying out-group membership), or a plain shirt (neutral condition). The study found that participants were significantly more likely to help the jogger when he was wearing a Manchester United (in-group) shirt than when he wore a Liverpool or plain shirt. This suggested that helping behavior was not inhibited only by the presence of others, but also that the perceived social identity of the victim plays a key role in determining whether someone intervenes. 
+
+> [#definition]{#def-ingroup style="color: orchid"} Ingroup 
+> One’s own social group (as opposed to other groups, called outgroups). 
+
+A subsequent study published in the same paper then extended their initial findings. They recruited Manchester United fans again but primed participants to think about themselves as football fans more generally. Participants then encountered the same staged emergency as in the earlier study. Participants were now just as likely to help the jogger in a Liverpool shirt as one in a Manchester United shirt, still being much less likely to help the jogger wearing a plain shirt. This demonstrated that by making a more inclusive identity salient (framing participants as football fans rather than just Manchester United fans), intergroup barriers were softened and helping extended to people who could formerly have been considered to have been out-group members. However, when no shared identity could be inferred (as in the plain shirt condition), helping rates remained low, suggesting that inclusion within the perceived group boundary appeared to be key to eliciting prosocial responses.
+
+> [#definition]{#def-salience style="color: orchid"} Salience 
+> Salience describes the characteristic of a stimulus to stand out. For instance, a word printed in red is visually salient in a text otherwise printed in black and white: it stands out.
+
+
+> [#yourturn]{style="color: green"}  
+> Why do you think shared group identity increases the likelihood of helping in emergency situations?
+
+Building on this, @levine_responsive_2008 explored how both group membership and group size affect bystander intervention. Whereas Latané and Darley had emphasised that the presence of more bystanders generally reduces the likelihood of helping due to diffusion of responsibility, Levine and Crowther proposed that this effect might be moderated by social identity. Specifically, they hypothesised that when bystanders are part of the same social group as the observer, the presence of others might promote rather than inhibit intervention. To examine this, they manipulated both the group identity of the bystanders and the number of bystanders present while watching CCTV footage of a man attacking a woman. This study challenges the traditional bystander effect by showing that the presence of others can either inhibit or enhance helping, depending on social identity and group composition. Women reported being more likely to intervene when surrounded by other women but less likely when with men. Conversely, men were most willing to help when they were the only man among women. These findings suggest that helping behavior is not solely influenced by the number of bystanders, but also by the social dynamics and identities within the group. A subsequent study by the same authors examining actual helping behaviour in a similar situation showed the same pattern of results.
+
+> [#yourturn]{style="color: green"}  
+> How do your own group memberships or identities influence your sense of responsibility in helping others?
+
+
+Together, these studies by Levine and colleagues [@levine_identity_2005; @levine_responsive_2008] represent conceptual replications of Latané and Darley’s [-@darley_bystander_1968] foundational work on the bystander effect. While they retained the core focus on helping behavior in emergency situations, they introduced a new theoretical lens—social identity theory—to reinterpret and expand upon the original findings. Rather than suggesting that helping is always inhibited by the presence of others, they showed that group dynamics can powerfully shape whether people feel responsible and motivated to help. In doing so, their work offers a more nuanced understanding of when and why the bystander effect occurs, emphasising that social context and group affiliation can either amplify or suppress intervention.
+
+
+> [#yourturn]{style="color: green"}  
+> How do you think these findings might apply in online settings, like on social media, where group identity can be fluid or anonymous?
+
+Finally, the motivating murder case of Catherine “Kitty” Genovese, which quickly became a classic in many psychology textbooks, was also investigated further. @manning_kitty_2007 outlined that the case may have been misrepresented or inaccurately reported. It is unclear whether there were actually any neighbors that heard Genovese’s cries for help and failed to alert the authorities, thus demonstrating the bystander effect. 
+
+## Conclusion 
+
+Overall, the bystander effect remains a robust phenomenon, with results consistently supporting the general idea that the presence of others can reduce individuals’ willingness to help others in need. Latané and Darley’s initial finding therefore seems valid, broadly speaking. However, subsequent research continues to refine our understanding of the conditions under which the bystander effect occurs, demonstrating the important role of social identity, number of bystanders present, and the composition of the group, in moderating this behaviour, suggesting that the effect is more nuanced and complex than initially believed.

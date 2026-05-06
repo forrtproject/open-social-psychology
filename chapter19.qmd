@@ -1,0 +1,75 @@
+# [Florida Priming Effect]{style="color: #004b23"}
+
+[written by Lillie Schupp (original draft), Vaitsa Giannouli (revision) and Aswathi Surendran (revision)]{style="color: gray;"}
+
+The Florida Priming Study, published in 1996 by Bargh, Chen, and Burrows [@bargh_automaticity_1996], examined how stereotype activation could affect physical behavior. This experiment — the second in a set of three related studies — involved 30 participants and tested whether priming with words associated with elderly people could influence walking speed.
+
+
+> [#definition]{#def-stereotype style="color: orchid"} Stereotype
+>
+> A belief about characteristics of people belonging to a certain social group, attributed to them because of their group membership. 
+
+> [#definition]{#def-priming style="color: orchid"} Priming
+>
+> A psychological phenomenon where exposure to one stimulus (e.g., a word, image, or idea) influences how you respond to a later stimulus, often without conscious awareness.
+
+Participants in the study were randomly allocated to one of two groups. One group, the experimental group, was asked to construct short sentences using words associated with older people, such as old, gray, and wrinkle. These words also included the term Florida, which in the US-context is also related to old age as many people choose to move to Florida when they retire. This gave the study the name by which it was later often referred to. Note that participants were not explicitly made aware that all words had something to do with old age. They were simply instructed to construct sentences with the available words. This was also the case for participants in the other group, the control group. They were asked to construct sentences from a different set of words, however. The control group was presented with neutral words, such as "private" or "thirsty". This sentence construction task therefore primed participants with the concept of old age (in the experimental condition, compared to no priming in the control condition). 
+
+After the priming task, researchers measured the time it took participants to walk 9.75 metres from the study room to the elevator as they left the laboratory. The idea was that participants’ behavior, their walking speed, would be affected when the stereotype of old age was activated. Stereotypically, elderly people are thought to walk more slowly. If the stereotype of old age was activated due to the priming task, this would mean that participants in the experimental group should walk more slowly to the elevator.
+
+This is also what the results of the original study indicated: Participants in the experimental group took an average of 8.23 seconds, which was statistically significantly longer than the control group's average of 7.3 seconds. 
+
+> [#yourturn]{style="color: green"}
+>
+> Think about the potential impact of this study. If small interventions like priming can impact observable behavior like walking speed, what implications does this have?
+
+This study aimed to show that stereotype-related words (e.g. ‘Florida’, ‘Bingo’, ‘old’) activate not only the category “elderly". The priming task was also expected to activate another concept related to the category “elderly” which did not come up in the task itself: walking slowly. This activation was further assumed to not only what participants were thinking about, but to influence observable behavior: their own walking speed.
+  
+Although the original study showed strong effect sizes and found a connection between priming with stereotypes and subsequent behavior, there are several points of criticism regarding this study.
+
+One major concern is that the sample size of N = 30 was quite small, and that the sample was not representative, as it consisted only of a specific group that is undergraduate students only from New York University. 
+
+> [#definition]{#def-representativity style="color: orchid"} Representativity or representativeness
+>
+> The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalized to that population [@rudolph_defining_2023].
+
+Methodologically in this experiment we have to keep in mind that the experiment involved two very different types of behavior. The participants first completed a writing task. Then experimenters measured their walking speed, which is quite a different type of behavior than writing. Often, when tasks involve different types of behaviors, effect sizes are smaller, because the influence has to “carry over” to a different type of behavior. If the researchers had measured how fast participants were writing, for instance, this would be comparing two relatively closely related behaviors and a larger effect might have been expected. Nevertheless, the effect reported in this study was relatively large - which is surprising given the contrast between the two tasks.
+
+The large difference in walking speeds was also surprising because the intervention - the priming task where participants formed sentences - itself was relatively small. To observe large changes in behavior, usually, one needs a large intervention. 
+
+> [#yourturn]{style="color: green"}
+>
+>  Think of the last time you drastically changed your behavior. Did this require only a tiny intervention, or did something big happen that led to the change?
+
+
+
+Additionally, the materials were not fully reported. For example, study listed the elderly-stereotype words included in the priming condition (e.g., Florida, grey, wrinkle, bingo), they did not provide the full set of neutral replacement words used in the control condition, only stating that the stereotype-related items were substituted the words unrelated to the elderly stereotype (e.g., thirsty, clean, private). This omission left later researchers without a complete specification of the control stimuli, which complicated replication efforts. Subsequent work, such as @doyen_behavioral_2012, addressed this limitation by publishing full stimulus lists, thereby ensuring greater transparency. Finally, another point of criticism is the potential influence of experimenter effects [@doyen_behavioral_2012]. We will see why this criticism was warranted below. 
+
+## The Aftermath
+
+The publication of the Florida priming study had a considerable impact within social psychology, sparking both enthusiasm and scrutiny. Subsequent research has produced mixed findings, with some studies attempting to replicate the original result and others questioning its validity.
+
+Some studies sought to build on the results of the Florida priming study. They thought that differences in what people think about the elderly, or whether they like elderly people could influence whether they would walk more slowly if primed with the concept of old age. 
+
+A study by @hull_nonconsciousness_2002 found that self-consciousness might change how strongly priming works. In psychology, self-consciousness refers to how much people tend to pay attention to themselves, especially their own thoughts and feelings. @hull_nonconsciousness_2002 focused on private self-consciousness, meaning the habit of reflecting inwardly and thinking about what one is doing or feeling. They discovered that people high in private self-consciousness were more likely to walk slowly after being exposed to elderly primes. In this case, self-consciousness acted as a moderator. A moderator does not cause an effect by itself, but it influences when and for whom an effect shows up. To summarize, the priming effect was stronger in people who were more self-reflective, but weaker or absent in those who were less so.
+
+@cesario_automatic_2006 explored a related idea: that participants' motivations and attitudes toward the elderly might influence the direction of the behavioral effect.In psychology, an attitude refers to a person’s overall evaluation of something or someone—whether they feel positively, negatively, or neutrally about it. In this study, participants exposed to images of elderly people (rather than words) walked more slowly if they liked the elderly, but more quickly if they held negative attitudes. This highlights that priming does not operate in isolation; personal motivation plays a role.
+
+In a relevant study not only replicating, but extending on the original research  [@hull_nonconsciousness_2002], findings support that high levels of self-consciousness in individuals influence the slower walking speed after exposure to implicit elderly primes.
+Another study with the same research aim, but using pictures instead of words [@@cesario_automatic_2006], found a similar pattern. Participants shown pictures of elderly men, compared with pictures of teenage boys, walked more slowly if they liked the elderly, similar to slowing down to keep pace with a slow friend. However, if they disliked the elderly, they walked more quickly, like speeding up to move away from a slow person you would rather avoid (you speed up to get away from a slow enemy). 
+
+In a well-known replication effort, @doyen_behavioral_2012 attempted to replicate the Florida Priming Effect while controlling for experimenter bias. They found that the effect only appeared when experimenters knew the hypothesis. When timing was done manually, experimenters’ expectations seemed to influence when they started or stopped the stopwatch. Experimenters who expected the participants to walk more slowly pressed the stopwatch later, whereas those who expected faster walking pressed the stopwatch earlier. This finding may be explained by the social-psychological theory of the self-fulfilling prophecy. Because experimenters believed a hypothesis to be true, they (probably unintentionally) behaved in a way that made it appear true: They stopped the time accordingly.
+
+> [#definition]{#def-selffulfillingprophecy style="color: orchid"} Self-Fulfilling Prophecy
+>
+> A self-fullfilling prophecy suggests that the probability of an event occurring can be increased solely by the expectation of that event [@merton_self-fulfilling_1948]. 
+
+To eliminate the influence of experimenter bias, @doyen_behavioral_2012 replaced the stopwatch with a light barrier. This allowed the time to be measured objectively, independently of the experimenters' biases and expectations. Under these conditions, the effect of the original study could not be replicated. These results show that the time difference between the experimental group with stereotypical priming and the control group with neutral priming was not statistically significant.  This suggests that the original findings may have been partially or entirely due to experimenters’ expectation.
+
+## Conclusion
+
+These studies showed that the effects of priming are not simple, automatic responses that happen in the same way for everyone. Instead, they depend on individual differences, such as personality traits, motivations, and attitudes. In other words, priming interacts with who the person is and how they feel, which means its impact can vary widely across situations and individuals.
+
+Although these findings can not be generalized in other cultures and populations and follow similar, but at the same time different experimental conditions (different words-pictures used as primes and different parameters included/measured apart from the assessment of walking speed), they do open a discussion over the experimental support on ageism in the form of discrimination regarding physical performance of older adults. 
+
+This chapter is a reminder that in science, no single study settles a question. Claims must be tested, scrutinized, and replicated under diverse conditions to build reliable knowledge.

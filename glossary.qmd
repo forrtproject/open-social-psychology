@@ -20,6 +20,10 @@ A mental shortcut where people estimate the likelihood of an event based on how 
 #### [Bias](chapter16.qmd#def-bias)
 A systematic distortion of perception or judgment.
 
+#### [Bystander Effect](chapter13.qmd#def-bystandereffect)
+When others (bystanders) are thought to be present, this delays or even fully undermines prosocial behavior.
+
+
 #### [Causal Relationship](chapter14.qmd#def-causal)
 A causal relationship refers to the situation when an event is the direct result of a preceding event. In the research context, causal relationships occur when the manipulation of an independent variable causes and explains the observed effects in a dependent variable that would otherwise not occur. Conversely, correlation is a statistical measure that describes the magnitude and direction of the relationship between two or more variables. In contrast to causal relationships, correlation does not imply that changes in the independent variable will automatically lead to and explain the observed effects in the dependent variable.
 
@@ -43,15 +47,22 @@ A study that aims to recreate the gist of a prior study without using an identic
 #### [Confederate](chapter4.qmd#def-confederate)
 A confederate is a person who is secretly working with the experimenter and plays a scripted role in the study.
 
+#### [Confederate](chapter13.qmd#def-confederate)
+In some experiments, researchers are interested in the behavior of participants given very specific social settings, and very specific behavior of others. Because it can be difficult to observe these settings in a naturally occurring environment - particularly if they also need to be varied systematically to conduct an experiment - sometimes confederates are engaged to carry out these specific behaviors. In other words, they are not real participants in the study, they are hired helpers who act in accordance with the experimental setup.
+
 
 #### [Confirmatory Study](chapter6.qmd#def-confirmatorystudy)
 A research investigation that tests (often preregistered) hypotheses derived from theory or prior empirical research.
 
-#### Contact Interventions ([Chapter 12](chapter12.qmd#def-contactinterventions), [Chapter 20](chapter20.qmd#def-contactinterventions))
+#### Contact Interventions ([Intergroup Contact Theory](chapter12.qmd#def-contactinterventions), [Hot Coffee Effect](chapter20.qmd#def-contactinterventions))
 Carefully tailored interventions that apply intergroup contact in real-world settings to try and reduce prejudice among social groups.
 
 #### [Construct Validity](chapter15.qmd#def-constructvalidity)
 The extent to which a test measures the theoretical construct or concept it is intended to measure.
+
+#### [Correlation](chapter13.qmd#def-correlation)
+Two variables are said to correlate when there is a relationship between the two, where one increases or increases as the other does, too, or one increases as the other falls. The degree to which these variables move together is expressed as the size of the correlation coefficient, which ranges from 0 (no correlation) to abs(1) (perfect correlation).
+
 
 #### [Demand Characteristics](chapter10.qmd#def-demandcharacteristics)
 These are cues in an experiment that give away what the researcher expects, which can lead participants to change their behavior to fit those expectations.
@@ -80,7 +91,7 @@ An introductory article written by the editors of a special issue in an academic
 #### [Ego Depletion](chapter5.qmd#def-egodepletion)
 A concept that describes willpower as a limited resource that can be used up (depleted).
 
-#### Experiment ([Chapter12](chapter12.qmd#def-experiment), [Chapter 20](chapter20.qmd#def-experiment))
+#### Experiment ([Intergroup Contact Theory](chapter12.qmd#def-experiment), [Hot Coffee Effect](chapter20.qmd#def-experiment))
 A study where researchers deliberately manipulate one or more variables and randomly assign participants to different conditions. Random assignment helps ensure the groups are similar before the intervention, so differences in outcomes are more likely to be caused by the manipulation rather than by pre-existing differences.
 
 #### [False Consensus Effect](chapter16.qmd#def-falseconsensus)
@@ -107,6 +118,9 @@ A psychological phenomenon that occurs when members of a group strive for consen
 #### [Habituation](chapter6.qmd#def-habituation)
 Habituation is a phenomenon where we get used to a stimulus, following its repeated exposure. As a consequence, the reaction to the stimuli is reduced.
 
+#### [HARKing](science.qmd#def-harking)
+HARKing is Hypothesizing After the Results are Known and where a lucky guess looks like a solid scientific theory. It violates the principle that a theory should be able to *predict* behavior, not just describe it after the fact.
+
 #### [Heuristic](chapter14.qmd#def-heuristic)
 Heuristics refer to simple processes that assist individuals to identify adequate, but imperfect, answers to complex questions [@kahneman_thinking_2011].
 
@@ -126,16 +140,26 @@ A mental relationship between two objects or concepts characterized by lack of h
 #### [Induced-Compliance Paradigm](chapter3.qmd#def-inducedcomplianceparadigm)
 An evolution of the forced-compliance paradigm [@linder1967decision] where participants have to perform a behavior that is inconsistent with their attitudes—typically writing or delivering a counter-attitudinal essay. In this version, all participants engage in the discrepant task, but they differ in the justification provided. Half are explicitly told they have a free choice in performing the task (freedom condition), while the other half are simply asked to do it, as in the original forced-compliance paradigm. The key difference lies in the source of justification: an external incentive in the traditional condition, versus perceived freedom of choice in the revised one. The classic results show a greater change in the attitude in the choice condition (high choice) compared to the control condition (low choice).
 
+#### [Ingroup](chapter13.qmd#def-ingroup)
+One’s own social group (as opposed to other groups, called outgroups).
 
-#### Intergroup Bias ([Chapter 12](chapter12.qmd#def-intergroupbias), [Chapter 20](chapter20.qmd#def-intergroupbias))
+#### Intergroup Bias ([Intergroup Contact Theory](chapter12.qmd#def-intergroupbias), [Hot Coffee Effect](chapter20.qmd#def-intergroupbias))
 Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
 
 #### [Intuitive Behavior](chapter14.qmd#def-intuitivebehavior)
 Behavior that occurs through automatic, prepotent and effortless cognitive operations. Commonly referred to as “System 1”, these mental operations are fast, associative and hard to control (Kahneman, 2002; Stanovich & West, 2000).
 
 
-#### Meta-analysis ([Chapter 12](chapter12.qmd#def-meta-analysis), [Chapter 20](chapter20.qmd#def-meta-analysis))
+#### Meta-analysis ([Intergroup Contact Theory](chapter12.qmd#def-meta-analysis), [Hot Coffee Effect](chapter20.qmd#def-meta-analysis))
 A statistical technique that combines the results of multiple independent studies to estimate an overall effect. Meta-analyses can reveal patterns across a large body of research, but the quality of their conclusions depends on the quality and comparability of the included studies.
+
+#### [Meta Analysis](chapter13.qmd#def-metaanalysis)
+A meta analysis is a study that combines the results of many studies to assess the overall evidence regarding a research question.
+
+
+#### [Minimal Group Effect](chapter9.qmd#def-minimalgroupeffect)
+An inclination to favor one's own group even when group membership is weak or superficial, there is no history of intergroup conflict, and there is a lack of member interaction or conflicting interests.
+
 
 #### [Moderator](chapter12.qmd#def-moderator)
 A variable that modifies the relationship between independent and dependent variables.
@@ -171,29 +195,40 @@ Within Kuhn’s [-@kuhn1962structure] tradition, a paradigm transcends mere meth
 #### [Paradigm](chapter14.qmd#def-paradigm)
 The term paradigm refers to “the set of common beliefs and agreements shared between scientists about how problems should be understood and addressed” [@kuhn1962structure]. Paradigms reflect the assumptions associated with the state-of-affairs. In the experimental context, these assumptions directly shape the methodological strategies employed to address a research question and influence the interpretation of empirical findings.
 
+#### [P-Hacking](science.qmd#def-phacking)
+P-Hacking is the practice of manipulating data analysis until non-significant results (p > .05) become statistically significant (p < .05).
+
+
+
+#### [Positive-Negative Asymmetry Effect](chapter9.qmd#def-pnae)
+Individuals tend to discriminate more when given positive outcomes (e.g., money or points) than when given negative outcomes (e.g., fines).
 
 
 #### [Power Analysis](chapter6.qmd#def-poweranalysis)
 A power analysis is used in research to estimate the probability that an effect, if it does exist, could be found in the data given. Usually, a power analysis is conducted to estimate the minimum sample size needed to detect a certain effect before running the study (a priori).
 
 #### [Precognition or Premonition](chapter6.qmd#def-precognition)
-The conscious cognitive awareness or affective apprehension of a future event that could not otherwise be anticipated through any known inferential process [@Bem2011].
+The conscious cognitive awareness or affective apprehension of a future event that could not otherwise be anticipated through any known inferential process [@bem_feeling_2011].
 
 #### [Prejudice](chapter12.qmd#def-prejudice)
 A negative attitude toward a group and its members, often based on stereotypes rather than direct experience.
 
 #### [Pre-registration](chapter6.qmd#def-preregistration)
-The process of formally specifying the hypotheses, methods, and planned analyses of a study before any data is collected or examined. Preregistration distinguishes genuine predictions from post hoc explanations, fosters transparency, and increases the credibility and interpretability of research findings [@NosekEbersoleDeHavenMellor2018; @vanDenAkkerEtAl2023].
+The process of formally specifying the hypotheses, methods, and planned analyses of a study before any data is collected or examined. Preregistration distinguishes genuine predictions from post hoc explanations, fosters transparency, and increases the credibility and interpretability of research findings [@NosekEbersoleDeHavenMellor2018; @van_den_akker_preregistration_2023].
 
 #### [Pre-registration](chapter11.qmd#def-preregistration)
 Pre-registrations are documents outlining the research plan (materials, analyses) and hypotheses prior to the research being conducted.
 
 
-#### [Priming](chapter20.qmd#def-priming)
+
+#### Priming ([Florida Priming Effect](chapter19.qmd#def-priming), [Hot Coffee Effect](chapter20.qmd#def-priming))
 A psychological phenomenon where exposure to one stimulus (e.g., a word, image, or idea) influences how you respond to a later stimulus, often without conscious awareness.
 
 #### [Priming](chapter6.qmd#def-priming)
 Priming refers to the effects of a subtle cue on future behavior. The primed stimulus works by activating related concepts and making them easier to access. Typical priming techniques include the very short exposure of participants to a visual, auditory, olfactory, or haptic cue. For instance, presenting the word “lion” may lead to faster categorization of the word “cat” because the two concepts represent the same “animal” category.
+
+#### [Prosocial Behavior](chapter13.qmd#def-prosocialbehavior)
+Behavior where people help others, even at a cost to themselves.
 
 #### [Prosocial Behavior](chapter14.qmd#def-prosocial)
 Prosocial behavior refers to the voluntary actions aimed at benefiting others, including sharing, helping, and confronting [@eisenberg_prosocial_1998].
@@ -201,11 +236,15 @@ Prosocial behavior refers to the voluntary actions aimed at benefiting others, i
 #### [Psychological Reactance](chapter4.qmd#def-psychologicalreactance)
 Psychological reactance states that individuals have certain freedoms with regard to their behaviour. If these behavioural freedoms are reduced or threatened with reduction, the individual will be motivationally aroused to regain them.
 
+#### [Publication Bias](science.qmd#def-publicationbias)
+Publication Bias is the tendency for journals to publish only "positive" results (studies where something happened) while ignoring "null" results (studies where nothing happened).
+
 #### [Publication Bias](chapter6.qmd#def-publicationbias)
 Refers to distortions in which publications with significant results are more likely to be published than studies with non-significant results.
 
 #### [Publication Bias](chapter11.qmd#def-publicationbias)
 The phenomenon that research findings are more likely to be published when the results are statistically significant.
+
 
 
 #### [Public Goods Game](chapter14.qmd#def-pgg)
@@ -215,8 +254,14 @@ Public Goods Games (PGG) refer to multi-player experimental scenarios in which i
 #### [Pygmalion Effect](chapter2.qmd#def-pygmalioneffect)
 The phenomenon in which higher expectations from others lead to improved performance.
 
-#### [Questionable Research Practices](chapter6.qmd#def-questionableresearchpractices)
+#### [Questionable Research Practices (QRPs)](science.qmd#def-qrps)
+Questionable research practices are actions that fall into a "grey area" between honest errors and outright fraud. They are often described as "p-hacking" or "data dredging" methods used to make a study's results look more significant or consistent than they actually are.
+
+
+#### [Questionable Research Practices (QRPs)](chapter6.qmd#def-questionableresearchpractices)
 Unethical behaviors in research which produce unreliable results and reduce the validity of the findings.
+
+
 
 #### [Reflective Behavior](chapter14.qmd#def-reflectivebehavior)
 Reflective behavior is supported by “System 2” and relies on effortful and slow mental operations that are deliberately controlled through reason (Kahneman, 2002).
@@ -224,13 +269,32 @@ Reflective behavior is supported by “System 2” and relies on effortful and s
 #### [Registered Report](chapter11.qmd#def-registeredreport)
 A publishing format where peer review comes before researchers conduct the study. Research first submit Introduction and Method sections, alongside the detailed hypotheses and plan of data analysis to test them. Only after this phase (Stage 1 Registered report) is reviewed and accepted, researchers start collecting the data and write the full report (Stage 2). This ensures that theoretically valuable and methodologically sound research is published regardless of the results.
 
+#### [Replication](science.qmd#def-replication)
+Replication involves repeating a study using the same methods and sample size to see whether the results hold up. Replications help identify which findings are reliable and support the self-correcting nature of science.
 
-#### [Representativity or Representativeness](chapter20.qmd#def-representativity)
-The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population [@rudolph_defining_2023].
 
+
+#### Representativity or Representativeness ([Florida Priming Effect](chapter19.qmd#def-representativity), [Hot Coffee Effect](chapter20.qmd#def-representativity))
+The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalized to that population [@rudolph_defining_2023].
+
+#### [Responsible Research Practices (RRPs)](science.qmd#def-responsibleresearchpractices)
+Practices that researchers or journals can do to increase the credibility, transparency, and reproducibility of scientific findings.
+
+
+#### [Salience](chapter13.qmd#def-salience)
+Salience describes the characteristic of a stimulus to stand out. For instance, a word printed in red is visually salient in a text otherwise printed in black and white: it stands out.
 
 #### [Selection Bias](chapter10.qmd#def-selectionbias)
 Selection bias occurs when the participants selected for the study are not representative of the wider population, which can distort the research findings.
+
+#### [Self-Fulfilling Prophecy](chapter19.qmd#def-selffulfillingprophecy)
+A self-fulfilling prophecy suggests that the probability of an event occurring can be increased solely by the expectation of that event [@merton_self-fulfilling_1948].
+
+#### [Scientific Method](science.qmd#def-scientificmethod)
+The universal, step-by-step logical framework that underlies all scientific inquiry. Scientific method is a defined, step-by-step process for investigating phenomena. It is a formalization of a generalized human problem solving process.
+
+#### [Scientific Process](science.qmd#def-scientificprocess)
+The specific methods and approaches (e.g., saw for the table or surveys) that scientists use based on their specific field and matter. Various methods and approaches scientists use to investigate phenomena in their pursuit of knowledge.
 
 
 #### [Social Comparison Theory](chapter8.qmd#def-socialcomparisontheory)
@@ -245,7 +309,10 @@ The act of providing inauthentic responses to better present oneself favorably a
 #### [Social Dilemma](chapter14.qmd#def-socialdilemma)
 Social dilemmas refer to a set of scenarios in which individual and collective interests are mutually exclusive, yielding a conflict between selecting strategies that increase personal over collective benefits. Although selfish decisions are typically rewarded, personal gains are reduced if a substantial number of individuals aim for maximum gains [@APA-dict_2018].
 
-#### [Social Group](chapter11.qmd#def-socialgroup)
+#### [Social Dominance Orientation](chapter9.qmd#def-sdo)
+The belief that society should be organized hierarchically, which endorses hierarchy and legitimizes myths such as sexism, racism, classism, etc.
+
+#### Social Group ([Minimal Group Effect](chapter9.qmd#def-socialgroup), [Stereotype Threat](chapter11.qmd#def-socialgroup))
 A social group consists of two (often called a dyad) or more individuals who depend on each other and influence each other through their social interactions.
 
 #### [Social Heuristics Hypothesis](chapter14.qmd#def-socialheuristic)
@@ -257,8 +324,15 @@ Social loafing or the Ringelmann effect refers to the decrease in individual eff
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.
 
+#### [Statistical Power](science.qmd#def-statisticalpower)
+Statistical power is the probability that a study will detect an effect (a real relationship) if that effect actually exists.
+
+
 #### [Stereotype](chapter11.qmd#def-stereotype)
 Stereotypes are beliefs about people held because of their membership in a social group.
+
+#### [Stereotype](chapter19.qmd#def-stereotype)
+A belief about characteristics of people belonging to a certain social group, attributed to them because of their group membership.
 
 #### [Stereotype Threat](chapter11.qmd#def-stereotypethreat)
 Stereotype threat refers to an individual’s fear that their own characteristics or behaviors could confirm negative stereotypes about their group.
@@ -266,7 +340,7 @@ Stereotype threat refers to an individual’s fear that their own characteristic
 #### [Subliminal](chapter6.qmd#def-subliminal)
 Subliminal refers to the exposure of stimuli for such a short amount of time that humans are not aware of the stimuli perceived and therefore cannot actively process the information.
 
-#### Treatment and Control Conditions ([Chapter 12](chapter12.qmd#def-treatmentandcontrolconditions), [Chapter 20](chapter20.qmd#def-treatmentandcontrolconditions))
+#### Treatment and Control Conditions ([Stereotype Threat](chapter12.qmd#def-treatmentandcontrolconditions), [Hot Coffee Effect](chapter20.qmd#def-treatmentandcontrolconditions))
 In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.
 
 #### [Type I Error / Alpha Error / False Positives](chapter6.qmd#def-typeIerror)
@@ -274,6 +348,9 @@ Inferring from a statistical test that a certain effect exists, although it does
 
 #### [Tyranny](chapter10.qmd#def-tyranny)
 Tyranny refers to a system of unequal power in which one group or its representative use authority in an arbitrary or oppressive way over another group.
+
+#### [WEIRD](science.qmd#def-WEIRD)
+An acronym for people from Western, Educated, Industrialized, Rich, and Democratic (WEIRD) backgrounds. When relying on samples of WEIRD participants, scientists are looking at a unique subgroup that does not represent the general population. This makes it difficult to claim that these findings are universal truths about human nature.
 
 #### [Working Memory](chapter11.qmd#def-workingmemory)
 Working memory refers to a part of human cognitive functioning that temporarily stores information and holds available to be "worked with".

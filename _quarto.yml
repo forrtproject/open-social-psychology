@@ -9,11 +9,11 @@ book:
       orcid: 0000-0002-1404-0471
       email: rima-maria.rahal@wu.ac.at
       affiliations:
-        - name: Vienna University of Economics and Business
+        - name: Vienna University of Economics and Business; Max Planck Institute for Research on Crime, Security and Law
           address: Welthandelsplatz 1
           city: 1020 Wien
           state: Austria
-  date: 2026-02-10
+  date: 2026-04-30
   downloads: [pdf, epub]
   page-footer: 
     left: |
@@ -35,28 +35,38 @@ book:
     - howthisbook.qmd
     - howto.qmd
     - intro.qmd
+    - science.qmd
+    - part1.qmd
     - chapter2.qmd
     - chapter3.qmd
-    - chapter4.qmd
     - chapter5.qmd
     - chapter6.qmd
+    - part2.qmd
+    - chapter21.qmd
+    - chapter4.qmd
     - chapter7.qmd
     - chapter8.qmd
+    - chapter1.qmd
+    - chapter9.qmd
     - chapter10.qmd
     - chapter11.qmd
     - chapter12.qmd
+    - chapter13.qmd
     - chapter14.qmd
+    - part3.qmd
     - chapter15.qmd
     - chapter16.qmd
     - chapter17.qmd
     - chapter18.qmd
+    - chapter19.qmd  
     - chapter20.qmd
-    - summary.qmd
     - references.qmd
     - glossary.qmd
+    - summary.qmd
 
 bibliography: references.bib
-
+csl: apa.csl
+ 
 format:
   html:
     theme: lux

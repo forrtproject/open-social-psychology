@@ -1,0 +1,10 @@
+# [Part 1: Foundations of Social Psychology]{style="color: #004b23"} {.unnumbered}
+
+This part of the book concerns research that is at the core of social psychological inquiry. It contains five chapters: 
+
+
+- [Pygmalion Effect](chapter2.qmd)
+- [Cognitive Dissonance](chapter3.qmd)
+- [Implicit Association Test and Attitudes](chapter15.qmd)
+- [Ego Depletion](chapter5.qmd)
+- [Feeling the Future](chapter6.qmd)

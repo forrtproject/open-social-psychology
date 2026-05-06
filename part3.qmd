@@ -1,0 +1,9 @@
+# [Part 3: Social Cognition, Bias and Priming]{style="color: #004b23"} {.unnumbered}
+
+This part of the book addresses how the social context influences our cognition, the way we think. It comprises five chapters: 
+
+- [False Consensus Effect](chapter16.qmd)
+- [Facial Feedback Hypothesis](chapter17.qmd)
+- [Heat Priming-Hostile Perception Effect](chapter18.qmd)
+- [Florida Priming Effect](chapter19.qmd)
+- [Hot Coffee Effect](chapter20.qmd)

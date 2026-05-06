@@ -1,67 +1,76 @@
-# [Ego Depletion]{style="color: #004b23"}
+# [Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies]{style="color: #004b23"}
 
-[written by Hannah Baumgart (original draft) and Rima-Maria Rahal (revision)]{style="color: gray;"}
+[written by Antonio Scholz (original draft), Alma Jeftic (revision), and Xinkai Du (revision)]{style="color: gray;"}
 
-## The Classic
+## 1. The Classic
 
-Ego depletion is a social psychological concept that describes the depletion of individuals' self-regulatory resources. @baumeister1998 were the first to demonstrate ego depletion effects in four different experimental settings: After having to engage in an act of self-control (compared to a control task that does not require self-control), willpower is used up and could not be deployed as effectively in a subsequent task.
+Did you realize that people who are perceived to be more attractive might also get treated better? What seems like it might be a nagging suspicion to some has also piqued the academic interest of social psychologists. This research deals with body privilege or pretty privilege, the idea that physical (normative) attractiveness is related to having social advantages in multiple dimensions: job success, income, friendships, educational attainment, politics, and even criminal procedure.
 
-> [#definition]{#def-egodepletion style="color: orchid"} Ego Depletion
->
-> A concept that describes willpower as a limited resource that can be used up (depleted).
+> [#definition]{#def-privilege style="color: orchid"}  Privilege  
+> 
+> Privileges describe social advantages people receive because of their perceived membership to a certain group (e.g., the group of pretty people, or the group of tall people).
 
-In Experiment 1, the focus was on the act of resisting a temptation, which requires self-control. Participants were randomly assigned to different food conditions, by which the independent variables were manipulated: Chocolate chip cookies and chocolate, radishes or no food at all (control group). Participants in the radish control condition were instructed to resist the tempting chocolates and instead eat several the radishes that were laid out next to the chocolate. In the chocolate condition, participants were asked to eat several cookies or chocolates, which were laid out next to the radishes – a task that was not supposed to require much self-control. The actual intention behind the experiment, to demonstrate ego depletion, was disguised with a cover story to make sure participants would not get suspicious. They were told the experiment was about taste perception.
+> [#yourturn]{style="color: green"}  
+> Why do you think people who are “pretty” might be treated more favorably?
 
-> [#yourturn]{style="color: green"}
->
-> Which other tasks in your daily life require more or less willpower?
+This research argues in part that physical attractiveness is used as a cue for other positive attributes such as intelligence, or kindness. This is sometimes referred to as the halo effect, where the halo of attractiveness “spills over” to other facets of person perception [@lucker_strength_1981]. Some evolutionary theories argue this is the case because attractiveness is perceived to signal evolutionary fitness [@forgas_halo_2016].
 
-In the no-food control condition, participants were not asked to taste any food, but worked on the rest of the experiment.
+> [#definition]{#def-haloeffect style="color: orchid"}  Halo Effect  
+> 
+> A cognitive bias where a certain characteristic overshadows the overall impression formed. For instance, someone who is perceived as physically attractive may also be thought of as kind or smart.
 
-After the participants had completed the willpower task resisting the temptation of the foods presented to them, they had to complete questionnaires on mood and restraint. Then they had to work on "solving" a problem-solving task, which was actually unsolvable. Here, the time spent on trying to solve the problem before giving up was the dependent variable.
+> [#yourturn]{style="color: green"}  
+> How do you think conventional attractiveness is perceived?
 
-The results showed significant differences between the three conditions, with participants in the radish condition stopping earlier than those in the chocolate or no-food condition. In conclusion, it was suggested that craving chocolate but choosing to eat radishes depleted an internal resource, leaving individuals less able to persist while trying to solve the puzzles afterwards.
+The study by @snyder_social_1977 on the self-fulfilling nature of social stereotypes and its replication attempt by @andersen_sex_1981 explore gender stereotypes in interactions between two people.
 
-> [#yourturn]{style="color: green"}
->
-> If willpower can be depleted, how can it be "refilled" or built up again?
+In the original study, @snyder_social_1977 investigated how social stereotypes influence interpersonal behavior, focusing on self-fulfilling prophecies, i.e. a prediction that brings about its own fulfillment.
 
-## The Aftermath
+> [#definition]{#def-stereotype style="color: orchid"}  Stereotype  
+> 
+> Stereotypes are beliefs about people held because of their membership in a social group.
 
-Since this study, several hundred follow-up studies, including several multi-lab studies that aimed to replicate the overall finding [@hagger2010; @vohs2021] and several meta-analyses [@hagger2010; @carter2014; @dang2017a; @blázquez2017] have been carried out.
+> [#definition]{#def-selffulfillingprophecy style="color: orchid"}  Self-Fulfilling Prophecy  
+> 
+> A self-fulfilling prophecy suggests that the probability of an event occurring can be increased solely by the expectation of that event (Merton, 1948).
 
-> [#definition]{#def-multilabstudy style="color: orchid"} Multi-Lab Study
->
-> A research project in which researchers working at several different locations (laboratories) implement the same experimental design and then analyse the data together.
+Male participants interacted with female participants via phone calls, to get to know each other. The male participants received a photograph, ostensibly showing their female interaction partners. However, these photos were experimentally manipulated and showed other women who had previously been rated to be either the most physically attractive or the least attractive.
 
-These studies yielded mixed results, with some concluding that it was highly unlikely that the ego depletion phenomenon does not exist [e.g., @hagger2010], while others failed to establish the effect despite relying on data from more than 2000 participants [e.g., @hagger2010]. Publication bias has been argued to be high in the literature on ego depletion [ @inzlicht2015], casting doubt on the effect.
+After receiving the photos, but before interacting with their female interaction partners, the male participants who had received a photo of a highly attractive woman expected their interaction partner to be more sociable, humorous and socially capable than those who had received a photo of a less attractive woman. In other words, the male interaction partners formed a (potentially false) impression of their female interaction partners’ physical attractiveness that carried over (halo effect) to forming an expectation that they would display other positive characteristics.
 
-> [#definition]{style="color: orchid"} Publication Bias
->
-> A tendency for research in line with established theories or showing significant results to be more easily publishable than deviating research.
+Female interaction partners did not know about these photos, and did not receive photos of their male interaction partners. When the pairs of participants interacted, their interactions were recorded and later rated by independent observers. These observers rated that women matched with a man who received a photo of a physically highly attractive supposed interaction partner also behaved in line with this partners’ expectation: more warmly, more socially, and so on. These findings supported the idea that social perceptions are determined by self-fulfilling prophecies. Because they were perceived to be more attractive, these participants were treated more favorably.
 
-Continued research interest on ego depletion has brought forward varying hypotheses regarding circumstances under which the effect might be demonstrable and robust. The meta-analysis on ego depletion conducted by @dang2017a investigated only studies with sufficient initial effort exerted in the depleting, which was hypothesized to lead to the ego depletion effect. The study ensured that the depleting task required the use of self-control and excluded manipulations that were less clearly related to self-control, such as those based on social exclusion. Eight commonly used depletion tasks were assessed in the meta-analysis: attention essay, attention video, crossing out letters, emotion video, food trial, Stroop, thought suppression, and working memory.
+The results confirmed those of an earlier study by @dion_what_1972. They, too, found that “what is beautiful is good” (ibid., p. 285). This study showed that more physically attractive people were assumed to have happier social lives and more professional success.
 
-> [#yourturn]{style="color: green"}
->
-> Can you imagine what participants had to do in these tasks? Think about a version of each task that would drain self-control and one that would be less exhausting.
+> [#yourturn]{style="color: green"}  
+> In reality usually both participants of such interactions have expectations and stereotypes. What would that mean for the self-fulfilling nature of these expectations?
 
-The results showed that two of these exhausting tasks, attention video and working memory, were not associated with significant changes in subsequent self-control. Emotion videos, on the other hand, appeared to be the most effective task and reduced subsequent self-control.
+## 2. The Aftermath
 
-The overall analysis revealed a small to medium effect size for the ego depletion effect. Correcting for publication bias, this effect was not statistically significant when using the full sample of studies identified. However, a separate analysis for reliable depletion tasks, such as attention essay, emotion video and Stroop, showed the significant effect remained when attempting to correct for publication bias. This meta-analysis suggests that in special tasks, ego depletion might occur, but that it is difficult to generalize to other circumstances.
+@andersen_sex_1981 attempted to replicate and extend the findings by examining how individuals who differ in gender type and androgyny respond to physical attractiveness in interactions with two partners. This time, not only gender-typical but also androgynous male and female participants conducted acquaintance phone calls with supposedly attractive and unattractive members of their own and the opposite gender.
 
-However, even in these special tasks, there is often no direct measure of the initial depletion of willpower involved: manipulation checks on whether willpower has been used up offer only an indirect measurement [@friese2018].
+> [#definition]{#def-androgyny style="color: orchid"}   Androgyny 
+> 
+> A gender expression combining characteristics traditionally associated with masculinity and femininity, or expressing neither.
 
-> [#yourturn]{style="color: green"}
->
-> How could you objectiveley measure the amount of willpower available or drained?
+As expected, people who fit more traditional gender roles responded more positively to potential partners who had been rated by independent observers as physically attractive than to those rated as less attractive. However, this pattern was different for androgynous participants. There was no evidence that androgynous men judged potential partners based on physical attractiveness. Androgynous women showed the opposite pattern: they rated the supposedly less attractive partners as more socially appealing than the supposedly attractive partners. This finding challenged the idea that physically attractive people are always seen as more desirable.
 
-## Conclusion
+While the study by @snyder_social_1977 purported to provide solid evidence of the self-fulfilling nature of social stereotypes, the replication by @andersen_sex_1981 introduced nuances in terms of individual differences. The results indicated that androgynous individuals may exhibit different patterns of response to physical attractiveness compared to individuals displaying gender-typical looks. The replication experiment demonstrates that more than one factor needs to be considered, as social perception and resulting behavior is influenced multivariately.
 
-The literature suggests a differentiated view on the potentially finite nature of willpower is necessary [for a detailed overview, read more in @friese2018]. In the context of social psychological theories, the ego depletion effect can be seen as an important example of contradictory findings in research, where publication bias may play a role. Although several hundred studies on ego depletion have been published, we cannot be sure whether ego depletion exists or not.
+In the following decades, research on pretty privilege continued to demonstrate, overall, that people place a premium on physical attractiveness. For instance, @mobius_why_2006 showed in an experiment imitating the labor market that physically more attractive workers were (wrongly) considered to be better at the experimental task by employers. Physically more attractive workers were more confident, and had better social skills, which in turn led them to earn more money after negotiating with their employers than less attractive workers. In an observational study of sentencing decisions in criminal trials [@stewart_ii_defendants_1980], the defendants’ physical attractiveness was correlated with the severity of the punishment: More attractive defendants received less severe sentences. Studying perceived political experience, @palmer_halo_2016 showed that people rated as more attractive were also perceived to be more politically knowledgeable, and more persuasive in political discussions. Physical height, a feature often considered to contribute to attractiveness, has been linked with social esteem and success in the workplace and increased income [@judge_effect_2004].
 
-> [#yourturn]{style="color: green"}
->
-> Do you think ego depletion exists?
+> [#yourturn]{style="color: green"}  
+> Is pretty privilege a cross-culturally stable phenomenon?
 
-The debate about ego depletion shows that individual findings should be reassessed in several empirical demonstrations, including replication attempts that can provide a more realistic picture of the effect or construct. In this case, the original ego depletion effect may have been initially inflated due to publication bias. Following closer examination, it is less certain whether this effect indeed exists. The example of the ego depletion literature also shows the importance of examining the evidence closely, under the microscope, in order to ensure that it meets the quality criteria that are essential for assessing cumulative evidence of the overall effect.
+A large-scale replication study assessed pretty privilege interculturally [@batres_examining_2023]. Using data collected in 45 countries, this study demonstrated that male and female faces rated as more attractive were also rated to be more confident, emotionally stable, intelligent, responsible, sociable, and trustworthy. Put differently, this research demonstrated a robust halo effect of physical attractiveness, across cultures.
+
+> [#yourturn]{style="color: green"}  
+> In the age of AI image manipulation and beauty filters, do you think pretty privilege still exists?
+
+A recent study showed that AI-processed images to which a beauty filter was applied were rated as both more attractive, and as more intelligent and trustworthy than the same photo without the filter applied [@gulati_what_2024]. Consequently, the robust effect of pretty privilege seems to persist.
+
+Other research, however, suggests that being perceived as physically attractive is not always associated with privilege. Physical attractiveness may also be associated with socially undesirable characteristics like being vain [@dermer_when_1975], materialistic or sexually permissive (Bassili, 1981). When physical attractiveness was related to the crime committed (swindle, but not burglary), more attractive defendants received larger hypothetical punishments [@sigall_beautiful_1975]. For women holding a management position, being perceived as more attractive was a disadvantage in performance evaluations and for getting promoted or a pay raise [@heilman_being_1985].
+
+## 3. Conclusion
+
+The comparison between the original study by @snyder_social_1977 and the research that followed underscores the multifaceted nature of social perception and interpersonal behavior. Although the concept of pretty privilege appears to be robust, the role of individual differences in shaping responses to social stimuli deserves consideration. In particular, pretty privilege should be seen in the context of intersectionality: Who is perceived to be attractive, and how this attractiveness may relate to privilege, is also a matter of intersecting social categories such as race, class, or disability. Similarly, the situational circumstances under which people are being judged could even turn pretty privilege into a pretty disadvantage. Overall, the evidence on the pretty privilege phenomenon warrants a nuanced perspective that recognizes the interplay of stereotypes, individual characteristics, and situational factors to understand the complexity of social interactions.

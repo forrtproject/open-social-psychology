@@ -4,7 +4,7 @@
 
 This book contains several types of resources: narrative text, definitions and questions for reflection, as well as references.
 
-In fifteen chapters, we provide narrative summaries about classical research in social psychology and its modern follow-up. Often, this means we include new attempts to show the same finding (replication attempts) or meta-analytical work that brings together a lot of evidence from different sources regarding a certain hypothesis. Each chapter contains an overview of the classic study, a summary of important work thereafter, as well as a discussion of the evidence, experiments or analyses conducted. We then attempt to draw conclusions about the tested hypotheses.
+In more than 20 chapters, we provide narrative summaries about classical research in social psychology and its modern follow-up. Often, this means we include new attempts to show the same finding (replication attempts) or meta-analytical work that brings together a lot of evidence from different sources regarding a certain hypothesis. Each chapter contains an overview of the classic study, a summary of important work thereafter, as well as a discussion of the evidence, experiments or analyses conducted. We then attempt to draw conclusions about the tested hypotheses.
 
 Because this volume is targeted at students, we provide definitions of key terms, preceded by [#definition]{style="color: orchid"} and displayed like this:
 
@@ -16,6 +16,8 @@ Because this volume is targeted at students, we provide definitions of key terms
 >
 > An analysis that brings together evidence from several individual studies or experiments to estimate an overall effect across the available evidence.
 
+All definitions are also in the [Glossary](glossary.qmd) at the end of the book. Sometimes, you will find therein the same term entered twice, with slightly different definitions coming from different chapters. Sometimes, you will see that multiple chapters defined a certain term the same way. 
+
 We have aimed at providing a critical but neutral perspective to the classical and modern studies of social psychology discussed in the texts of this volume. To help you develop your own perspective and a well-reflected attitude towards this work, you will find guiding questions and suggestions that might prompt you to think more deeply about what you read throughout the book. The guiding questions cover topics such as the research and publication process itself and it's influence on research, the interpretation of data in general, as well as the experimental operationalization of theoretical questions. Moreover, to help you consider potential applications of the findings and theories discussed, these questions sometimes ask you to think of examples or consequences in real life.
 
 You'll recognize these prompts by the preceding [#yourturn.]{style="color: green"} Here is an example of what these questions look like:
@@ -26,6 +28,6 @@ You'll recognize these prompts by the preceding [#yourturn.]{style="color: green
 
 Finally, we have enabled the option to collaboratively annotate this work using [hypothesis](https://web.hypothes.is/) (note that this is how links are formatted in this book) in the online version. Your annotations will be visible to others, and others will be able to see yours, so that we can build a better learning experience using this book together.
 
-To read up on the original research we cite in this book, such as from @vazire2018, you can hover over or click on the references provided.
+To read up on the original research we cite in this book, such as from @vazire2018, you can hover over or click on the references provided. You can also find the full [list of references](references.qmd) at the end of the book.
 
 Feel free to make use of the resources in this book as you see fit. Our hope is that they will support you in building a well-reflected opinion about the existing body of knowledge in social psychology.

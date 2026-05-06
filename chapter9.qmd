@@ -1,0 +1,54 @@
+# [Minimal Group Effect]{style="color: #004b23"}
+
+[written by Angel Sánchez-Zavala (original draft), Nadia S. Corral Frías (revision), and M. Yancy Lucas (revision) ]{style="color: gray;"}
+
+## The Classic 
+
+> [#definition]{#def-socialgroup style="color: orchid"}  
+> Social Group  
+> A social group consists of two (often called a dyad) or more individuals who depend on each other and influence each other through their social interactions.
+
+The 20th century was marked by widespread armed global conflict, including the First and Second World Wars, the Cold War, numerous civil wars and revolutions, as well as genocides and the rise of totalitarian regimes. The common denominator of these conflicts (with an estimated death rate of 200 million people) is their strong intergroup core [@bohm_psychology_2020; @ponting_twentieth_1999]. This historical context, alongside 21st century group-based conflicts such as political polarization or collective digital hostility [@cole_social_2025; @levine_golden_2025], prompted social psychologists to investigate the scientific basis of intergroup conflict, resulting in the development of multiple lines of research. One of the most prominent intergroup theories of the second half of the 20th century is Henri Tajfel’s “Minimal Group Paradigm” [@tajfel_experiments_1970; @tajfel_social_1971]. Tajfel and colleagues were interested in studying how arbitrary (non-realistic) intergroup differences might lead to group favoritism and discrimination, this is the so-called “Minimal Group Effect”.
+
+> [#definition]{#def-minimalgroupeffect style="color: orchid"}  
+> Minimal Group Effect  
+> An inclination to favor one's own group even when group membership is weak or superficial, there is no history of intergroup conflict, and there is a lack of member interaction or conflicting interests.
+
+Following @brown_origins_2020, the Minimal Group Effect has two significant historical antecedents: (1) The foundation of the European Association of Experimental Social Psychology (EAESP) as a direct answer to the descriptive and philosophical social psychology schools; (2) Compared to contemporary theories such as the frustration-aggression theories [@berkowitz_aggression_1962; @sherif_intergroup_1961] or Adorno's et al [-@adorno_authoritarian_1952] psychoanalytic-based authoritarian personality theory, the minimal group paradigm proved to be a fruitful research program, capable of testing new hypothesis in different settings.
+
+> [#yourturn]{style="color: green"}  
+> Which social groups do you belong to? Do you treat members of your group differently than people who don’t belong to the group?
+
+Henri Tajfel believed that it was possible to conduct socially relevant experimental research with external validity within social psychology [@brown_henri_2019], which lead him to test a research question similar to the proposed by Rabbie and Horwitz [@rabbie_arousal_1969; for an analysis on the originality of the research idea behind the minimal group paradigm, see @brown_henri_2019; @brown_origins_2020]. Crucially, this paradigm aimed to strip away prior interaction, conflict, or instrumental interests, isolating mere group categorization as the key variable. Therefore, @tajfel_social_1971 recruited participants aged 14 and 15 years old and asked them to guess how many dots were projected onto a screen or indicate their preferences for paintings by Klee or Kandinsky. Participants were then privately assigned to groups (e.g., "overestimators" vs. "underestimators", or "Klee group" vs. "Kandinsky group"), ostensibly based on their responses, although in reality the assignment was random. Importantly, group membership was anonymous, and participants did not know the group allocation of their peers. In a subsequent task, participants allocated monetary rewards to anonymous others using matrices that presented different payoff combinations. These matrices allowed participants to choose between options that maximized ingroup gain, fairness, or the difference between groups. Notably, some choices involved sacrificing absolute rewards in order to increase relative advantage for the ingroup, thereby providing a measure of intergroup bias. This design enabled researchers to test whether mere categorization was sufficient to produce discriminatory behavior.
+
+> [#yourturn]{style="color: green"}  
+> Reconsider the question above: Based on such minimal assignments of group membership, which groups might you belong to?
+
+Results showed that participants consistently favored their own group, even though this meant sacrificing maximum joint outcomes. Despite the complete anonymity and the minimal arbitrary nature of the group categories, this favoritism still happened. The act of classifying individuals into trivial groups was sufficient to demonstrate deliberate discriminatory behavior in favor of the ingroup, regardless of any personal gain, prior relationships, or memory of who preferred which painter.
+
+## The Aftermath
+
+Researchers over the last decades have increasingly focused on the factors and situational contexts that contribute to enhancing intergroup discrimination in the minimal group paradigm. A recent meta-analysis [@pechar_moderators_2017] reviewed over four decades of studies of the minimal group effect to identify which factors increase or decrease intergroup conflict. Based on the evidence, the minimal group ingroup bias varies based on the contextual and psychological factors that are activated. There are two variables that are consistent drivers of intergroup discrimination:
+
+Identity salience is the most consistent enhancer. Studies showed that framing the group assignment as chosen rather than random or inducing a sense of common fate among ingroup members enhanced discriminatory behaviors. Norm priming is also a strong moderator, with studies priming loyalty, competitiveness, or a perception of the outgroup as immoral increasing intergroup bias, while emphasizing egalitarian values decreased it.
+
+Pechar and Kranton's [@pechar_moderators_2017] meta-analysis also identified variables with inconsistent findings. For instance, Studies examining group status have produced conflicting results. While some studies indicate that high-status groups discriminate more than low-status groups, other studies report the opposite pattern (high-status groups discriminating less), null effects, or mixed evidence. On the other hand, several studies have tested whether the Positive-Negative Asymmetry Effect (PNAE) increases intergroup conflict. With few studies confirming the PNAE, while others find no such pattern.
+
+> [#definition]{#def-pnae style="color: orchid"}  
+> Positive-Negative Asymmetry Effect  
+> Individuals tend to discriminate more when given positive outcomes (e.g., money or points) than when given negative outcomes (e.g., fines).
+
+Several additional variables have received less empirical attention [@pechar_moderators_2017]. There is little evidence showing that males and younger children exhibit higher levels of discrimination in minimal group contexts. Research on mood suggests that both positive affective states and high uncertainty can amplify bias. Group size has yielded mixed evidence, where studies show that in the absence of enhanced group salience, only minority groups discriminate more, whereas after salience was primed, both minority and majority groups displayed similar levels. Personality traits are relatively weak enhancers of minimal group discrimination, with social dominance orientation consistently linked to increased discrimination.
+
+> [#definition]{#def-sdo style="color: orchid"}  
+> Social Dominance Orientation  
+> The belief that society should be organized hierarchically, which endorses hierarchy and legitimizes myths such as sexism, racism, classism, etc.
+
+Beyond these findings, a major limitation on the minimal group effect studies is that most research relies on samples drawn from the Global North, predominantly white, middle-class university students [@pechar_moderators_2017]. This raises concerns about generalizability, for instance, @falk_cultural_2014 tested the minimal group effect in participants from the United States and Japan, where United States participants displayed higher ingroup bias compared to Japanese participants. @rahal_cognitive_2025 conducted a 20-country study on ingroup favoritism using the minimal group paradigm. Moving beyond the traditional Global North samples, they found that while ingroup favoritism was present in every country studied, its magnitude varied across societies, providing evidence that cultural context does shape minimal group responses. Notably, societal-level uncertainty (e.g., government effectiveness) and individualism predicted the degree of discrimination, sometimes in directions that challenge earlier theoretical predictions. Their work thus exemplifies how the field is beginning to address generalizability concerns by incorporating diverse cultural samples. Therefore, cultural norms around equality, interdependence, and institutional trust may shape minimal group responses across different cultures, but these require further cross-cultural empirical testing.
+
+## Conclusion
+
+As one of the most prominent social psychology theories, substantial progress has been made in understanding the minimal group effect. Overall, this research demonstrates the minimal group effect relatively reliably. However, research continues to demonstrate an overreliance on samples from the Global North. This sample bias limits the external validity of findings, highlighting the need to assess the paradigm's generalizability. For instance, Yang and colleagues' preregistered report [@yang_large-scale_2024] aims to assess the cross-cultural prevalence of the minimal group effect, while also investigating the contextual and individual level-moderators.
+
+> [#yourturn]{style="color: green"}  
+> Which cultural contexts do you think might shape or alter responses in minimal group effect experiments? What other variables do you think could moderate the effect?

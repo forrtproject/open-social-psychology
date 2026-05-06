@@ -50,7 +50,7 @@ A second issue was that the participants were not representative of the wider po
 
 > [#definition]{#def-representativity style="color: orchid"} Representativity or representativeness
 >
-> The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalised to that population [@rudolph_defining_2023].
+> The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalized to that population [@rudolph_defining_2023].
 
 Replication studies attempted to address these limitations by recruiting larger samples, with more than three times the original number of participants, and by selecting more diverse populations. These methodological improvements provided stronger statistical power and greater external validity, allowing researchers to test whether the effect was robust beyond the narrow conditions of the original experiments.
 
