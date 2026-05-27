@@ -105,9 +105,19 @@ Foot-in-the-door is a two-step procedure for enhancing compliance in which a min
 #### [Forced-Compliance Paradigm](chapter3.qmd#def-forcedcomplianceparadigm)
 A very early paradigm of cognitive dissonance initially stemming from the persuasion field where participants are asked to perform a discrepant behavior (mainly a speech or essay), being more or less incentivized for doing it. Classic studies [e.g., @festinger1959cognitive] report counter-intuitive results showing more attitude change when paid a small amount of money in comparison to a bigger amount. This contradicted predominant theoretical frameworks at the time, such as the reinforcement theory [@skinner1958reinforcement], which would have predicted that people adjust their attitudes especially when they receive a high reward.
 
+#### [Gender Inclusive Language](chapter23.qmd#def-genderinclusivelanguage)
+Gender inclusive language is a tool of grammatical structure to transform the way we think, eliminating gender biases and ensuring visibility, belonging, and identity of all people.
+
+
+#### [Gender Star](chapter23.qmd#def-genderstar)
+Gender star is an inclusive typography resource ( :, \*, @, x, e) that breaks away from traditional linguistic structures. Its function is to simultaneously make men, women and diverse identities visible within a single word, challenging the norm of the generic masculine.
 
 #### [Generalized Drive](chapter8.qmd#def-generalizeddrive)
 The presence of others leads to an increase in generalized drive, thus facilitating habitualized dominant responses.
+
+#### [Generic Masculine](chapter23.qmd#def-genericmasculine)
+The generic masculine is a linguistic form that uses the masculine grammatical gender to designate men, women, mixed groups, and unspecified individuals, often reducing visibility and inclusion of women and non-masculine identities.
+
 
 #### [Group Cohesion](chapter7.qmd#def-groupcohesion)
 Group cohesion describes how connected and committed people feel to the group.
@@ -183,6 +193,10 @@ Motivation encompasses internal and external factors that initiate and sustain b
 
 #### [Multi-Lab Study](chapter5.qmd#def-multilabstudy)
 A research project in which researchers working at several different locations (laboratories) implement the same experimental design and then analyse the data together.
+
+#### [Multi-laboratory Study / Many-labs Study](chapter23.qmd#def-multilaboratory)
+A teamwork approach where researchers from different institutions follow the same protocol to run the same experiment and assess whether results replicate across sites.
+
 
 #### [Multimethod Study](chapter15.qmd#def-multimethodstudy)
 Research that employs two or more distinct methods.

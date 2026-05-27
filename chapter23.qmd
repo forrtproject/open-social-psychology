@@ -1,0 +1,79 @@
+# [Social Effects of the Generic Masculine]{style="color: #004b23"} 
+
+[written by Mariangel Degollado-Cohen (original draft), Saihan M. Verdugo-Lauterio (original draft), Martha Frías Armenta (revision), and Nadia Saraí Corral-Frías (revision)]{style="color: gray;"}
+
+## The Classic
+
+Language is an important part of people’s daily lives and is found in each of their interactions. Every chosen word actively shapes individuals’ perception of their environment, transforming individual cognitive processes into shared realities [@gross_origins_2010]. It allows the communication of ideas, beliefs, and thoughts in such a way that their repercussions endure in society over time. Some studies suggest that language also appears to affect the way we think and behave [@boroditsky_how_2011]. Likewise, the literature points out that the use of the generic masculine to refer to women exerts a significant impact on social perception and gender visibility [@stahlberg_name_2001; @braun_cognitive_2005; @brohmer_effects_2024]. This phenomenon manifests across several languages with formal grammatical gender systems, such as German, French, and Spanish, where masculine forms are structurally used as the default for mixed-gender groups or unspecified individuals [@sczesny_can_2016].
+
+> [#definition]{#def-genericmasculine style="color: orchid"}  Generic Masculine  
+> 
+> The generic masculine is a linguistic form that uses the masculine grammatical gender to uniformly designate men, women, mixed groups and different identities, without taking into account linguistic inclusion and visibility.
+
+With the purpose of evaluating the impact of different generic forms of German on the cognitive inclusion of women, @stahlberg_name_2001 carried out two experiments with native speakers of that language. The authors expected that the use of masculine generics would facilitate the retrieval of male examples compared to alternative generics (such as neutral forms or forms that refer to women more explicitly), but would have the opposite effect when trying to retrieve female examples.
+
+In Experiment 1, participants were asked to name their favorite heroes, musicians, etc. The participants included 50 men and 46 women who were native German speakers between 17 and 58 years old. They responded to a questionnaire that consisted of 16 questions, six of which were critical and focused on their favorite heroes in novels, real life and history and their favorite painters and musicians. It was presented in the three different generic language forms: masculine (e.g. “hero in a novel”), neutralizing (e.g. “heroic novel character”) and feminine-masculine word pairs (e.g., “heroine or hero of a novel”).
+
+In Experiment 2, participants were asked to list famous figures (athletes, singers, politicians, and hosts of television shows) using different generic forms. The impact of masculine generics (e.g., “heroes”, in German: “Helden”) was contrasted with two alternatives: feminine-masculine word pairs (e.g., “heroines and heroes”, in German: “Heldinnen und Helden”) and capital “I” forms, which are words newly developed in the German language to combine feminine and masculine words within the same word (corresponds to “heroInes”, in German: “HeldInnen”). The sample consisted of 90 native German speakers with an equal proportion of men and women. Following a distractor task about media habits, participants were evaluated by being asked to name three celebrities across four distinct categories. The subjects randomly completed one of three versions of the questionnaire, which differed only in the type of generic used, as introduced above: traditional masculine (e.g., “heroes”), split pairs (e.g., “heroines and heroes”), or internal capital “I” (e.g., “heroInes”).
+
+Results in both experiments showed that masculine generics reduces the cognitive inclusion of women by favoring the retrieval of men, whereas inclusive language forms effectively facilitate female visibility. Specifically, Experiment 1 proved that neutral forms are just as effective as feminized ones, while Experiment 2 confirmed that using the internal capital “I” significantly improves the retrieval of women compared to the traditional masculine. In short: Participants thought of more female exemplars when any grammatical form that was not the generic masculine was used.
+
+> [#yourturn]{style="color: green"}  
+> If language transforms the way we think from individual perspectives into collective ideas, what are the implications for our society of employing the generic masculine as the standard form?
+
+## The Aftermath
+
+> [#definition]{#def-multilaboratory style="color: orchid"}  Multi-laboratory study / Many-labs study
+> 
+> A teamwork approach where people from different places or institutions follow the same rules to run the same experiment and see if they get the same results.
+
+Just over 20 years later, @brohmer_effects_2024 replicated the study (Experiment 2) by Stahlberg and colleagues. The main experiment consisted of a multi-laboratory study designed to evaluate the impact of the masculine generic and its linguistic alternatives on the cognitive inclusion of women.
+
+
+> [#definition]{#def-genderinclusivelanguage style="color: orchid"}  Gender Inclusive Language  
+> 
+> Gender inclusive language is a tool of grammatical structure to transform the way we think, eliminating gender biases and ensuring visibility, belonging, and identity of all people.
+
+Under the false premise that they were answering a quiz to evaluate their media knowledge, participants were asked to quickly name three famous celebrities for several social categories. In the replication of the original study (Experiment 2), four categories were used (politicians, athletes, singers and TV presenters); in the extension section, two additional categories were added (writers and actors). Participants randomly completed one of several versions of the questionnaire, which differed solely in the grammatical/linguistic form in which the instruction was written (the type of generic); traditional masculine generic (e.g. “heroes”), a neutralized control, feminine-masculine split words pairs (e.g. “heroines and heroes”), the capital internal “I” form (e.g. “heroInes”) and the gender star (e.g. “hero:ines” or “hero\*ines”, in German: Held:innen or Held\*innen), which was added to this new study.
+
+> [#definition]{#def-genderstar style="color: orchid"}  Gender Star 
+>  
+> Gender star is an inclusive typography resource ( :, \*, @, x, e) that breaks away from traditional linguistic structures. Its function is to simultaneously make men, women and diverse identities visible within a single word, challenging the norm of the generic masculine.
+
+The primary dependent variable consisted of the total number of female celebrities mentioned by the participants in their responses. The researchers wanted to see if the type of language used changed the balance of men and women people thought by default. Unlike the original 2001 study (Experiment 2 which only had 90 participants from a single environment), this work was expanded to include 2,697 people across 12 different laboratories in Germany, Austria and Switzerland.
+
+Participants were also asked what actual percentage of women they believed existed in those professions to control whether their retrieval was due to social reality or purely to language. Additionally, the study evaluated whether contemporary ideological and demographic variables influenced the bias. The results confirmed that women, individuals with a positive attitude toward gender-inclusive language, and those with a left-leaning political orientation tended to name more female figures. Although personal variables had an effect, the type of language used remained the primary and most statistically significant factor.
+
+The experiment confirmed and replicated the results of the original study; when participants were presented with instructions in the masculine generic or the neutral form, they retrieved significantly fewer women. In contrast, the three alternative forms of inclusive language (split pairs, internal “I” and gender-star) effectively facilitated the cognitive retrieval and visibility of female exemplars in memory.
+
+> [#yourturn]{style="color: green"}  
+> Considering that over two decades have passed since Stahlberg’s original study, does this suggest that linguistic structures are more resilient to change than contemporary social and cultural values?
+
+Previous studies were conducted in the aforementioned countries of the European Alpine region, focusing exclusively on the German language. This study has not been replicated within a Global South population, specifically in Latin America (at least not under the same conditions and criteria as Experiments 1 and 2). However, an alternative investigation is reviewed (Experiment 2 of this study), which focuses on inclusive language and its effect on the cognitive visibility of women.
+
+In Spanish, the generic masculine (ending in -o, as in “los médicos”, in English: “the doctors”) is traditionally used to refer to both men and women [@gygax_generically_2008]. Nonetheless, in recent years non-binary or inclusive variants have emerged, such as using -x or -e endings or los/as articles –– for instance, “les médiques” or “los/as médicos” [@gelormini_lezama_ambiguedad_2023]. To find out what people think of when they come across these generic forms or inclusive variants (whether they picture men, women or both), two authors designed a study with two experiments to evaluate a sample population in Argentina.
+
+In Experiment 2 of Stetie & Zunino's [@stetie_non-binary_2022] study, a total of 538 individuals participated: 386 were women, 131 were men and 21 identified as non-cisgender, with an overall mean age ranging between 29 and 34 years across groups. To conduct the study, the authors utilized an online, self-paced reading paradigm to measure the millisecond the brains needed to process each word, as well as the cognitive representation formed automatically. Participants read 18 experimental sentences where the grammatical subject varied across three morphological conditions (-o, -x, -e) and three levels of social stereotypicality associated with the profession (low, medium, high). For example: “Los maestros” (generic masculine, in English: “the teachers”), “Lxs hijxs” (-x form, in English: “the children”), “Les enfermeres” (-e form, in English: “the nurses”). Using specialized software, the participant read the complete sentence on the screen. Immediately afterward, the sentence disappeared, and a mandatory multiple-choice question was presented. This question featured a unique design: proper names were used as options to identify whether the cognitive representation of the sentence's subject was a man, a woman, or a mixed group. For example, one question was, “To which of the following options can ‘los maestros’ refer?” (generic masculine, in English: “the teachers”) and the choices were:  
+
+<ol type="a">
+  <li>“Manuel”</li>
+  <li>“Carolina” </li>
+  <li>“Manuel, Marta and other people”</li>
+  <li>“Carolina, Marta and other women”</li>
+  <li>“Manuel, Federico, and other men”</li>
+</ol>
+
+
+The results demonstrated that the non-binary forms (-e and -x) overwhelmingly led to the selection of the “men and women” option, represented by the mixed-group choice (e.g. “Manuel, Martha and other people”). On the other hand, when faced with the generic masculine (-o), the responses for the “only men” option were the ones that predominated (e.g. “Manuel, Federico and other men”).
+
+> [#yourturn]{style="color: green"}  
+> Given that the experiments were conducted exclusively within the European Alpine regions, how critical is it for psychological science and society to test these assumptions within a Global South context?
+
+Recent studies demonstrate how language shapes social perception turning individuals' perspectives and mindsets into shared realities [@gross_origins_2010; @keith_ladies_2022; @brohmer_effects_2024]. Empirical evidence from German- and Spanish-speaking contexts shows that the use of the generic masculine makes women invisible by predominantly evoking masculine representations in memory.
+
+## Conclusion
+
+As a study that has shown strong results through several replications and across different periods, evidence is still scarce to represent data from certain regions of the world and other languages, given that previous studies only include German and within similar contexts. Spanish, French, Arabic and Italian are also within the sphere of languages that use grammatical masculine forms and they account for a large speaking population. Currently, there is an ongoing debate that the generic masculine bias might be decreasing due to the gradual incorporation of inclusive language; hence, researchers need to continue replicating these studies across different contexts and periods to gather a more representative and diverse data set [@rothermund_reminding_2024].
+
+> [#yourturn]{style="color: green"}  
+> If a change in the structure of the words we use can alter the visibility of women in our minds, yet over twenties years of social progress have failed to weaken the bias of the masculine generic, what does this tell us about the relationship between language, shared beliefs and human memory?
