@@ -1,0 +1,59 @@
+# [Social Norms]{style="color: #004b23"} 
+
+[written by Saihan M. Verdugo Lauterio (original draft), Mariangel Degollado Cohen (original draft), Martha Frías Armenta (revision), Nadia Saraí Corral-Frías (revision), M. Yancy Lucas (revision), and Sergio Barbosa (revision)]{style="color: gray;"}
+
+## The Classic 
+
+While we experience our daily world, we rarely question the extent to which human behavior is coordinated. Every day, we perceive social norms as natural aspects of behavior, when in fact they are collective constructions that change over time and are maintained through social mechanisms.
+
+There are many important experiments through which we can understand how social norms affect our interactions, but in this section we will focus on one especially influential study: the @cialdini_focus_1990 experiment. As an antecedent of this experiment, Asch’s [-@asch_effects_1951] experiment (see the chapter on [conformity](chapter21.qmd) in this book) showed how group opinions can influence individuals’ actions even when perceptual evidence indicates otherwise, giving evidence of how social norms may influence behaviors. @cialdini_focus_1990 take this further and distinguish between two types of social norms: descriptive norms and injunctive norms.
+
+> [#definition]{#def-socialnorm style="color: orchid"}  
+> Social Norm  
+> A social standard that enables the evaluation of behaviors as appropriate or inappropriate within a specific context.
+
+@cialdini_focus_1990 proposed the Focus Theory of Normative Conduct. According to this theory, social norms can be divided into two main types [@bicchieri_grammar_2005; @cialdini_focus_1991; @kelman_processes_1961]: descriptive norms and injunctive or prescriptive norms. Descriptive norms indicate what most people do in a given situation (it´s assumed that if many people do something, it is common or accepted). On the other hand, injunctive or prescriptive norms, prescribe behavior given that they represent socially sanctioned rules. The Focus Theory suggests that the influence of social norms depends on which norm is most salient in individuals’ attention at a given moment.
+
+> [#definition]{#def-descriptivenorms style="color: orchid"}  Descriptive Norms  
+> 
+> Descriptive norms refer to what people believe is the description of group behavior (decisions based on limited information may generate misperceptions; thus, perceived norms do not necessarily reflect actual group behavior), whose main influence on behavior is of informative nature.
+
+To conduct their study, @cialdini_focus_1990 sought to identify how context influences injunctive and descriptive norms. This publication presented five studies examining whether context, quantity, and order of trash, among other variables, influenced littering. However, the first study became the most popular, whose main hypothesis proposed that behavior would depend on which norm was more salient in a given situation. To examine this, they designed several field experiments. One of the best-known experiments involved placing a flyer on the windshield of parked cars and observing whether people threw it on the ground or kept/disposed of it appropriately. Here, the participants’ littering behavior was the key dependent variable. The environment was manipulated by creating either clean settings or littered settings with trash laying on the floor. From the environment, the authors argued, participants would infer a descriptive social norm: that people generally kept the area clean or that other people also engaged in littering. In short, the expectation was that participants in an environment where littering was not the descriptive social norm (clean environment) would themselves litter less than in an environment where others had visibly littered (i.e., where littering was the descriptive social norm). Indeed, results showed that when the environment was littered, people tended to litter more. In contrast, when the environment was clean, littering behavior decreased.
+
+> [#definition]{#def-injunctivenorms style="color: orchid"} Injunctive Norms  
+>  
+> Injunctive norms refer to what people believe a group approves or disapproves of, -the ought-, whose influence is manifested through the group’s normative pressure.
+
+The experiment also included an actor (a confederate) who walked by and did one of two things: either littered on the ground or simply walked past. In this study, the clean or dirty space communicated the descriptive norm; that is, whether people usually littered or not. Meanwhile, the prescriptive norm (what is socially acceptable) corresponded to the idea that “one should not litter in public spaces”. It is important to mention that in this study, the prescriptive norm was not directly manipulated. On the other hand, the accomplice actor intended to manipulate the normative focus, that is, to direct the participant's attention to the environment at the moment of littering. Both environmental and actor manipulations significantly impacted participant’s behavior.
+
+The results showed that when the environment was clean and the actor walked by without littering, 14% of participants threw away the flyer. However, when the actor littered, this percentage decreased to 6%. On the other hand, in a dirty environment, 32% of participants threw away the flyer when the actor walked by without littering, whereas this percentage increased to 54% when the actor littered. This suggests that the actor fulfilled his role by directing the participant's attention to the state of the environment.
+
+These studies demonstrated that a social norm guides behavior more effectively when it is “active” or salient for the individual within a specific context. Likewise, the distinction between descriptive and injunctive norms made it possible to understand how everyday environments and modelling shape human behavior. This laid the foundation for multiple applications in social campaigns, public health, and behavioral design. The experiment by Cialdini, Reno, and Kallgren extended the analysis of social norms to everyday settings independent of direct observation of behavior, also incorporating the role of environmental cues.
+
+> [#yourturn]{style="color: green"}  
+> Why is it important to understand social rules within their context? What kind of social reinforcers or sanctions can you identify in the maintenance of everyday norms around you?
+
+## 2 The Aftermath
+
+Research on social norms continued to expand following Cialdini, Reno, and Kallgren's [-@cialdini_focus_1990] work. A recent replication study showed that the Focus Theory of Normative Conduct remains relevant, as the clean or dirty state of the environment influenced participants’ littering behavior. However, the researchers observed that even a single piece of litter can lead people to violate the prescriptive norm of “not littering” [@bergquist_replicating_2021].
+
+Through the use of the concepts of descriptive and injunctive norms to understand complex social behaviors, several recent studies and meta-analyses have shown that social norms can influence multiple domains of human behavior, including consumer behavior, public health, crime, and environmental behaviors. A meta-analysis based on 572 articles from 56 countries showed that pro-environmental behavior can be influenced by descriptive and prescriptive norms with similar strength. Furthermore, the studies allowed for a comparison of this effect with internalized norms, which proved to be stronger predictors [@helferich_direct_2023].
+
+> [#definition]{#def-internalnorms style="color: orchid"}  Internalized Norms  
+> 
+> An internalized norm consists of a social expectation that a person has incorporated into their beliefs and values. Thus, when a norm is internalized, it influences behavior without relying on external social pressure.
+
+Another meta-analysis of 297 studies on the influence of social norms on consumer decisions shows favorable results regarding the influence of descriptive norms on behavior and prescriptive norms on intentions to engage in certain behaviors. It also found differences based on aspects of the norm itself (origin, clarity) as well as on the individuals involved (gender and age).
+
+Recent research in public policy has shown how social norms can significantly influence consumer behavior and tax collection, particularly when they interact with other psychological and contextual variables such as institutional trust and perceptions of legitimacy [@bevilacqua_incumplimiento_2024]. Similarly, @schultz_constructive_2007 found that descriptive norms can reduce domestic electricity consumption; however, they also identified a possible “boomerang effect,” in which some individuals who already displayed environmentally responsible behaviors increased their consumption after learning that they were below the average consumption level of others. Likewise, a study that sought to identify protective factors against antisocial behavior found that the legitimacy of authorities and personal control functioned as protective factors, whereas social control had no effect in groups with antisocial tendencies, where group sanctions could even reinforce delinquent behaviors rather than inhibit them [@frias_armenta_social_2022].
+
+All in all, it appears that social norms, although a powerful motivator to change behavior, may show wide variation in their effectiveness according to attitudes and beliefs about the behavior, availability of resources around the considered behavior among others [@barbosa_intenciones_2023]. Similarly, another important point discussed in the literature is that interventions based on social norms may normalize or even reinforce behaviors opposite to those intended, especially when the norms are descriptive and negative, e.g., “many people litter, but you should not” [@cialdini_focus_1990; @schultz_constructive_2007]. In addition, studies on social norms tend to be limited by methodological factors such as culturally homogeneous samples or difficulties in applying the findings across different social contexts.
+
+> [#yourturn]{style="color: green"}  
+> How do you think social norms vary in different countries? How would you perform a sociocultural differences study to test these differences?
+
+## 3 Conclusion
+
+It is important to remember that social norms are “created”, modified, and they thrive or disappear, by collective (in)action which means that they do not constitute an objective fact of reality, they are social constructions. Also, as all social constructions, they are not independent of social, political or historical forces at play in any given moment and space. Therefore, it is necessary to critically assess the value judgments that arise from social norms and analyze their function within the group. This line of reasoning becomes relevant when we take into consideration that social norms help shape an individual´s social identity, understanding it as a self-concept that derives from the internalization of groups norms, beliefs, and values [@turner_towards_2010].
+
+@cialdini_focus_1990 expanded on Asch’s [-@asch_effects_1951] study understanding by identifying two types of social norms: injunctive and descriptive norms. These norms could shape behavior not only directly, but also through environmental cues, demonstrating that social norms operate both explicitly and implicitly and are embedded in everyday life. Although the study of social norms continues to advance, current research shows that their influence is not uniform and depends on various contextual, cultural, and personal factors.

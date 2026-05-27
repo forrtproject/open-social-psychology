@@ -7,20 +7,20 @@
 In 1951, Solomon Asch, a Polish-American psychologist, sought to answer the question to what extent social pressure from a group can influence an individual's behavior, even when the group is objectively wrong — a psychological mechanism underlying conformity. The experiment was conducted at a time when the world was grappling with the aftermath of World War II, and there was a growing concern about the dangers of conformity and groupthink.
 
 
-> [#definition]{#def-conformity style="color: orchid"}  
-> Conformity  
+> [#definition]{#def-conformity style="color: orchid"}  Conformity
+>   
 > Conformity is changing one’s behavior, judgment, or opinion to match a group, even when the group is objectively wrong [@asch_effects_1951; @asch_studies_1956]. Solomon Asch measured it by how often a real participant gave the same incorrect answer as unanimous confederates on clear line-judgment tasks.
 
-> [#definition]{#def-groupthink style="color: orchid"}  
-> Groupthink  
+> [#definition]{#def-groupthink style="color: orchid"}  Groupthink 
+>  
 > Groupthink is a psychological phenomenon where a desire for group harmony or conformity results in irrational or dysfunctional decision-making. It occurs when group members suppress dissenting opinions, self-censor, and fail to critically evaluate alternatives to maintain consensus [@janis_victims_1972]. Unlike Asch’s [-@asch_effects_1951] conformity to perceptual judgments, groupthink describes flawed collective decisions in cohesive, insulated groups under stress. Some indicators of groupthink include collective rationalization and stereotyping outgroups.
 
 
 @asch_effects_1951 was inspired by earlier studies on social influence, such as the work of @sherif_study_1935, which demonstrated that people's judgments can be influenced by others. Asch’s social influence theory proposed that conformity tends to override personal critical judgment due to informational and normative influence. In his study, he designed a “vision test” experiment involving 123 male college students. Each participant was placed in a group of 7-9 confederates — actors who were in on the experiment. They were asked to complete a simple task to identify which line (A, B, or C) was the same length as a reference line. The lines were presented on a card, and the participant had to respond aloud, along with the confederates. The participant was seated at the end of the table, and each of the confederates would give their answers first, followed by the participant. The experiment consisted of 18 trials, with the confederates giving incorrect answers on 12 of the trials. The participant's response was the focus of the study. Asch’s findings were evident. Participants provided accurate responses in 99% of trials when confederates offered correct answers. Conversely, when confederates presented incorrect answers, participants conformed to the group's erroneous response in 32% of instances. A substantial proportion (75%) of participants conformed to the group's incorrect answer on at least one occasion. Notably, when a partner (a confederate providing correct answers) was introduced, conformity decreased to 5%. The findings indicated that participants exhibited increased conformity to the group's opinion when the group 1) presented a unanimous incorrect answer, 2) expressed uncertainty regarding their own judgment, and 3) consisted of individuals with “elevated” social status, in this case participants’ fellow students. Asch concluded that people have the tendency to conform to group opinions, even when they contradict personal judgment. The findings suggest this behavior is driven by a desire to avoid social rejection and preserve harmony within the group. Because the task was simple and the correct answer was visually obvious, the study provided a powerful demonstration that conformity can occur even when there is little genuine uncertainty about what is correct. Moreover, the findings underscored the role of social support, showing that even one ally can be enough to weaken majority pressure and encourage independent judgment.
 
 
-> [#definition]{#def-confederate style="color: orchid"}  
-> Confederate  
+> [#definition]{#def-confederate style="color: orchid"}  Confederate  
+> 
 > A confederate was an actor in on the experiment who posed as a regular participant [@asch_effects_1951; @asch_studies_1956]. Asch’s original line-judgment experiments used male college students from Swarthmore College as confederates; however, other variations of his paradigm have used non-college students. Confederates were physically present in the experiment room with the one real participant. Their role was to deliberately give unanimous incorrect answers on line-judgment tasks, creating group pressure to test whether the real participant would conform or maintain their own accurate judgment.
 
 

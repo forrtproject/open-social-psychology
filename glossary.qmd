@@ -67,6 +67,8 @@ Two variables are said to correlate when there is a relationship between the two
 #### [Demand Characteristics](chapter10.qmd#def-demandcharacteristics)
 These are cues in an experiment that give away what the researcher expects, which can lead participants to change their behavior to fit those expectations.
 
+#### [Descriptive Norms](chapter22.qmd#def-descriptivenorms)
+Descriptive norms refer to what people believe is the description of group behavior (decisions based on limited information may generate misperceptions; thus, perceived norms do not necessarily reflect actual group behavior), whose main influence on behavior is of informative nature.
 
 
 #### [Discriminant Validity](chapter15.qmd#def-discriminantvalidity)
@@ -143,8 +145,16 @@ An evolution of the forced-compliance paradigm [@linder1967decision] where parti
 #### [Ingroup](chapter13.qmd#def-ingroup)
 One’s own social group (as opposed to other groups, called outgroups).
 
+#### [Injunctive Norms](chapter22.qmd#def-injunctivenorms)
+Injunctive norms refer to what people believe a group approves or disapproves of, -the ought-, whose influence is manifested through the group’s normative pressure.
+
+
 #### Intergroup Bias ([Intergroup Contact Theory](chapter12.qmd#def-intergroupbias), [Hot Coffee Effect](chapter20.qmd#def-intergroupbias))
 Tendency to favour one’s own social group (ingroup) over other groups (outgroups), which often leads to negative attitudes or behaviours toward outgroup members.
+
+#### [Internalized Norms](chapter22.qmd#def-internalnorms)
+An internalized norm consists of a social expectation that a person has incorporated into their beliefs and values. Thus, when a norm is internalized, it influences behavior without relying on external social pressure.
+
 
 #### [Intuitive Behavior](chapter14.qmd#def-intuitivebehavior)
 Behavior that occurs through automatic, prepotent and effortless cognitive operations. Commonly referred to as “System 1”, these mental operations are fast, associative and hard to control (Kahneman, 2002; Stanovich & West, 2000).
@@ -327,6 +337,9 @@ A dual-process theoretical framework illustrating that social decision-making li
 
 #### [Social Loafing](chapter7.qmd#def-socialloafing)
 Social loafing or the Ringelmann effect refers to the decrease in individual effort that occurs when people work as part of a group rather than independently.
+
+#### [Social Norm](chapter22.qmd#def-socialnorm)
+A social standard that enables the evaluation of behaviors as appropriate or inappropriate within a specific context.
 
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.

@@ -13,7 +13,7 @@ book:
           address: Welthandelsplatz 1
           city: 1020 Wien
           state: Austria
-  date: 2026-05-06
+  date: 2026-05-27
   downloads: [pdf, epub]
   page-footer: 
     left: |
@@ -48,8 +48,9 @@ book:
     - chapter7.qmd #Social Loafing (Ringelmann Effect)
     - chapter8.qmd #Social Facilitation
     - chapter1.qmd #Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies
-    - chapter9.qmd #Minimal Group Effect
     - chapter10.qmd #Standford Prison Experiment
+    - chapter22.qmd #Social Norms
+    - chapter9.qmd #Minimal Group Effect
     - chapter11.qmd #Stereotype Threat
     - chapter12.qmd #Intergroup Contact Theory
     - chapter13.qmd #Bystander Effect

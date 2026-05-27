@@ -10,10 +10,13 @@ It contains five chapters on classic studies addressing social influence:
 - [Social Facilitation](chapter8.qmd)
 - [Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies](chapter1.qmd)
 
-Moreover, there are four chapters that are dedicated specifically to social influence exherted by social groups. These chapters cover the following themes: 
+Two further chapters address the influence of social roles and social norms on behavior:
+- [Stanford Prison Experiment](chapter10.qmd)
+- [Social Norms](chapter22.qmd)
+
+Moreover, there are three chapters that are dedicated specifically to social influence exerted by social groups. These chapters cover the following themes: 
 
 - [Minimal Group Effect](chapter9.qmd)
-- [Stanford Prison Experiment](chapter10.qmd)
 - [Stereotype Threat](chapter11.qmd)
 - [Intergroup Contact Theory](chapter12.qmd)
 
