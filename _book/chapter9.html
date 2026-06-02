@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.556">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Open Social Psychology - 15&nbsp; Minimal Group Effect</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./chapter11.html" rel="next">
+<link href="./chapter23.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./chapter9.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Minimal Group Effect</span></span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./resources/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Open Social Psychology</a> 
+        <div class="sidebar-tools-main">
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/rimamrahal/OpenSocialPsychology">
+            Source Code
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/rimamrahal/OpenSocialPsychology/issues">
+            Report a Bug
+            </a>
+          </li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-1">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Open-Social-Psychology.pdf">
+              <i class="bi bi-bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Open-Social-Psychology.epub">
+              <i class="bi bi-bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Preface</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howthisbook.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">How this Book Came to Be</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">How to Use this Book</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Introduction</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Scientific Research in Social Psychology</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Part 1: Foundations of Social Psychology</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Pygmalion Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Cognitive Dissonance</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter15.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Implicit Association Test and Attitudes</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Ego Depletion</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Feeling the Future</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Part 2: Social Influence, Groups and Prosocial Behavior</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter21.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Conformity</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Obedience to Authority</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter7.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Loafing (Ringelmann Effect)</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter8.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Facilitation</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter24.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Trust</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter10.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Stanford Prison Experiment</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter22.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Norms</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter23.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Effects of the Generic Masculine</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter9.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Minimal Group Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Stereotype Threat</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter12.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Intergroup Contact Theory</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter13.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Bystander Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter14.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Heuristics Hypothesis</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Part 3: Social Cognition, Bias and Priming</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter16.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">False Consensus Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter17.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Facial Feedback Hypothesis</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter18.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Heat Priming-Hostile Perception Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter19.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Florida Priming Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter20.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Hot Coffee Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./glossary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Glossary</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Thanks</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#the-classic" id="toc-the-classic" class="nav-link active" data-scroll-target="#the-classic"><span class="header-section-number">15.1</span> The Classic</a></li>
+  <li><a href="#the-aftermath" id="toc-the-aftermath" class="nav-link" data-scroll-target="#the-aftermath"><span class="header-section-number">15.2</span> The Aftermath</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion"><span class="header-section-number">15.3</span> Conclusion</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Minimal Group Effect</span></span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><span style="color: gray;">written by Angel Sánchez-Zavala (original draft), Nadia Saraí Corral Frías (revision), and M. Yancy Lucas (revision)</span></p>
+<section id="the-classic" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="the-classic"><span class="header-section-number">15.1</span> The Classic</h2>
+<blockquote class="blockquote">
+<p><span id="def-socialgroup" style="color: orchid">#definition</span><br>
+Social Group<br>
+A social group consists of two (often called a dyad) or more individuals who depend on each other and influence each other through their social interactions.</p>
+</blockquote>
+<p>The 20th century was marked by widespread armed global conflict, including the First and Second World Wars, the Cold War, numerous civil wars and revolutions, as well as genocides and the rise of totalitarian regimes. The common denominator of these conflicts (with an estimated death rate of 200 million people) is their strong intergroup core <span class="citation" data-cites="bohm_psychology_2020 ponting_twentieth_1999">(<a href="references.html#ref-bohm_psychology_2020" role="doc-biblioref">Böhm et al., 2020</a>; <a href="references.html#ref-ponting_twentieth_1999" role="doc-biblioref">Ponting, 1999</a>)</span>. This historical context, alongside 21st century group-based conflicts such as political polarization or collective digital hostility <span class="citation" data-cites="cole_social_2025 levine_golden_2025">(<a href="references.html#ref-cole_social_2025" role="doc-biblioref">Cole et al., 2025</a>; <a href="references.html#ref-levine_golden_2025" role="doc-biblioref">Levine, 2025</a>)</span>, prompted social psychologists to investigate the scientific basis of intergroup conflict, resulting in the development of multiple lines of research. One of the most prominent intergroup theories of the second half of the 20th century is Henri Tajfel’s “Minimal Group Paradigm” <span class="citation" data-cites="tajfel_experiments_1970 tajfel_social_1971">(<a href="references.html#ref-tajfel_experiments_1970" role="doc-biblioref">Tajfel, 1970</a>; <a href="references.html#ref-tajfel_social_1971" role="doc-biblioref">Tajfel et al., 1971</a>)</span>. Tajfel and colleagues were interested in studying how arbitrary (non-realistic) intergroup differences might lead to group favoritism and discrimination, this is the so-called “Minimal Group Effect”.</p>
+<blockquote class="blockquote">
+<p><span id="def-minimalgroupeffect" style="color: orchid">#definition</span><br>
+Minimal Group Effect<br>
+An inclination to favor one’s own group even when group membership is weak or superficial, there is no history of intergroup conflict, and there is a lack of member interaction or conflicting interests.</p>
+</blockquote>
+<p>Following <span class="citation" data-cites="brown_origins_2020">Brown (<a href="references.html#ref-brown_origins_2020" role="doc-biblioref">2020</a>)</span>, the Minimal Group Effect has two significant historical antecedents: (1) The foundation of the European Association of Experimental Social Psychology (EAESP) as a direct answer to the descriptive and philosophical social psychology schools; (2) Compared to contemporary theories such as the frustration-aggression theories <span class="citation" data-cites="berkowitz_aggression_1962 sherif_intergroup_1961">(<a href="references.html#ref-berkowitz_aggression_1962" role="doc-biblioref">Berkowitz, 1962</a>; <a href="references.html#ref-sherif_intergroup_1961" role="doc-biblioref">Sherif et al., 1961</a>)</span> or Adorno’s et al <span class="citation" data-cites="adorno_authoritarian_1952">(<a href="references.html#ref-adorno_authoritarian_1952" role="doc-biblioref">1950</a>)</span> psychoanalytic-based authoritarian personality theory, the minimal group paradigm proved to be a fruitful research program, capable of testing new hypothesis in different settings.</p>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span><br>
+Which social groups do you belong to? Do you treat members of your group differently than people who don’t belong to the group?</p>
+</blockquote>
+<p>Henri Tajfel believed that it was possible to conduct socially relevant experimental research with external validity within social psychology <span class="citation" data-cites="brown_henri_2019">(<a href="references.html#ref-brown_henri_2019" role="doc-biblioref">Brown, 2019</a>)</span>, which lead him to test a research question similar to the proposed by Rabbie and Horwitz <span class="citation" data-cites="rabbie_arousal_1969 brown_henri_2019 brown_origins_2020">(<a href="references.html#ref-rabbie_arousal_1969" role="doc-biblioref">Rabbie &amp; Horwitz, 1969</a>; for an analysis on the originality of the research idea behind the minimal group paradigm, see <a href="references.html#ref-brown_henri_2019" role="doc-biblioref">Brown, 2019</a>, <a href="references.html#ref-brown_origins_2020" role="doc-biblioref">2020</a>)</span>. Crucially, this paradigm aimed to strip away prior interaction, conflict, or instrumental interests, isolating mere group categorization as the key variable. Therefore, <span class="citation" data-cites="tajfel_social_1971">Tajfel et al. (<a href="references.html#ref-tajfel_social_1971" role="doc-biblioref">1971</a>)</span> recruited participants aged 14 and 15 years old and asked them to guess how many dots were projected onto a screen or indicate their preferences for paintings by Klee or Kandinsky. Participants were then privately assigned to groups (e.g., “overestimators” vs.&nbsp;“underestimators”, or “Klee group” vs.&nbsp;“Kandinsky group”), ostensibly based on their responses, although in reality the assignment was random. Importantly, group membership was anonymous, and participants did not know the group allocation of their peers. In a subsequent task, participants allocated monetary rewards to anonymous others using matrices that presented different payoff combinations. These matrices allowed participants to choose between options that maximized ingroup gain, fairness, or the difference between groups. Notably, some choices involved sacrificing absolute rewards in order to increase relative advantage for the ingroup, thereby providing a measure of intergroup bias. This design enabled researchers to test whether mere categorization was sufficient to produce discriminatory behavior.</p>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span><br>
+Reconsider the question above: Based on such minimal assignments of group membership, which groups might you belong to?</p>
+</blockquote>
+<p>Results showed that participants consistently favored their own group, even though this meant sacrificing maximum joint outcomes. Despite the complete anonymity and the minimal arbitrary nature of the group categories, this favoritism still happened. The act of classifying individuals into trivial groups was sufficient to demonstrate deliberate discriminatory behavior in favor of the ingroup, regardless of any personal gain, prior relationships, or memory of who preferred which painter.</p>
+</section>
+<section id="the-aftermath" class="level2" data-number="15.2">
+<h2 data-number="15.2" class="anchored" data-anchor-id="the-aftermath"><span class="header-section-number">15.2</span> The Aftermath</h2>
+<p>Researchers over the last decades have increasingly focused on the factors and situational contexts that contribute to enhancing intergroup discrimination in the minimal group paradigm. A recent meta-analysis <span class="citation" data-cites="pechar_moderators_2017">(<a href="references.html#ref-pechar_moderators_2017" role="doc-biblioref">Pechar &amp; Kranton, 2017</a>)</span> reviewed over four decades of studies of the minimal group effect to identify which factors increase or decrease intergroup conflict. Based on the evidence, the minimal group ingroup bias varies based on the contextual and psychological factors that are activated. There are two variables that are consistent drivers of intergroup discrimination:</p>
+<p>Identity salience is the most consistent enhancer. Studies showed that framing the group assignment as chosen rather than random or inducing a sense of common fate among ingroup members enhanced discriminatory behaviors. Norm priming is also a strong moderator, with studies priming loyalty, competitiveness, or a perception of the outgroup as immoral increasing intergroup bias, while emphasizing egalitarian values decreased it.</p>
+<p>Pechar and Kranton’s <span class="citation" data-cites="pechar_moderators_2017">(<a href="references.html#ref-pechar_moderators_2017" role="doc-biblioref">Pechar &amp; Kranton, 2017</a>)</span> meta-analysis also identified variables with inconsistent findings. For instance, Studies examining group status have produced conflicting results. While some studies indicate that high-status groups discriminate more than low-status groups, other studies report the opposite pattern (high-status groups discriminating less), null effects, or mixed evidence. On the other hand, several studies have tested whether the Positive-Negative Asymmetry Effect (PNAE) increases intergroup conflict. With few studies confirming the PNAE, while others find no such pattern.</p>
+<blockquote class="blockquote">
+<p><span id="def-pnae" style="color: orchid">#definition</span><br>
+Positive-Negative Asymmetry Effect<br>
+Individuals tend to discriminate more when given positive outcomes (e.g., money or points) than when given negative outcomes (e.g., fines).</p>
+</blockquote>
+<p>Several additional variables have received less empirical attention <span class="citation" data-cites="pechar_moderators_2017">(<a href="references.html#ref-pechar_moderators_2017" role="doc-biblioref">Pechar &amp; Kranton, 2017</a>)</span>. There is little evidence showing that males and younger children exhibit higher levels of discrimination in minimal group contexts. Research on mood suggests that both positive affective states and high uncertainty can amplify bias. Group size has yielded mixed evidence, where studies show that in the absence of enhanced group salience, only minority groups discriminate more, whereas after salience was primed, both minority and majority groups displayed similar levels. Personality traits are relatively weak enhancers of minimal group discrimination, with social dominance orientation consistently linked to increased discrimination.</p>
+<blockquote class="blockquote">
+<p><span id="def-sdo" style="color: orchid">#definition</span><br>
+Social Dominance Orientation<br>
+The belief that society should be organized hierarchically, which endorses hierarchy and legitimizes myths such as sexism, racism, classism, etc.</p>
+</blockquote>
+<p>Beyond these findings, a major limitation on the minimal group effect studies is that most research relies on samples drawn from the Global North, predominantly white, middle-class university students <span class="citation" data-cites="pechar_moderators_2017">(<a href="references.html#ref-pechar_moderators_2017" role="doc-biblioref">Pechar &amp; Kranton, 2017</a>)</span>. This raises concerns about generalizability, for instance, <span class="citation" data-cites="falk_cultural_2014">Falk et al. (<a href="references.html#ref-falk_cultural_2014" role="doc-biblioref">2014</a>)</span> tested the minimal group effect in participants from the United States and Japan, where United States participants displayed higher ingroup bias compared to Japanese participants. <span class="citation" data-cites="rahal_cognitive_2025">Rahal &amp; Schulze Spüntrup (<a href="references.html#ref-rahal_cognitive_2025" role="doc-biblioref">2025</a>)</span> conducted a 20-country study on ingroup favoritism using the minimal group paradigm. Moving beyond the traditional Global North samples, they found that while ingroup favoritism was present in every country studied, its magnitude varied across societies, providing evidence that cultural context does shape minimal group responses. Notably, societal-level uncertainty (e.g., government effectiveness) and individualism predicted the degree of discrimination, sometimes in directions that challenge earlier theoretical predictions. Their work thus exemplifies how the field is beginning to address generalizability concerns by incorporating diverse cultural samples. Therefore, cultural norms around equality, interdependence, and institutional trust may shape minimal group responses across different cultures, but these require further cross-cultural empirical testing.</p>
+</section>
+<section id="conclusion" class="level2" data-number="15.3">
+<h2 data-number="15.3" class="anchored" data-anchor-id="conclusion"><span class="header-section-number">15.3</span> Conclusion</h2>
+<p>As one of the most prominent social psychology theories, substantial progress has been made in understanding the minimal group effect. Overall, this research demonstrates the minimal group effect relatively reliably. However, research continues to demonstrate an overreliance on samples from the Global North. This sample bias limits the external validity of findings, highlighting the need to assess the paradigm’s generalizability. For instance, Yang and colleagues’ preregistered report <span class="citation" data-cites="yang_large-scale_2024">(<a href="references.html#ref-yang_large-scale_2024" role="doc-biblioref">Yang et al., 2024</a>)</span> aims to assess the cross-cultural prevalence of the minimal group effect, while also investigating the contextual and individual level-moderators.</p>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span><br>
+Which cultural contexts do you think might shape or alter responses in minimal group effect experiments? What other variables do you think could moderate the effect?</p>
+</blockquote>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-adorno_authoritarian_1952" class="csl-entry" role="listitem">
+Adorno, T. W., Frenkel-Brunswik, E., Levinson, D., &amp; Sanford, N. (1950). <em>The <span>Authoritarian</span> <span>Personality</span></em>. Harper &amp; Brothers.
+</div>
+<div id="ref-berkowitz_aggression_1962" class="csl-entry" role="listitem">
+Berkowitz, L. (1962). <em>Aggression: <span>A</span> social psychological analysis</em>. McGraw-Hill.
+</div>
+<div id="ref-bohm_psychology_2020" class="csl-entry" role="listitem">
+Böhm, R., Rusch, H., &amp; Baron, J. (2020). The psychology of intergroup conflict: <span>A</span> review of theories and measures. <em>Journal of Economic Behavior &amp; Organization</em>, <em>178</em>, 947–962. <a href="https://doi.org/10.1016/j.jebo.2018.01.020">https://doi.org/10.1016/j.jebo.2018.01.020</a>
+</div>
+<div id="ref-brown_henri_2019" class="csl-entry" role="listitem">
+Brown, R. (2019). <em>Henri <span>Tajfel</span>: <span>Explorer</span> of <span>Identity</span> and <span>Difference</span></em>. Routledge. <a href="https://doi.org/10.4324/9780429491382">https://doi.org/10.4324/9780429491382</a>
+</div>
+<div id="ref-brown_origins_2020" class="csl-entry" role="listitem">
+Brown, R. (2020). The origins of the minimal group paradigm. <em>History of Psychology</em>, <em>23</em>(4), 371–382. <a href="https://doi.org/10.1037/hop0000164">https://doi.org/10.1037/hop0000164</a>
+</div>
+<div id="ref-cole_social_2025" class="csl-entry" role="listitem">
+Cole, J. C., Gillis, A. J., Linden, S. van der, Cohen, M. A., &amp; Vandenbergh, M. P. (2025). Social <span>Psychological</span> <span>Perspectives</span> on <span>Political</span> <span>Polarization</span>: <span>Insights</span> and <span>Implications</span> for <span>Climate</span> <span>Change</span>. <em>Perspectives on Psychological Science</em>, <em>20</em>(1), 115–141. <a href="https://doi.org/10.1177/17456916231186409">https://doi.org/10.1177/17456916231186409</a>
+</div>
+<div id="ref-falk_cultural_2014" class="csl-entry" role="listitem">
+Falk, C. F., Heine, S. J., &amp; Takemura, K. (2014). Cultural <span>Variation</span> in the <span>Minimal</span> <span>Group</span> <span>Effect</span>. <em>Journal of Cross-Cultural Psychology</em>, <em>45</em>(2), 265–281. <a href="https://doi.org/10.1177/0022022113492892">https://doi.org/10.1177/0022022113492892</a>
+</div>
+<div id="ref-levine_golden_2025" class="csl-entry" role="listitem">
+Levine, M. (2025). A golden age of behavioural social psychology? <span>Towards</span> a social psychology of power and intergroup relations in the digital age. <em>British Journal of Social Psychology</em>, <em>64</em>(3), e12896. <a href="https://doi.org/10.1111/bjso.12896">https://doi.org/10.1111/bjso.12896</a>
+</div>
+<div id="ref-pechar_moderators_2017" class="csl-entry" role="listitem">
+Pechar, E. K., &amp; Kranton, R. (2017). <em>Moderators of <span>Intergroup</span> <span>Discrimination</span> in the <span>Minimal</span> <span>Group</span> <span>Paradigm</span>: <span>A</span> <span>Meta</span>-<span>Analysis</span></em>. Semantic Scholar. <a href="https://www.semanticscholar.org/paper/Moderators-of-Intergroup-Discrimination-in-the-%3A-A-Pechar-Kranton/0a1f7c2330ae9c85ad13b2a374c0ed21e4ace4d3">https://www.semanticscholar.org/paper/Moderators-of-Intergroup-Discrimination-in-the-%3A-A-Pechar-Kranton/0a1f7c2330ae9c85ad13b2a374c0ed21e4ace4d3</a>
+</div>
+<div id="ref-ponting_twentieth_1999" class="csl-entry" role="listitem">
+Ponting, C. (1999). <em>The <span>Twentieth</span> <span>Century</span>: <span>A</span> <span>World</span> <span>History</span></em>. Henry Holt; Co.
+</div>
+<div id="ref-rabbie_arousal_1969" class="csl-entry" role="listitem">
+Rabbie, J. M., &amp; Horwitz, M. (1969). Arousal of ingroup-outgroup bias by a chance win or loss. <em>Journal of Personality and Social Psychology</em>, <em>13</em>(3), 269–277. <a href="https://doi.org/10.1037/h0028284">https://doi.org/10.1037/h0028284</a>
+</div>
+<div id="ref-rahal_cognitive_2025" class="csl-entry" role="listitem">
+Rahal, R.-M., &amp; Schulze Spüntrup, F. (2025). Cognitive processes of ingroup favoritism across 20 countries: <span>An</span> eye-tracking investigation of culture, behavior, and cognition. <em>Proceedings of the National Academy of Sciences</em>, <em>122</em>(32), e2417456122. <a href="https://doi.org/10.1073/pnas.2417456122">https://doi.org/10.1073/pnas.2417456122</a>
+</div>
+<div id="ref-sherif_intergroup_1961" class="csl-entry" role="listitem">
+Sherif, M., Harvey, O. J., White, B. J., Hood, W. R., &amp; Sherif, C. W. (1961). <em>Intergroup conflict and cooperation: <span>The</span> robbers cave experiment.</em> University of Oklahoma Book Exchange.
+</div>
+<div id="ref-tajfel_experiments_1970" class="csl-entry" role="listitem">
+Tajfel, H. (1970). Experiments in intergroup discrimination. <em>Scientific American</em>, <em>223</em>, 96–102. <a href="https://doi.org/10.1038/scientificamerican1170-96">https://doi.org/10.1038/scientificamerican1170-96</a>
+</div>
+<div id="ref-tajfel_social_1971" class="csl-entry" role="listitem">
+Tajfel, H., Billig, M. G., Bundy, R. P., &amp; Flament, C. (1971). Social categorization and intergroup behaviour. <em>European Journal of Social Psychology</em>, <em>1</em>(2), 149–178. <a href="https://doi.org/10.1002/ejsp.2420010202">https://doi.org/10.1002/ejsp.2420010202</a>
+</div>
+<div id="ref-yang_large-scale_2024" class="csl-entry" role="listitem">
+Yang, X., Schulz, J. F., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., Dalgar, I., Lewis, S. C., Exner, A., Buchanan, E. M., Lander, K., Becker, M., Du, H., Johri, A., Selcuk, E., Gallyamova, A., Calluso, C., Reggev, N., Vranka, M. A., … Dunham, Y. (2024). <em>Large-scale cross-societal examination of real- and minimal-group biases</em>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/5gpr4_v1">https://doi.org/10.31234/osf.io/5gpr4_v1</a>
+</div>
+</div>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./chapter23.html" class="pagination-link" aria-label="[Social Effects of the Generic Masculine]{style=&quot;color: #004b23&quot;}">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Effects of the Generic Masculine</span></span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./chapter11.html" class="pagination-link" aria-label="[Stereotype Threat]{style=&quot;color: #004b23&quot;}">
+        <span class="nav-page-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Stereotype Threat</span></span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Open Social Psychology</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Edited by Rima-Maria Rahal</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

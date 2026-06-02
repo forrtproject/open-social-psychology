@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.556">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Open Social Psychology - 11&nbsp; Trust</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./chapter10.html" rel="next">
+<link href="./chapter1.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./chapter24.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Trust</span></span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./resources/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Open Social Psychology</a> 
+        <div class="sidebar-tools-main">
+    <div class="dropdown">
+      <a href="" title="" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label=""><i class="bi bi-github"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/rimamrahal/OpenSocialPsychology">
+            Source Code
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/rimamrahal/OpenSocialPsychology/issues">
+            Report a Bug
+            </a>
+          </li>
+      </ul>
+    </div>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-1" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-1">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Open-Social-Psychology.pdf">
+              <i class="bi bi-bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./Open-Social-Psychology.epub">
+              <i class="bi bi-bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Preface</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howthisbook.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">How this Book Came to Be</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./howto.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">How to Use this Book</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Introduction</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Scientific Research in Social Psychology</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Part 1: Foundations of Social Psychology</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Pygmalion Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Cognitive Dissonance</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter15.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Implicit Association Test and Attitudes</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter5.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Ego Depletion</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter6.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Feeling the Future</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part2.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Part 2: Social Influence, Groups and Prosocial Behavior</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter21.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Conformity</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter4.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Obedience to Authority</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter7.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Loafing (Ringelmann Effect)</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter8.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Facilitation</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter1.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter24.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Trust</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter10.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Stanford Prison Experiment</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter22.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Norms</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter23.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Effects of the Generic Masculine</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter9.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Minimal Group Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter11.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Stereotype Threat</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter12.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Intergroup Contact Theory</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter13.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Bystander Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter14.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Social Heuristics Hypothesis</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./part3.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Part 3: Social Cognition, Bias and Priming</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter16.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">False Consensus Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter17.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Facial Feedback Hypothesis</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter18.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Heat Priming-Hostile Perception Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter19.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Florida Priming Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./chapter20.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Hot Coffee Effect</span></span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./glossary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Glossary</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span style="color: #004b23">Thanks</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#the-classic" id="toc-the-classic" class="nav-link active" data-scroll-target="#the-classic"><span class="header-section-number">11.1</span> The Classic</a></li>
+  <li><a href="#the-aftermath" id="toc-the-aftermath" class="nav-link" data-scroll-target="#the-aftermath"><span class="header-section-number">11.2</span> The Aftermath</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion"><span class="header-section-number">11.3</span> Conclusion</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Trust</span></span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><span style="color: gray;">written by Camilo Ordóñez-Pinilla (original draft), and Sergio Barbosa (revision)</span></p>
+<section id="the-classic" class="level2" data-number="11.1">
+<h2 data-number="11.1" class="anchored" data-anchor-id="the-classic"><span class="header-section-number">11.1</span> The Classic</h2>
+<p>Trust is an attitude toward others – other persons, groups of persons, and institutions – in which there is (a) an expression of vulnerability to that other, and (b) a belief that the other has the ability, the willingness, and will in fact act in ways that benefit us in light of that vulnerability, as opposed to taking personal advantage of it. For example, people leave their children in the care of other adults (to whom they are vulnerable) and express trust insofar as they believe those adults can, want to, and will care for their children well. The other in whom trust is placed may be an individual (interpersonal trust), a group (in-group/out-group trust), or an institution (institutional trust). In this chapter, we focus on interpersonal trust, where trusted others are individuals.</p>
+<blockquote class="blockquote">
+<p><span id="def-trust" style="color: orchid">#definition</span> Trust</p>
+<p>An attitude toward others – other persons, groups of persons, and institutions – in which there is (a) an expression of vulnerability to that other, and (b) a belief that the other has the ability, the willingness, and will act in ways that benefit us in light of that vulnerability as opposed to taking personal advantage of it.</p>
+</blockquote>
+<p><span class="citation" data-cites="deutsch_trust_1958">Deutsch (<a href="references.html#ref-deutsch_trust_1958" role="doc-biblioref">1958</a>)</span> was a pioneer in the experimental study of interpersonal trust. He defined trust as the expectation that something will occur—for example, that a person will behave in a certain way—such that, if this expectation is fulfilled, it results in positive and pleasant consequences for the self; whereas, if it is not fulfilled, it leads to negative and unpleasant consequences. Based on this definition, Deutsch used the Prisoner’s Dilemma as the experimental task to determine which factors motivate interpersonal trust. A Prisoner’s Dilemma is a two-player game in which each player must decide whether to cooperate with another player who is making the same decision simultaneously, knowing that mutual cooperation yields the best group outcome (known as the game’s Pareto optimum), mutual defection produces the worst outcome for both (known as the game’s Nash equilibrium), but defecting while the other player cooperates yields the best individual outcome. Prisoner’s dilemma takes its name from a relatively common situation in law enforcement where two suspects are apprehended for committing the same crime. If both suspects cooperate (i.e., do not confess to the crime) they both receive a relatively light sentence (i.e., the best “group” consequences) whereas if both defect (i.e., confess to the crime) they both get harsher sentences. Interestingly, if only one of them defects then they get the best individual outcome (i.e., no prison sentence while their accomplice gets a harsh sentence). Prisoner’s dilemmas then pit against each other individual and group interests. In this game, trust can be operationalized as a choice to cooperate even when defecting could result in a best individual outcome. Figure 1 presents a schematic representation of the prisoner’s dilemma.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="PD.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 1. In this figure, to illustrate the Prisoner’s Dilemma game, payoffs are represented as years of prison (less years the better), and each cell shows years for both players A and B. Options are 0 = no prison, -1 = one year in prison (light sentence), -6 = 6 years in prison, −10 = 10 years in prison (harsh sentence). The dashed box marks the game’s Nash equilibrium. The filled gray cell shows the collectively best outcome, reached only through mutual cooperation (the game’s Pareto optimum).</figcaption>
+</figure>
+</div>
+<p>In his main experiment, Deutsch divided participants into three groups according to the type of motivation they were expected to adopt while playing the Prisoner’s Dilemma: (1) cooperative motivation, in which participants were encouraged to consider the other person’s welfare as equally important as their own; (2) individualistic motivation, in which participants were motivated to care only about their own welfare; and (3) competitive motivation, in which participants were motivated both to maximize their own welfare and to obtain a greater benefit than the other person. Deutsch hypothesized that trust would arise when individuals interacted under a cooperative motivational orientation, would not arise in a competitive motivational context, and could arise among individuals with an individualistic motivation, provided that they had knowledge about how the other person was going to play.</p>
+<p>Unfortunately, Deutsch does not clearly explain how he ensured that participants actually adopted the motivational orientation assigned to their group while interacting in the Prisoner’s Dilemma. He only mentions that participants were verbally instructed to adopt the corresponding motivation. The paper does not report any manipulation checks or measures assessing whether these motivational manipulations were in fact successful.</p>
+<p>The results of the main experiment showed that, consistent with Deutsch’s hypotheses, whereas 89% of participants in the cooperative motivation condition trusted one another, trust emerged in only 12.5% of participants in the competitive motivation condition.</p>
+<p>Following these early experimental studies exploring the conditions under which trust emerges in strategic social interactions, empirical research also began to focus on understanding the construct structure of trust in terms of individual differences. <span class="citation" data-cites="rotter_new_1967">Rotter (<a href="references.html#ref-rotter_new_1967" role="doc-biblioref">1967</a>)</span> developed the Interpersonal Trust Scale based on the idea that trust involves a generalized expectancy that the verbal behavior of others (e.g., promises and statements) can be relied upon. A person who scores high on interpersonal trust is a person who tends to easily trust other people’s manifest intentions or promises.</p>
+<p>From a neurobiological perspective, <span class="citation" data-cites="kosfeld_oxytocin_2005">Kosfeld et al. (<a href="references.html#ref-kosfeld_oxytocin_2005" role="doc-biblioref">2005</a>)</span> was pioneering in reporting findings suggesting that oxytocin is a key neuropeptide involved in trust. To arrive at this finding, they used a trust game <span class="citation" data-cites="berg_trust_1995">(<a href="references.html#ref-berg_trust_1995" role="doc-biblioref">Berg et al., 1995</a>)</span>, in which one participant decides how much money to transfer to an anonymous partner; this amount is then tripled, and the receiving participant decides how much to return (see Figure 2). Participants who received intranasal oxytocin sent significantly more money than those who did not receive it <span class="citation" data-cites="kosfeld_oxytocin_2005">(<a href="references.html#ref-kosfeld_oxytocin_2005" role="doc-biblioref">Kosfeld et al., 2005</a>)</span>. According to <span class="citation" data-cites="baumgartner_oxytocin_2008">Baumgartner et al. (<a href="references.html#ref-baumgartner_oxytocin_2008" role="doc-biblioref">2008</a>)</span>, a possible mechanism underlying this effect is that increased oxytocin is associated with reduced activation in the amygdala, midbrain regions, and the dorsal striatum, suggesting that the mechanism involves a reduction in fear, stress, and anxiety associated with the possibility of betrayal consequently making it easier to trust someone else.</p>
+<blockquote class="blockquote">
+<p><span id="def-trustgame" style="color: orchid">#definition</span> Trust Game</p>
+<p>An experimental task used to measure interpersonal trust, in which one participant receives an initial endowment and decides how much to send to another participant. The amount sent is increased by the experimenter, and the second participant then chooses how much to return if at all. The initial transfer is interpreted as reflecting trust, as it involves risking resources under uncertainty about the other’s behavior, while the returned amount is interpreted as reflecting trustworthiness as the participant chose to return the endowment that they could have easily kept for themselves.</p>
+</blockquote>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="trust.png" class="img-fluid figure-img"></p>
+<figcaption>Figure 2. This figure represents the sequential logic of the trust game: Sender receives an endowment E and decides how much to send (S). S can be nothing, the total endowment or any other amount between them. The experimenter triples S and gives this amount (3S) to the receiver. The receiver decides how much to return(R), any amount between 0 and 3S.</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span><br>
+How much money would you send in a trust game? Why? How did you decide how much money to send?<br>
+How much money would you expect to receive from the trustee in a trust game? Why?</p>
+</blockquote>
+</section>
+<section id="the-aftermath" class="level2" data-number="11.2">
+<h2 data-number="11.2" class="anchored" data-anchor-id="the-aftermath"><span class="header-section-number">11.2</span> The Aftermath</h2>
+<p>Rotter’s definition of trust served as the main reference point in trust research until the 1980s, when important extensions were developed in the scientific literature. On the one hand, <span class="citation" data-cites="larzelere_dyadic_1980">Larzelere &amp; Huston (<a href="references.html#ref-larzelere_dyadic_1980" role="doc-biblioref">1980</a>)</span> distinguished between trust as a generalized expectancy and trust as an expectancy directed toward a specific other proposing the Dyadic Trust Scale. The difference being that one’s trust towards specific others (i.e., specific trust) can be influenced by information about the considered person such as their specific prior actions, group biases and so on. On the other hand, <span class="citation" data-cites="mayer_integrative_1995">Mayer et al. (<a href="references.html#ref-mayer_integrative_1995" role="doc-biblioref">1995</a>)</span>, reflecting on dynamics in organizational contexts, argued that trust should not be understood solely in terms of expectations about others, but also as involving a willingness to accept vulnerability in front of them <span class="citation" data-cites="evans_survey_2008">(measured, for instance, with the Propensity to Trust Survey, <a href="references.html#ref-evans_survey_2008" role="doc-biblioref">Evans &amp; Revelle, 2008</a>)</span>. In their model, trust is explained as a function of perceived ability to act positively, benevolence (a tendency to actively do good), and integrity (the alignment between the values of the trustor and the trustee).</p>
+<p>In addition, more recent approaches have proposed that trust should be defined as a form of behavior rather than as a belief, expectation, or attitude <span class="citation" data-cites="fehr_economics_2009">(<a href="references.html#ref-fehr_economics_2009" role="doc-biblioref">Fehr, 2009</a>)</span>. Within this framework, trust is understood as the act of voluntarily placing resources at the disposal of another person, accompanied by the expectation that this act will contribute to one’s own goals. Based on this definition, Fehr argues that trust, as a behavior embedded in a context of social interaction, cannot be explained solely in terms of motivational states, but rather through the interplay between individual and social preferences. Specifically, contemporary research has examined whether trust can be explained exclusively by individual preferences toward risk (i.e., risk aversion) or whether social preferences, such as betrayal aversion, must also be considered.</p>
+<p>In this context, the work of <span class="citation" data-cites="bohnet_trust_2004">Bohnet &amp; Zeckhauser (<a href="references.html#ref-bohnet_trust_2004" role="doc-biblioref">2004</a>)</span> and <span class="citation" data-cites="bohnet_betrayal_2008">Bohnet et al. (<a href="references.html#ref-bohnet_betrayal_2008" role="doc-biblioref">2008</a>)</span> is particularly important. They compared decisions across two games with identical payoff probabilities: one involving social interaction (a trust game, in which the payoff depends on how much money the other participant returns) and another involving a random process (a lottery). In both games, participants estimated a MAP (minimum acceptance probability). In the trust game, the MAP refers to the minimum probability that the other participant will return a certain amount of money required for the participant to decide to send a given amount. In the lottery game, the MAP refers to the minimum probability of obtaining a favorable outcome necessary for the participant to choose the lottery over a guaranteed gain. The results showed that participants required significantly higher probabilities (15% higher) to trust another person than to accept an equivalent lottery. These findings suggest that betrayal aversion operates beyond simple risk aversion, which was held constant across both the trust and lottery conditions.</p>
+<blockquote class="blockquote">
+<p><span id="def-betrayalaversion" style="color: orchid">#definition</span> Betrayal Aversion</p>
+<p>The tendency for people to feel greater harm or distress from a negative outcome caused by another person’s deliberate choice than from an equally bad outcome caused by chance or an impersonal source.</p>
+</blockquote>
+<p>Furthermore, psychological models of trust have evolved from approaches that understand trust as the result of choices and evaluations to models that integrate additional types of processes. <span class="citation" data-cites="mcallister_affect-_1995">McAllister (<a href="references.html#ref-mcallister_affect-_1995" role="doc-biblioref">1995</a>)</span> and <span class="citation" data-cites="jones_experience_1998">Jones &amp; George (<a href="references.html#ref-jones_experience_1998" role="doc-biblioref">1998</a>)</span> converge in proposing that there are two interconnected pathways for determining whether another person is trustworthy: a cognition-based route, grounded in having reasons to trust —information about aspects such as reliability, competence, knowledge about the other person, and the consideration of trust as a virtue or value—and an affect-based route, which takes into account factors such as mood and emotional bonds with the trustee.</p>
+<blockquote class="blockquote">
+<p><span style="color: green">#yourturn</span><br>
+Do you expect collectivistic or individualistic societies to exhibit higher levels of general trust? Why?</p>
+</blockquote>
+<p>Transcultural research has consistently demonstrated significant cultural variation in trust. In a landmark meta-analysis of 162 trust game studies, <span class="citation" data-cites="johnson_trust_2011">Johnson &amp; Mislin (<a href="references.html#ref-johnson_trust_2011" role="doc-biblioref">2011</a>)</span> found that individuals in Africa and Europe exhibit substantially lower rates of generalized trust compared to those in the United States. More recently, <span class="citation" data-cites="kwantes_predictors_2025">Kwantes et al. (<a href="references.html#ref-kwantes_predictors_2025" role="doc-biblioref">2025</a>)</span> reported that generalized trust is significantly higher in collectivist societies — such as China and Taiwan — than in individualist ones, such as the United States and Canada. In addition, some studies have identified interesting cultural similarities. For example, <span class="citation" data-cites="jin_measuring_2025">Jin et al. (<a href="references.html#ref-jin_measuring_2025" role="doc-biblioref">2025</a>)</span> found that self-reported trust—as measured by large-scale instruments such as the Global Preferences Survey—consistently exceeds experimentally elicited trust in both China and the United States, indicating a cross-cultural tendency to overestimate intentions to trust when no immediate behavioral demand is present. This study also showed that the introduction of monetary incentives reduces trust in both countries, although the effect is markedly stronger in China. These findings suggest either that, in the absence of incentives, individuals provide more socially desirable responses, or that the presence of incentives increases the perceived risk thereby lowering trust.</p>
+<p>Finally, more recent evidence regarding the role of oxytocin in trust has led many researchers to abandon the idea that oxytocin alone is the key hormone explaining the neurobiology of trust. Recent research has found that the effect of intranasal oxytocin on trust has proven difficult to replicate <span class="citation" data-cites="nave_does_2015">(<a href="references.html#ref-nave_does_2015" role="doc-biblioref">Nave et al., 2015</a>)</span>. Nevertheless, neurobiological models continue to emphasize the central role of the amygdala in evaluating others as trustworthy or untrustworthy <span class="citation" data-cites="sladky_basolateral_2021">(<a href="references.html#ref-sladky_basolateral_2021" role="doc-biblioref">Sladky et al., 2021</a>)</span>, and the development of a comprehensive neurobiological model explaining trust in humans and other mammals remains an open question.</p>
+</section>
+<section id="conclusion" class="level2" data-number="11.3">
+<h2 data-number="11.3" class="anchored" data-anchor-id="conclusion"><span class="header-section-number">11.3</span> Conclusion</h2>
+<p>Trust is a multidimensional construct that operates in social interactions, involving processes of decision-making under risk, emotional responses, social preferences such as betrayal aversion, and the recognition of vulnerability toward others. Original findings on interpersonal trust appear robust, establishing that trust is a kind of decision under risk, enhanced by a mutual motivation to care about others’ well-being. This approach has been broadened to recognize the role of acknowledging one’s own vulnerability when trusting, as well as the role of variables such as perceived capacity to care about others’ well-being and integrity—that is, the willingness to do so. In contrast to this approach, alternative models of trust have been proposed that emphasize understanding trust not merely as a decision under risk, but as a decision shaped by betrayal aversion. Consequently, the extent to which trust is influenced by individual preferences—such as attitudes toward risk—or by social preferences—such as betrayal aversion—remains an open question. In addition, more specific assertions on the role of oxytocin and other biological factors and a more nuanced view of what trust is in different scales have been developed since.</p>
+<p>As open questions, it is crucial to investigate the precise neurobiological mechanisms underlying trust evaluations. In addition, it is important to understand how trust should be explained in contexts where the dynamics of social interaction differ from the norm, such as remote interactions on social networks or interactions with artificial intelligence agents.</p>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-baumgartner_oxytocin_2008" class="csl-entry" role="listitem">
+Baumgartner, T., Heinrichs, M., Vonlanthen, A., Fischbacher, U., &amp; Fehr, E. (2008). Oxytocin shapes the neural circuitry of trust and trust adaptation in humans. <em>Neuron</em>, <em>58</em>(4), 639–650. <a href="https://doi.org/10.1016/j.neuron.2008.04.009">https://doi.org/10.1016/j.neuron.2008.04.009</a>
+</div>
+<div id="ref-berg_trust_1995" class="csl-entry" role="listitem">
+Berg, J., Dickhaut, J., &amp; McCabe, K. (1995). Trust, <span>Reciprocity</span>, and <span>Social</span> <span>History</span>. <em>Games and Economic Behavior</em>, <em>10</em>(1), 122–142. <a href="https://doi.org/10.1006/game.1995.1027">https://doi.org/10.1006/game.1995.1027</a>
+</div>
+<div id="ref-bohnet_betrayal_2008" class="csl-entry" role="listitem">
+Bohnet, I., Greig, F., Herrmann, B., &amp; Zeckhauser, R. (2008). Betrayal <span>Aversion</span>: <span>Evidence</span> from <span>Brazil</span>, <span>China</span>, <span>Oman</span>, <span>Switzerland</span>, <span>Turkey</span>, and the <span>United</span> <span>States</span>. <em>American Economic Review</em>, <em>98</em>(1), 294–310. <a href="https://doi.org/10.1257/aer.98.1.294">https://doi.org/10.1257/aer.98.1.294</a>
+</div>
+<div id="ref-bohnet_trust_2004" class="csl-entry" role="listitem">
+Bohnet, I., &amp; Zeckhauser, R. (2004). Trust, risk and betrayal. <em>Journal of Economic Behavior &amp; Organization</em>, <em>55</em>(4), 467–484. <a href="https://www.sciencedirect.com/science/article/pii/S016726810400068X?casa_token=dYlh4C1WAKcAAAAA:S2hHS82QbVLJPZAwar76UvA2KCgYTf0bkM0rS8aDvAfYTPvwq8wLTuF4u6Ffk-_th-V2BQcEXw">https://www.sciencedirect.com/science/article/pii/S016726810400068X?casa_token=dYlh4C1WAKcAAAAA:S2hHS82QbVLJPZAwar76UvA2KCgYTf0bkM0rS8aDvAfYTPvwq8wLTuF4u6Ffk-_th-V2BQcEXw</a>
+</div>
+<div id="ref-deutsch_trust_1958" class="csl-entry" role="listitem">
+Deutsch, M. (1958). Trust and suspicion. <em>Journal of Conflict Resolution</em>, <em>2</em>(4), 265–279. <a href="https://doi.org/10.1177/002200275800200401">https://doi.org/10.1177/002200275800200401</a>
+</div>
+<div id="ref-evans_survey_2008" class="csl-entry" role="listitem">
+Evans, A. M., &amp; Revelle, W. (2008). Survey and behavioral measurements of interpersonal trust. <em>Journal of Research in Personality</em>, <em>42</em>(6), 1585–1593. <a href="https://doi.org/10.1016/j.jrp.2008.07.011">https://doi.org/10.1016/j.jrp.2008.07.011</a>
+</div>
+<div id="ref-fehr_economics_2009" class="csl-entry" role="listitem">
+Fehr, E. (2009). On the <span>Economics</span> and <span>Biology</span> of <span>Trust</span>. <em>Journal of the European Economic Association</em>, <em>7</em>(2-3), 235–266. <a href="https://doi.org/10.1162/JEEA.2009.7.2-3.235">https://doi.org/10.1162/JEEA.2009.7.2-3.235</a>
+</div>
+<div id="ref-jin_measuring_2025" class="csl-entry" role="listitem">
+Jin, S., Yan, S., &amp; Zhang, X. (2025). Measuring trust across countries: <span>Inconsistencies</span> between experiments and surveys. <em>Economics Letters</em>, <em>248</em>, 112213. <a href="https://doi.org/10.1016/j.econlet.2025.112213">https://doi.org/10.1016/j.econlet.2025.112213</a>
+</div>
+<div id="ref-johnson_trust_2011" class="csl-entry" role="listitem">
+Johnson, N. D., &amp; Mislin, A. A. (2011). Trust games: <span>A</span> meta-analysis. <em>Journal of Economic Psychology</em>, <em>32</em>(5), 865–889. <a href="https://doi.org/10.1016/j.joep.2011.05.007">https://doi.org/10.1016/j.joep.2011.05.007</a>
+</div>
+<div id="ref-jones_experience_1998" class="csl-entry" role="listitem">
+Jones, G. R., &amp; George, J. M. (1998). The <span>Experience</span> and <span>Evolution</span> of <span>Trust</span>: <span>Implications</span> for <span>Cooperation</span> and <span>Teamwork</span>. <em>The Academy of Management Review</em>, <em>23</em>(3), 531–546. <a href="https://doi.org/10.2307/259293">https://doi.org/10.2307/259293</a>
+</div>
+<div id="ref-kosfeld_oxytocin_2005" class="csl-entry" role="listitem">
+Kosfeld, M., Heinrichs, M., Zak, P. J., Fischbacher, U., &amp; Fehr, E. (2005). Oxytocin increases trust in humans. <em>Nature</em>, <em>435</em>(7042), 673–676. <a href="https://doi.org/10.1038/nature03701">https://doi.org/10.1038/nature03701</a>
+</div>
+<div id="ref-kwantes_predictors_2025" class="csl-entry" role="listitem">
+Kwantes, C. T., Kuo, B. C. H., McMurphy, S., &amp; Livingstone, J. (2025). Predictors of <span>Generalized</span> <span>Trust</span>: <span>A</span> <span>Cross</span>-<span>Cultural</span> <span>Study</span> of <span>Canada</span>, <span>China</span>, <span>Taiwan</span>, and the <span>US</span>. <em>Basic and Applied Social Psychology</em>, <em>47</em>(6), 391–403. <a href="https://doi.org/10.1080/01973533.2025.2529512">https://doi.org/10.1080/01973533.2025.2529512</a>
+</div>
+<div id="ref-larzelere_dyadic_1980" class="csl-entry" role="listitem">
+Larzelere, R. E., &amp; Huston, T. L. (1980). The <span>Dyadic</span> <span>Trust</span> <span>Scale</span>: <span>Toward</span> <span>Understanding</span> <span>Interpersonal</span> <span>Trust</span> in <span>Close</span> <span>Relationships</span>. <em>Journal of Marriage and Family</em>, <em>42</em>(3), 595–604. <a href="https://doi.org/10.2307/351903">https://doi.org/10.2307/351903</a>
+</div>
+<div id="ref-mayer_integrative_1995" class="csl-entry" role="listitem">
+Mayer, R. C., Davis, J. H., &amp; Schoorman, F. D. (1995). An <span>Integrative</span> <span>Model</span> of <span>Organizational</span> <span>Trust</span>. <em>The Academy of Management Review</em>, <em>20</em>(3), 709–734. <a href="https://doi.org/10.2307/258792">https://doi.org/10.2307/258792</a>
+</div>
+<div id="ref-mcallister_affect-_1995" class="csl-entry" role="listitem">
+McAllister, D. J. (1995). Affect- and <span>Cognition</span>-<span>Based</span> <span>Trust</span> as <span>Foundations</span> for <span>Interpersonal</span> <span>Cooperation</span> in <span>Organizations</span>. <em>The Academy of Management Journal</em>, <em>38</em>(1), 24–59. <a href="https://doi.org/10.2307/256727">https://doi.org/10.2307/256727</a>
+</div>
+<div id="ref-nave_does_2015" class="csl-entry" role="listitem">
+Nave, G., Camerer, C., &amp; McCullough, M. (2015). Does <span>Oxytocin</span> <span>Increase</span> <span>Trust</span> in <span>Humans</span>? <span>A</span> <span>Critical</span> <span>Review</span> of <span>Research</span>. <em>Perspectives on Psychological Science: A Journal of the Association for Psychological Science</em>, <em>10</em>(6), 772–789. <a href="https://doi.org/10.1177/1745691615600138">https://doi.org/10.1177/1745691615600138</a>
+</div>
+<div id="ref-rotter_new_1967" class="csl-entry" role="listitem">
+Rotter, J. B. (1967). A new scale for the measurement of interpersonal trust. <em>Journal of Personality</em>, <em>35</em>(4), 651–665. <a href="https://doi.org/10.1111/j.1467-6494.1967.tb01454.x">https://doi.org/10.1111/j.1467-6494.1967.tb01454.x</a>
+</div>
+<div id="ref-sladky_basolateral_2021" class="csl-entry" role="listitem">
+Sladky, R., Riva, F., Rosenberger, L. A., Honk, J. van, &amp; Lamm, C. (2021). Basolateral and central amygdala orchestrate how we learn whom to trust. <em>Communications Biology</em>, <em>4</em>(1), 1329. <a href="https://doi.org/10.1038/s42003-021-02815-6">https://doi.org/10.1038/s42003-021-02815-6</a>
+</div>
+</div>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./chapter1.html" class="pagination-link" aria-label="[Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies]{style=&quot;color: #004b23&quot;}">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies</span></span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./chapter10.html" class="pagination-link" aria-label="[Stanford Prison Experiment]{style=&quot;color: #004b23&quot;}">
+        <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title"><span style="color: #004b23">Stanford Prison Experiment</span></span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Open Social Psychology</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Edited by Rima-Maria Rahal</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
