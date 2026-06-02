@@ -16,6 +16,9 @@ The cognition, affect and behavioral tendencies towards a certain object.
 #### [Availability Heuristic](chapter16.qmd#def-availabilityheuristic)
 A mental shortcut where people estimate the likelihood of an event based on how easily examples come to mind, which can lead to overestimating rare but memorable occurrences.
 
+#### [Betrayal Aversion](chapter24.qmd#def-betrayalaversion)
+The tendency for people to feel greater harm or distress from a negative outcome caused by another person's deliberate choice than from an equally bad outcome caused by chance or an impersonal source.
+
 
 #### [Bias](chapter16.qmd#def-bias)
 A systematic distortion of perception or judgment.
@@ -376,6 +379,12 @@ Subliminal refers to the exposure of stimuli for such a short amount of time tha
 
 #### Treatment and Control Conditions ([Stereotype Threat](chapter12.qmd#def-treatmentandcontrolconditions), [Hot Coffee Effect](chapter20.qmd#def-treatmentandcontrolconditions))
 In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.
+
+#### [Trust](chapter24.qmd#def-trust)
+An attitude toward others – other persons, groups of persons, and institutions – in which there is (a) an expression of vulnerability to that other, and (b) a belief that the other has the ability, the willingness, and will act in ways that benefit us in light of that vulnerability as opposed to taking personal advantage of it.
+
+#### [Trust Game](chapter24.qmd#def-trustgame)
+An experimental task used to measure interpersonal trust, in which one participant receives an initial endowment and decides how much to send to another participant. The amount sent is increased by the experimenter, and the second participant then chooses how much to return if at all. The initial transfer is interpreted as reflecting trust, as it involves risking resources under uncertainty about the other’s behavior, while the returned amount is interpreted as reflecting trustworthiness as the participant chose to return the endowment that they could have easily kept for themselves.
 
 #### [Type I Error / Alpha Error / False Positives](chapter6.qmd#def-typeIerror)
 Inferring from a statistical test that a certain effect exists, although it does not exist in reality.
