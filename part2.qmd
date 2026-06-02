@@ -2,13 +2,14 @@
 
 This part of the book focuses on how the presence of others or our social relationships can influence our behavior. 
 
-It contains five chapters on classic studies addressing social influence: 
+It contains six chapters on classic studies addressing social influence: 
 
 - [Conformity](chapter21.qmd)
 - [Obedience to Authority](chapter4.qmd)
 - [Social Loafing (Ringelmann Effect)](chapter7.qmd)
 - [Social Facilitation](chapter8.qmd)
 - [Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies](chapter1.qmd)
+- [Trust](chapter24.qmd)
 
 Three further chapters address the influence of social roles, social norms and language on behavior:
 
