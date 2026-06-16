@@ -1,8 +1,8 @@
 # [Part 2: Social Influence, Groups and Prosocial Behavior]{style="color: #004b23"} {.unnumbered}
 
-This part of the book focuses on how the presence of others or our social relationships can influence our behavior. 
+This part of the book focuses on how the presence of others or our social relationships can influence our behavior. The presence of others, as well as our embeddedness in social groups exerts a strong pull on what individuals will do. The research covered in this part of the book is concerned with demonstrating this social influence on behavior. It asks questions such as "When will people blindly follow the example of others?" (Chapter on [Conformity](chapter21.qmd)), and "Why do people obey orders?" (Chapter on [Obedience to Authority](chapter4.qmd)).
 
-It contains six chapters on classic studies addressing social influence: 
+Part 2 contains six chapters on classic studies addressing social influence: 
 
 - [Conformity](chapter21.qmd)
 - [Obedience to Authority](chapter4.qmd)
@@ -11,19 +11,25 @@ It contains six chapters on classic studies addressing social influence:
 - [Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies](chapter1.qmd)
 - [Trust](chapter24.qmd)
 
-Three further chapters address the influence of social roles, social norms and language on behavior:
+Another facet of this research focuses on the influence of social roles and norms. It asks whether stepping into a social role such as that of a prisoner or a prison guard will make us change our behavior (Chapter on the [Stanford Prison Experiment](chapter10.qmd)) and whether we litter more when we see evidence that others do so, too (Chapter on [Social Norms](chapter22.qmd)).
+
+In Part 2, there are three chapters that address the influence of social roles, social norms and language on behavior:
 
 - [Stanford Prison Experiment](chapter10.qmd)
 - [Social Norms](chapter22.qmd)
 - [Social Effects of the Generic Masculine](chapter23.qmd)
 
-Moreover, there are three chapters that are dedicated specifically to social influence exerted by social groups. These chapters cover the following themes: 
+Moreover, there are three chapters that are dedicated specifically to social influence exerted by social groups. The research covered in these chapters asks whether we treat members of our team better than members of a rivaling group even if group membership is arbitrary (Chapter on the [Minimal Group Effect](chapter9.qmd)) and how conflicts between groups can be mitigated (Chapter on [Intergroup Contact Theory](chapter12.qmd)). 
+
+Part 2, therefore, contains three chapters on the influence of social groups: 
 
 - [Minimal Group Effect](chapter9.qmd)
 - [Stereotype Threat](chapter11.qmd)
 - [Intergroup Contact Theory](chapter12.qmd)
 
-Finally, there are two chapters which address a particular type of social behavior: prosociality. These chapters are dedicated to the following topics: 
+Finally, this part of the book also addresses research that is focused on a particular type of behavior in the social context: helping others (prosociality). This research investigates when humans will step in to help, and when the mere presence of others makes us hang back to wait if someone else will help (Chapter on the [Bystander Effect](chapter13.qmd)). This research is also concerned with whether helping is an intuitive human behavior, or if it requires us to override selfish impulses (Chapter on the [Social Heuristics Hypothesis](chapter14.qmd)).
+
+Part 2 contains two chapters which address prosociality:
 
 - [Bystander Effect](chapter13.qmd)
 - [Social Heuristics Hypothesis](chapter14.qmd)
