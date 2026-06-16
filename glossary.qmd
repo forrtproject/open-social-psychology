@@ -172,7 +172,7 @@ An internalized norm consists of a social expectation that a person has incorpor
 #### [Intuitive Behavior](chapter14.qmd#def-intuitivebehavior)
 Behavior that occurs through automatic, prepotent and effortless cognitive operations. Commonly referred to as “System 1”, these mental operations are fast, associative and hard to control (Kahneman, 2002; Stanovich & West, 2000).
 
-#### [Meta-Analysis](howto.qmd#meta-analysis)
+#### [Meta-Analysis](howto.qmd#def-metaanalysis)
 An analysis that brings together evidence from several individual studies or experiments to estimate an overall effect across the available evidence.
 
 
@@ -214,6 +214,9 @@ Obedience is the act of following orders or instructions from an authority figur
 #### [Observational Research](chapter12.qmd#def-observationalresearch)
 A study design where researchers measure variables as they naturally occur, without manipulating them. Observational studies can reveal associations between variables but cannot, on their own, establish that one causes the other.
 
+
+#### [Open Science](intro.qmd#def-openscience)
+An overhead term for a number of practices to make research more transparent, such as making the data a research project is based on available to others.
 
 #### [Orbicularis Oris Muscles](chapter17.qmd#def-orbicularisoris)
 These are circular muscles around the mouth that close the lips and produce puckering, as in kissing or whistling.
@@ -300,7 +303,7 @@ Reflective behavior is supported by “System 2” and relies on effortful and s
 A publishing format where peer review comes before researchers conduct the study. Research first submit Introduction and Method sections, alongside the detailed hypotheses and plan of data analysis to test them. Only after this phase (Stage 1 Registered report) is reviewed and accepted, researchers start collecting the data and write the full report (Stage 2). This ensures that theoretically valuable and methodologically sound research is published regardless of the results.
 
 
-#### [Replication](howto.qmd#replication)
+#### [Replication](howto.qmd#def-replication)
 An attempt to find the same result as a previous study in a new data set.
 
 #### [Replication](science.qmd#def-replication)
