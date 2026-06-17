@@ -1,6 +1,8 @@
 # [Part 3: Social Cognition, Bias and Priming]{style="color: #004b23"} {.unnumbered}
 
-This part of the book addresses how the social context influences our cognition, the way we think. It comprises five chapters: 
+This part of the book addresses how the social context influences our cognition, the way we think. These influences on our thinking, beliefs and attitudes is then often hypothesized to also manifest in behavioral changes. For example, research covered in this part of the book addresses the question whether being exposed to warmth may lead us to perceive others as warmer and friendlier (Chapter on the [Hot Coffee Effect](chapter20.qmd)), or whether thinking about words stereotypically related to old age will make us adopt behaviors assosciated with older age (Chapter on the [Florida Priming Effect](chapter19.qmd)).
+
+Part 3 comprises five chapters: 
 
 - [False Consensus Effect](chapter16.qmd)
 - [Facial Feedback Hypothesis](chapter17.qmd)
