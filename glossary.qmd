@@ -260,6 +260,10 @@ A psychological phenomenon where exposure to one stimulus (e.g., a word, image, 
 #### [Priming](chapter6.qmd#def-priming)
 Priming refers to the effects of a subtle cue on future behavior. The primed stimulus works by activating related concepts and making them easier to access. Typical priming techniques include the very short exposure of participants to a visual, auditory, olfactory, or haptic cue. For instance, presenting the word “lion” may lead to faster categorization of the word “cat” because the two concepts represent the same “animal” category.
 
+#### [Priming]({chapter18.qmd#def-priming)
+“Priming refers to facilitative effects of an encounter with a stimulus on subsequent processing of the same stimulus (direct priming) or a related stimulus (indirect priming)" [@tulving_priming_1982, 336].
+
+
 #### [Prosocial Behavior](chapter13.qmd#def-prosocialbehavior)
 Behavior where people help others, even at a cost to themselves.
 

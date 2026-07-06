@@ -73,6 +73,8 @@ csl: apa.csl
 format:
   html:
     theme: lux
+    #embed-resources: true
+    #minify: false
   pdf:
     documentclass: book
     keep-tex: true

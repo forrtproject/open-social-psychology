@@ -10,7 +10,7 @@ The verb “to prime” means “to activate”. In psychology, “priming” re
 
 > [#definition]{#def-priming style="color: orchid"} Priming
 >
-> “Priming refers to facilitative effects of an encounter with a stimulus on subsequent processing of the same stimulus (direct priming) or a related stimulus (indirect priming)" [@tulving_priming_1982, pg.336].
+> “Priming refers to facilitative effects of an encounter with a stimulus on subsequent processing of the same stimulus (direct priming) or a related stimulus (indirect priming)" [@tulving_priming_1982, 336].
 
 To test how such subtle verbal cues might affect person perception, @nathan_dewall_hot_2009 conducted an experiment (Study 2) in which they investigated the relationship between exposure to words associated with hot and cold temperatures and the subsequent evaluation of a fictitious person. The 72 undergraduate students who participated in this experiment were first randomly assigned to one of three groups, in which they were primed with temperature-related or neutral words.
 
@@ -46,7 +46,7 @@ By following Brandt et al.'s [-@brandt_replication_2014] definition and guidelin
 
 In McCarthy's [-@mccarthy_close_2014] first replication study, involving 182 participants, participants were randomly assigned to one of three priming conditions (heat, cold, or neutral) and completed the same scrambled sentence task as in the original. After the priming task, they read the same ambiguous story about a fictitious man and rated his hostility using the same four items to measure hostile perceptions. The second replication, conducted online with 507 participants, used the same critical heat- and cold-related words as in the original experiment, but the scrambled sentences in which these words appeared were slightly different from the original materials. Otherwise, the procedure closely followed the original study.
 
-The results of these two replication studies did not support the original hypotheses. Donald’s rated hostility did not differ significantly between the heat and the cold prime groups. Thus, the findings reported by @nathan_dewall_hot_2009 could not be replicated. Additionally, @mccarthy_close_2014 conducted a meta-analysis combining the original study with the two replications. This analysis also indicated a non-significant effect of heat priming on hostile perceptions (d = 0.18, p < .05). Based on these results, @mccarthy_close_2014 concluded that priming individuals with heat-related concepts does not reliably affect hostile perceptions of others, and that the original effect is likely non-existent or too weak to be considered meaningful.
+The results of these two replication studies did not support the original hypotheses. Donald’s rated hostility did not differ significantly between the heat and the cold prime groups. Thus, the findings reported by @nathan_dewall_hot_2009 could not be replicated. Additionally, @mccarthy_close_2014 conducted a meta-analysis combining the original study with the two replications. This analysis also indicated a non-significant effect of heat priming on hostile perceptions (d = 0.18, p > .05). Based on these results, @mccarthy_close_2014 concluded that priming individuals with heat-related concepts does not reliably affect hostile perceptions of others, and that the original effect is likely non-existent or too weak to be considered meaningful.
 
 ## 3. Conclusion
 
