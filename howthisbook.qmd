@@ -1,6 +1,6 @@
 # [How this Book Came to Be]{style="color: #004b23"} {.unnumbered}
 
-[Flávio Azevedo, Mahmoud Elsherif, Jens Fünderich, Hooman Habibnia, Savannah Lewis, Ilse Pit, Aleksandra Tołopiło and Rima-Maria Rahal]{style="color: gray;"}
+[Flávio Azevedo, Mahmoud Elsherif, Jens Fünderich, Hooman Habibnia, Savannah C. Lewis, Ilse L. Pit, Aleksandra Tołopiło and Rima-Maria Rahal]{style="color: gray;"}
 
 Social psychology is devoted to studying how individuals behave, think, and feel within their social contexts. The field is therefore, by its very nature, set up for collaborative work. Leveraging the social context in which knowledge is generated is built into the assumptions and interests that social psychology pursues. This fundamental attitude towards the social embeddedness of knowledge is mirrored in the process by which this study book came to be. 
 
