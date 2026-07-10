@@ -2,10 +2,11 @@
 
 This part of the book concerns research that is at the core of social psychological inquiry. The research contained within asks questions such as "Can people predict the future?" (Chapter on [Feeling the Future](chapter6.qmd)), "Can believing in someone's success make them more successful?" (Chapter on the [Pygmalion Effect](chapter2.qmd)), or "Can humans run out of self-control?" (Chapter on [Ego Depletion](chapter5.qmd)). 
 
-Part 1 contains five chapters: 
+Part 1 contains six chapters: 
 
 - [Pygmalion Effect](chapter2.qmd)
 - [Cognitive Dissonance](chapter3.qmd)
 - [Implicit Association Test and Attitudes](chapter15.qmd)
+- [Framing Effect](chapter25.qmd)
 - [Ego Depletion](chapter5.qmd)
 - [Feeling the Future](chapter6.qmd)

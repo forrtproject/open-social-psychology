@@ -13,7 +13,7 @@ book:
           address: Welthandelsplatz 1
           city: 1020 Wien
           state: Austria
-  date: 2026-07-06
+  date: 2026-07-10
   downloads: [pdf, epub]
   page-footer: 
     left: |
@@ -40,6 +40,7 @@ book:
     - chapter2.qmd #Pygmalion Effect
     - chapter3.qmd #Cognitive Dissonance
     - chapter15.qmd #Implicit association Test and Attitudes
+    - chapter25.qmd #Framing
     - chapter5.qmd #Ego Depletion
     - chapter6.qmd #Feeling the Future
     - part2.qmd

@@ -2,7 +2,7 @@
 
 [written by Hannes Dieterle (original draft), and Patrícia Arriaga (revision)]{style="color: gray;"}
 
-## 1. The Classic
+## The Classic
 
 Does what you have recently seen, heard or read affect how you think, even if you do not realise it? This is a central question behind the concept of priming, which has been used to describe how subtle cues, like words related to temperature, might influence our thoughts, feelings, and behaviours.
 
@@ -32,7 +32,7 @@ To compare the groups, the authors adopted the null hypothesis significance test
 
 These findings suggest that exposure to heat-related words increased participants’ tendency to perceive ambiguous behavior as more hostile, supporting the hypothesis that temperature-related concepts can activate hostility-related trait perception. The absence of a statistical difference between the “cold” and “neutral” groups (p > .05) further indicates that this effect was specific to heat-related priming, rather than a general effect of temperature-related concepts.
 
-## 2. The Aftermath
+## The Aftermath
 
 In 2014, McCarthy conducted two replication studies of this experiment [@mccarthy_close_2014].
 
@@ -48,7 +48,7 @@ In McCarthy's [-@mccarthy_close_2014] first replication study, involving 182 par
 
 The results of these two replication studies did not support the original hypotheses. Donald’s rated hostility did not differ significantly between the heat and the cold prime groups. Thus, the findings reported by @nathan_dewall_hot_2009 could not be replicated. Additionally, @mccarthy_close_2014 conducted a meta-analysis combining the original study with the two replications. This analysis also indicated a non-significant effect of heat priming on hostile perceptions (d = 0.18, p > .05). Based on these results, @mccarthy_close_2014 concluded that priming individuals with heat-related concepts does not reliably affect hostile perceptions of others, and that the original effect is likely non-existent or too weak to be considered meaningful.
 
-## 3. Conclusion
+## Conclusion
 
 @mccarthy_close_2014 tried to replicate DeWall and Bushman’s [-@nathan_dewall_hot_2009] study twice and found no evidence that heat-related words increase hostile perceptions. Their meta-analysis combining the original and replication studies also showed a non-significant effect, suggesting the original finding is likely non-existent or too weak to be relevant.
 

@@ -1,0 +1,79 @@
+# [Framing Effect]{style="color: #004b23"}
+
+[written by Hilmar Brohmer (original draft), and Sarah von Götz (revision)]{style="color: gray;"}
+
+## The Classic
+
+How we communicate information matters, because the *frame* senders choose influences how receivers will understand the message. The same factual information can be relayed through different frames, with consequences for receivers’ understanding, and potential subsequent behavior. 
+
+For instance, a campaign to mobilize voters could communicate its core message as “Vote to secure your future” or as “Vote to stop disaster”. Signage on fines for riding public transport without a ticket might read “Riding without a ticket costs 60€” or “Buy a ticket to avoid a 60€ fine”. And would you rather buy milk that is presented as 96.5% fat free or as containing 3.5% fat? In short, framed messages lead to differences in perceptions and behavior, although the facts are the same.
+
+> [#definition]{#def-framingeffect style="color: orchid"} Framing Effect
+>
+> People sometimes make different judgments or decisions depending on *the way relevant information* is presented, even though the underlying facts remain unchanged. 
+
+This so-called *Framing Effect* [@levin_all_1998] occurs because people interpret information through psychological, emotional, and contextual cues rather than purely objective reasoning. Framing influences perceptions of risk, value, fairness, and responsibility, affecting decisions in all areas of everyday life. Understanding these effects helps explain why logically equivalent messages can lead to different attitudes, choices, and behaviors despite conveying identical essential information, and why it is sometimes vital to re-asses how a message is being communicated.
+
+The essence of framing lies in the bigger theoretical framework of *Prospect Theory* by Amos Tversky and Daniel Kahneman [-@tversky_framing_1981]. 
+
+> [#definition]{#def-prospecttheory style="color: orchid"} Prospect Theory
+>
+> Prospect Theory is a framework of assumptions about how people perceive subjective value and probability, deviating from objective numerical values/probabilities. It assumes that losses unfold a more negative effect than gains do a comparably positive effect: Finding € 20 on the streets likely feels good, but would not weigh as heavily as the negative feeling of losing € 20 by accident. It also assumes that small probabilities are overestimated.
+
+Tversky and Kahneman translated this principle into the *Gain-vs.-Loss Framing Effect* - the mother of all framing effects. When decisions have to be made for future outcomes, people may process potential gains and losses differently, depending on how relevant information is presented (e.g., by third parties). Let’s look at a famous scenario [@tversky_framing_1981] which predated a worldwide pandemic forty years later:
+
+*Imagine that the U.S. is preparing for the outbreak of an unusual Asian disease, which is expected to kill 600 people. Two alternative programs to combat the disease have been proposed. Assume that the exact scientific estimate of the consequences of the programs are as follows:*
+
+- *If Program A is adopted, 200 people will be saved.*
+- *If Program B is adopted, there is 33% (one third) probability that 600 people will be saved, and 67% (two third) probability that no people will be saved.*
+
+> [#yourturn]{style="color: green"}
+>
+> Think for a moment about which program you would choose, if you were a political decision maker in such a situation. 
+
+If you decided to adopt Program A, you would be with the majority of people, who were asked by Kahneman and Tversky to make this hypothetical decision (72% out of N = 152 participants), who indicated the same, seemingly secure option. The remaining 28% chose Program B, which seems to be the less certain and more risky option.
+
+However, now consider if Program A and B read in an alternative version (now called Program C and D, respectively, to avoid confusion):
+
+- *If Program C is adopted, 400 people will die.*
+- *If Program D is adopted, there is 33% (one third) probability that nobody will die, and 67% (two third) probability that 600 people will die.*
+
+> [#yourturn]{style="color: green"}
+>
+> Think again, which program, C or D, you would choose now.
+
+It is noteworthy that program A and C are equivalent in their results, as are Program B and D. Yet, when another sample N = 155 participants were presented with these new options instead, 22% chose Program C and 78% chose Program D. This was interpreted as evidence for a framing effect: even though the choices are logically equivalent, the way the information is presented or “framed” affects what choices people make. In light of the certain loss of 400 lives, people overwhelmingly opted now for the small, but not unrealistic, chance of saving everyone - they went with the riskier, less secure option.
+
+## The Aftermath
+
+Following the seminal paper by @tversky_framing_1981, generations of researchers became interested in all kinds framing effects, their emotional underpinnings, [e.g., @nabi_can_2020; @slovic_affect_2007], as well as differences in contexts, such as in health behavior [@okeefe_relative_2007], political attitudes [@bizer_how_2005], or marketing [@simonson_choice_1989].
+
+Particularly in marketing research, it could be shown how easily choices by consumers can be influenced. Imagine you would like to drink a new kind of beer in a pub, which offers two options of IPA that you have never heard of before:
+
+- *Beer A: € 5.00*
+- *Beer B: € 6.50*
+
+Certainly, it would be a better deal for the pub if you bought the more expensive beer. The pub may achieve this goal, when it presents you with a more expensive third option:
+
+- *Beer A: € 5.00*
+- *Beer B: € 6.50*
+- *Beer C: € 9.00*
+
+> [#yourturn]{style="color: green"}
+>
+> In which way does this scenario differ from the classic Gain-vs.-Loss Framing effect from above?  
+
+Going beyond the classic framing effect (based on same information being presented in a different light), this scenario shows how additional information may make people switch to a different alternative: As a compromise, to avoid higher costs (i.e., losses) with the most extreme option, but also avoid the impression of being a scrimper, people would more often choose the middle option now, which had been the option that the pub had wanted you to buy to begin with [@pinger_compromise_2016]. Hence, imagined gains and losses still play a crucial role in such altered framing situations (this one is also known as the *Decoy Effect*).
+
+But how robust is the evidence on framing? Luckily, framing effects remain among the most replicable effects in psychology! During the onset of the Replication Crisis of the 2010s, the “Many Labs” research collaboration [@klein_investigating_2014] selected the original Gain-vs.-Loss Framing Effect - that is, the Asian diseases problem - for a systematic replication study. This collaboration consisted of k = 36 participating labs from three continents (America, Europe and Asia) and more than N = 6000 participants, who participated either online or directly in the lab. As in the original study, participants read about the Asian diseases (although the experimenters replaced the word “Asian” with the word “unusual”) and had to decide to choose one of two presented programs, where half of the participants were shown program A and B, while the other half saw program C and D. The researchers found that the reversal of choices was present in 31 of the participating labs (86%), while none of the remaining five labs showed an opposite effect.
+
+For Kahneman and Tversky, who had already revolutionized psychology earlier with their research on heuristics and biases [e.g., @tversky_judgment_1974], Prospect Theory made them popular beyond psychology, as it grasps fundamental motivations of how many species (not just humans) seem to behave and interact [e.g., @sterelny_territoriality_2013]. This work, eventually, resulted in the only “Nobel Memorial Prize in Economic Sciences” ever granted to a psychologist in 2002, namely to Kahneman (Tversky had died six years earlier in 1996. Kahneman passed away in 2024).
+
+## Conclusion
+
+Keeping track of real and imagined gains and losses seems to be a fundamental psychological mechanism, as suggested by Kahneman and Tversky’s Prospect Theory. This mechanism was originally studied in the context of Gain-vs.-Loss Framing Effects, where people seem to reverse their choices, depending on the formulation of a scenario. When making decisions people are rarely perfectly rational and framing effects are one of the cognitive biases affecting decisions. 
+
+Decades of studies on this effect suggest that it is robustly found in different societal contexts that require decisions from people. And - in regard to the classic effect - it is also replicable, as indicated by a large replication study, which took place more than 30 years after the original. 
+
+
+
