@@ -9,11 +9,17 @@ book:
       orcid: 0000-0002-1404-0471
       email: rima-maria.rahal@wu.ac.at
       affiliations:
-        - name: Vienna University of Economics and Business; Max Planck Institute for Research on Crime, Security and Law
+        - name: Vienna University of Economics and Business
           address: Welthandelsplatz 1
           city: 1020 Wien
           state: Austria
-  date: 2026-07-10
+        - name: Max Planck Institute for Research on Crime, Security and Law
+  date: 2026-07-14
+  isbn: coming
+  doi: coming
+  license: Copyright 2026 The authors; CC-BY 4.0 International
+  keyword: Social Psychology
+  publisher: Open Press Tilburg University, Tilburg, The Netherlands
   downloads: [pdf, epub]
   page-footer: 
     left: |
@@ -31,7 +37,7 @@ book:
           - text: Report a Bug
             href:  https://github.com/rimamrahal/OpenSocialPsychology/issues
   chapters:
-    - index.qmd
+    - index.qmd #Preface 
     - howthisbook.qmd
     - howto.qmd
     - intro.qmd
@@ -74,6 +80,8 @@ csl: apa.csl
 format:
   html:
     theme: lux
+    template-partials:
+      - title-block.html
     #embed-resources: true
     #minify: false
   pdf:
@@ -87,13 +95,19 @@ format:
     header-includes:
       - \usepackage{fancyhdr}
       - \usepackage{graphicx}
+      - \usepackage{hyperref}
+      - \usepackage{array}
+      - \usepackage{setspace}
       - \usepackage{eso-pic}
       - \usepackage{tikz}
       - \AtBeginDocument{\thispagestyle{empty}\begin{tikzpicture}[remember picture,overlay]
               \node at (current page.center) [yshift=1cm] {\includegraphics[width=0.75\paperwidth,height=0.9\paperheight,keepaspectratio]{resources/cover.png}};
               \end{tikzpicture}\clearpage}
+    template-partials:
+      - before-body.tex
   epub: 
     cover-image: cover.png
+    include-before-body: epubtitle-block.html
 
 editor: source
 
