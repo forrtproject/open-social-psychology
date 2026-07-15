@@ -5,7 +5,7 @@ book:
   title: "Open Social Psychology"
   cover-image: cover.png
   author: 
-    - name: "Rima-Maria Rahal"
+    - name: "Rima-Maria Rahal (Ed.)"
       orcid: 0000-0002-1404-0471
       email: rima-maria.rahal@wu.ac.at
       affiliations:
@@ -15,8 +15,8 @@ book:
           state: Austria
         - name: Max Planck Institute for Research on Crime, Security and Law
   date: 2026-07-14
-  isbn: coming
-  doi: coming
+  isbn: Coming soon!
+  doi: Coming soon!
   license: Copyright 2026 The authors; CC-BY 4.0 International
   keyword: Social Psychology
   publisher: Open Press Tilburg University, Tilburg, The Netherlands
@@ -80,8 +80,7 @@ csl: apa.csl
 format:
   html:
     theme: lux
-    template-partials:
-      - title-block.html
+    #include-before-body: title-block.html
     #embed-resources: true
     #minify: false
   pdf:
