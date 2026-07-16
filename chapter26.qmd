@@ -1,0 +1,75 @@
+# [Gender Differences in Human Mate Preferences]{style="color: #004b23"}
+
+[written by Hilmar Brohmer (original draft), Pelin Gül (revision) and Živa Korda (revision)]{style="color: gray;"}
+
+## The Classic
+
+Imagine creating a profile on an online dating app. Within hours, one user receives dozens of messages, while another waits days for a single match. Although many factors influence success in online dating [@neyt_are_2019], this pattern may reflect a widely discussed phenomenon when it comes to human partner selection (referred to as mating, particularly from the evolutionary perspective, see below) and gender: on average, women seem to receive more romantic and sexual attention than men, whereas men apparently face stronger competition for potential partners. But are these differences backed by science?
+
+One of the most famous demonstrations comes from a field experiment by the psychologists Russell Clark and Elaine Hatfield in the late 1970s and early 1980s [@clark_gender_1989]. Heterosexual male and female research assistants approached a total of 97 opposite-sex students on a university campus and delivered one of three standardized, increasingly direct requests: "Would you go out with me tonight?", "Would you come over to my apartment tonight?", or "Would you go to bed with me tonight?" The results were striking: Men and women were similarly likely to accept a date (50% and 56%), but dramatic differences emerged for the other two questions: Men agreed to the more direct apartment and bed offers by a female stranger in 69% and 75% of these cases, respectively, whereas virtually no women did agree to an offer of a male stranger (6% and 0%). The study became one of the most widely cited demonstrations of sex differences in short-term mating preferences, as it measured actual responses in a naturalistic setting rather than hypothetical judgments.
+
+> [#yourturn]{style="color: green"}
+>
+> Think of reasons why women, on average, might receive more sexual attention by men than men by women.
+
+But why should such differences exist? An influential answer came from David Buss, who examined mate preferences from an evolutionary perspective [@buss_sex_1989]. Rather than studying one university campus, Buss coordinated one of the largest cross-cultural psychological studies conducted at the time, decades before online dating or even the internet itself became a thing. His collaborators and him manually collected data from more than 10,000 participants across 37 countries and regions on six continents. Participants completed questionnaires in which they rated what they would find important in their romantic partners — characteristics such as kindness and intelligence, but also attractiveness, age differences, or financial prospects.
+
+The results revealed remarkable consistency: Across cultures, both men and women highly valued traits such as kindness and intelligence in their partners. However, several robust gender differences also emerged: On average, men placed significantly greater importance on physical attractiveness and signs of youth in 34 out of the 37 labs (92%), whereas women gave greater weight to financial prospects as a sign of social status (36 of 37 labs, 97%). Moreover, participants preferred an age difference to their partners, with women preferring older men and men preferring younger women, in all regions (100%). 
+
+Buss argued that these patterns reflect different evolutionary challenges faced by our great ancestors in the past — with some challenges being shared by both genders, while others diverged. A core source of divergence is argued to be the asymmetry in obligatory parental investment [@trivers_parental_1972]: Because women historically bore the greater biological burden of reproduction through pregnancy and childrearing, selecting partners who were willing or able to provide resources would have increased reproductive success. Ridded of the biological investment of nine months of childbearing, men, in contrast, could have increased their reproductive success by attending to other women. As a result, they would have benefited from focussing on cues associated with fertility, such as youth and physical attractiveness [e.g., a symmetrical face and other markers associated with reproductive potential, see @mendelson_biological_2025]. Crucially, proponents of this view argue that these evolutionary-psychological selection forces continue to shape mate preferences in the present day. 
+
+> [#definition]{#def-evolutionarypsychology style="color: orchid"} Evolutionary Psychology 
+>
+> Evolutionary psychology is the study of how the human mind and behavior may have been shaped in our evolutionary past (in the Environment of Evolutionary Adaptedness). It suggests that many psychological traits, emotions, social behaviors, and decision-making tendencies, are influenced by evolved adaptations (or byproducts from adaptations), while recognizing that culture, learning, and individual experiences also play important roles [@buss_evolutionary_2024].
+
+> [#definition]{#def-environmentofevolutionaryadaptedness style="color: orchid"} Environment of Evolutionary Adaptedness 
+>
+> The Environment of Evolutionary Adaptedness refers to the ancestral environments in which human psychological adaptations evolved over many generations. It describes the selection pressures that shaped the human mind, rather than a specific place or time, and helps explain why some evolved traits may not always fit modern environments [@tooby_past_1990].
+
+> [#yourturn]{style="color: green"}
+>
+> Can you think of other everyday-life human behaviors that could also be explained in the framework of Evolutionary Psychology?
+
+## The Aftermath
+
+The studies by Clark and Hatfield and by Buss suggested that many human mate preferences are not arbitrary but may have been shaped—at least partly—by recurrent evolutionary pressures in the past. They also led other researchers in the field to follow up on these topics. For instance; David P. Schmitt [-@schmitt_sociosexuality_2005] demonstrated in a similarly comprehensive cross-national study that men showed much less restricted socio-sexual attitudes than women, meaning that they fantasized more often about sex with other partners or they indicated that they did not necessarily need to feel emotional attachment to enjoy intercourse.
+
+However, these evolutionary interpretations of gender differences also sparked academic debates in the upcoming decades: Several social psychologists such as Alice Eagly and Wendy Wood [-@eagly_social_2012] argued that many observed differences between genders reflect social roles rather than evolved psychological adaptations. 
+
+
+> [#definition]{#def-socialroletheory style="color: orchid"} Social Role Theory 
+>
+> Social Role Theory proposes that many differences in the behavior of women and men arise because societies assign them different social and gender roles, responsibilities, and expectations. It argues that these roles shape people's skills, attitudes, and behaviors through socialization and opportunities, rather than being primarily the result of evolved psychological and biological differences [@eagly_social_2012].
+
+As these roles become more equal, mate preferences should also become more similar. Although many researchers today do recognize that both biological and cultural factors likely contribute, this debate between evolutionary and social-role explanations remains one of the central discussions in the social sciences, which often goes far beyond human mating [e.g., @archer_reality_2019; @poeschl_hundred_2021]. 
+
+Importantly, more recent research has tested whether Buss's findings still hold today. In a large replication, @walter_sex_2020 analyzed mate preferences from a larger and more diverse international sample (N = 14,399, k = 45 countries). Despite major social changes in these three decades—including increased gender equality, globalization, and the rise of the internet—the researchers replicated the central findings. Men continued to value physical attractiveness more strongly on average, whereas women continued to place greater emphasis on earning potential (there was a significant effect in 100% of the countries in regard to the Mahalanobis Distance between the two genders), although the magnitude of some differences varied across countries and levels of gender equality. Also the preferred age difference (men older than women) remained similar across all labs.
+
+> [#definition]{#def-mahalanobisdistanced style="color: orchid"} Mahalanobis Distance D 
+>
+> Mahalanobis Distance D is a statistical method often used to calculate the distance of a data point from a multidimensional center (centroid). That way, it is also the preferred technique to calculate the standardized difference between group means when multiple outcome variables are considered, rather than a single outcome variable, for which Cohen’s d is typically used [@del_giudice_real_2009].
+
+It has to be noted that these preferred mate differences are based on what people *indicate to desire*. However, when it comes to dating and long-term partnership (i.e., *actual behavior*), people likely consider many more factors in their partners (such as humor, loyalty, similar values, etc.). This is also reflected in another recent large-scale survey by @eastwick_worldwide_2025, who studied to what degree the preferences match with actual behavior (i.e., attractiveness they attributed to their partner). Across 10,358 participants from 43 countries, they found only small to medium-sized correlations for desired and attributed attractiveness, as well as for desired and attributed financial prospects (along many other characteristics), while other factors emerged to be relevant when evaluating their romantic partners. Put differently, what people say they prefer in a mate differs from what their actual selection of a mate suggests they prefer. Indeed, when it comes to one’s actual partners, a sole focus on looks or money seems to play only a minor role.
+
+
+> [#definition]{#def-correlationr style="color: orchid"} Correlation r 
+>
+> Correlation r typically refers to two metric variables that co-vary (increase or decrease together), expressed in a standardized effect size Pearson correlation coefficient r. An r = 1 (-1) refers to perfect positive (negative) association between these two variables, whereas effects near zero reflect no association. Small to medium- sized correlations are typically in the range of 0.10 to 0.30 [@cohen_statistical_1988].
+
+
+> [#yourturn]{style="color: green"}
+>
+> Evidence for mate preferences comes from large correlational studies. Is it possible to achieve causal evidence and explanations in this research domain?
+
+The findings from Clark and Hatfield have largely stood the test of time—although with some reservations, for instance due to the correlational nature of the evidence. Their original study has been replicated numerous times using different methods and larger samples. Most recently, @kunz_gender_2025 conducted a conceptual replication, where they, again, had male and female confederates approaching people on a university campus (N = 240 across two studies in Austria): Despite changes in the dating culture, including the widespread use of dating apps, they found similar patterns in the data, although the differences in the percentages varied: men were substantially more willing than women to accept a date from a stranger of the opposite sex (40% vs. 15%), whereas in the original study the genders did not differ. Also regarding an apartment invite (38% vs. 10%) or casual sexual (28% vs. 5%), men accepted more often than women did. Although not as pronounced as in the original study, the replication demonstrates the persistence of these findings across decades.
+
+While these studies were conducted with samples of hetersexual cis people, mating preferences of the LGBTQIA+ (Lesbian, Gay, Bisexual, Transgender, Queer, Intersex, and Asexual, as well as other diverse sexual orientations, gender identities, and biological variations) community remain understudied and ill integrated into existing theoretical frameworks. As a notable exception, @klumper_intersexual_2024 surveyed a German sample of homosexual and bisexual men and women and found only small effects of sexual orientation on the importance of physical attractiveness and financial aspects. Gender differences in preferences for partner criteria were also present, e.g., women preferred a caring partner more than men. These persisting gender differences could be reconciled with the evolutionary theoretical account of partner selection: Individuals interested in same-sex partners may share gendered preferences of heterosexual people because of a shared evolutionary history. But the overall body of research addressing LGBTQIA+ people  is sparse, and theoretical conclusions are difficult to reach.
+
+> [#yourturn]{style="color: green"}
+>
+> How do you think mate preferences could be different or similar in LGBTQIA+ groups? 
+
+## Conclusion
+
+The presented research on human mate preferences provides a clear example of how psychologists combine experiments, surveys, and cross-cultural research to understand human behavior. Classic studies by Clark and Hatfield and by Buss revealed consistent differences between men and women in mating preferences, while later replications have shown that these patterns remain stable across time and cultures. At the same time, these preferences are not the only factors when it comes to actual dating behavior or romantic partnership. Moreover, ongoing debates between evolutionary and social-role perspectives remind us that scientific explanations are continually refined as new evidence emerges. That way, theoretical and empirical progress in understanding human mate preferences is likely to come not from contrasting evolutionary and social role explanations, but from investigating how these perspectives complement and inform one another.
+

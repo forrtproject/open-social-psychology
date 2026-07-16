@@ -14,7 +14,7 @@ book:
           city: 1020 Wien
           state: Austria
         - name: Max Planck Institute for Research on Crime, Security and Law
-  date: 2026-07-14
+  date: 2026-07-16
   isbn: Coming soon!
   doi: Coming soon!
   license: Copyright 2026 The authors; CC-BY 4.0 International
@@ -57,6 +57,7 @@ book:
     - chapter1.qmd #Pretty Privilege: Stereotypes as Self-Fulfilling Prophecies
     - chapter24.qmd #Trust
     - chapter10.qmd #Standford Prison Experiment
+    - chapter26.qmd #Gender Differences in Human Mate Preferences
     - chapter22.qmd #Social Norms
     - chapter23.qmd #Generic Masculine 
     - chapter9.qmd #Minimal Group Effect

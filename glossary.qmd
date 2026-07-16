@@ -66,6 +66,9 @@ The extent to which a test measures the theoretical construct or concept it is i
 #### [Correlation](chapter13.qmd#def-correlation)
 Two variables are said to correlate when there is a relationship between the two, where one increases or increases as the other does, too, or one increases as the other falls. The degree to which these variables move together is expressed as the size of the correlation coefficient, which ranges from 0 (no correlation) to abs(1) (perfect correlation).
 
+#### [Correlation r](chapter26.qmd#def-correlationr)
+Correlation r typically refers to two metric variables that co-vary (increase or decrease together), expressed in a standardized effect size Pearson correlation coefficient r. An r = 1 (-1) refers to perfect positive (negative) association between these two variables, whereas effects near zero reflect no association. Small to medium- sized correlations are typically in the range of 0.10 to 0.30 [@cohen_statistical_1988].
+
 
 #### [Demand Characteristics](chapter10.qmd#def-demandcharacteristics)
 These are cues in an experiment that give away what the researcher expects, which can lead participants to change their behavior to fit those expectations.
@@ -95,6 +98,13 @@ An introductory article written by the editors of a special issue in an academic
 
 #### [Ego Depletion](chapter5.qmd#def-egodepletion)
 A concept that describes willpower as a limited resource that can be used up (depleted).
+
+#### [Environment of Evolutionary Adaptedness](chapter26.qmd#def-environmentofevolutionaryadaptedness)
+The Environment of Evolutionary Adaptedness refers to the ancestral environments in which human psychological adaptations evolved over many generations. It describes the selection pressures that shaped the human mind, rather than a specific place or time, and helps explain why some evolved traits may not always fit modern environments [@tooby_past_1990].
+
+#### [Evolutionary Psychology](chapter26.qmd#def-evolutionarypsychology)  
+
+Evolutionary psychology is the study of how the human mind and behavior may have been shaped in our evolutionary past (in the Environment of Evolutionary Adaptedness). It suggests that many psychological traits, emotions, social behaviors, and decision-making tendencies, are influenced by evolved adaptations (or byproducts from adaptations), while recognizing that culture, learning, and individual experiences also play important roles [@buss_evolutionary_2024].
 
 #### Experiment ([Intergroup Contact Theory](chapter12.qmd#def-experiment), [Hot Coffee Effect](chapter20.qmd#def-experiment))
 A study where researchers deliberately manipulate one or more variables and randomly assign participants to different conditions. Random assignment helps ensure the groups are similar before the intervention, so differences in outcomes are more likely to be caused by the manipulation rather than by pre-existing differences.
@@ -174,6 +184,10 @@ An internalized norm consists of a social expectation that a person has incorpor
 
 #### [Intuitive Behavior](chapter14.qmd#def-intuitivebehavior)
 Behavior that occurs through automatic, prepotent and effortless cognitive operations. Commonly referred to as “System 1”, these mental operations are fast, associative and hard to control (Kahneman, 2002; Stanovich & West, 2000).
+
+
+#### [Mahalanobis Distance D](chapter26.qmd#def-mahalanobisdistanced)
+Mahalanobis Distance D is a statistical method often used to calculate the distance of a data point from a multidimensional center (centroid). That way, it is also the preferred technique to calculate the standardized difference between group means when multiple outcome variables are considered, rather than a single outcome variable, for which Cohen’s d is typically used [@del_giudice_real_2009].
 
 #### [Meta-Analysis](howto.qmd#def-metaanalysis)
 An analysis that brings together evidence from several individual studies or experiments to estimate an overall effect across the available evidence.
@@ -371,6 +385,9 @@ Social loafing or the Ringelmann effect refers to the decrease in individual eff
 
 #### [Social Norm](chapter22.qmd#def-socialnorm)
 A social standard that enables the evaluation of behaviors as appropriate or inappropriate within a specific context.
+
+#### [Social Role Theory](chapter26.qmd#def-socialroletheory)
+Social Role Theory proposes that many differences in the behavior of women and men arise because societies assign them different social and gender roles, responsibilities, and expectations. It argues that these roles shape people's skills, attitudes, and behaviors through socialization and opportunities, rather than being primarily the result of evolved psychological and biological differences [@eagly_social_2012].
 
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.

@@ -13,9 +13,10 @@ Part 2 contains six chapters on classic studies addressing social influence:
 
 Another facet of this research focuses on the influence of social roles and norms. It asks whether stepping into a social role such as that of a prisoner or a prison guard will make us change our behavior (Chapter on the [Stanford Prison Experiment](chapter10.qmd)) and whether we litter more when we see evidence that others do so, too (Chapter on [Social Norms](chapter22.qmd)).
 
-In Part 2, there are three chapters that address the influence of social roles, social norms and language on behavior:
+In Part 2, there are four chapters that address the influence of social roles social norms and language on behavior:
 
 - [Stanford Prison Experiment](chapter10.qmd)
+- [Gender Differences in Human Mate Preferences](chapter26.qmd)
 - [Social Norms](chapter22.qmd)
 - [Social Effects of the Generic Masculine](chapter23.qmd)
 
