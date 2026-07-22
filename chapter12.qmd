@@ -37,7 +37,7 @@ Allport’s [-@Allport_1954] formulation of the contact hypothesis was hugely in
 
 By the early 2000s, it was challenging to see the big picture in contact research. To address this, psychologists Thomas Pettigrew and Linda Tropp [-@Pettigrew-Tropp_2006] conducted a landmark quantitative review. In 2006, they published a meta-analysis synthesising findings from 515 studies (covering 713 independent samples and over 250,000 participants) that had studied intergroup contact. Across this vast body of work, they found a consistent pattern: people who reported more positive contact with members of an outgroup also tended to report lower levels of prejudice toward that group.
 
-> [#definition]{#def-meta-analysis style="color: orchid"} Meta-analysis
+> [#definition]{#def-meta-analysis style="color: orchid"} Meta-Analysis
 >
 > A statistical technique that combines the results of multiple independent studies to estimate an overall effect. Meta-analyses can reveal patterns across a large body of research, but the quality of their conclusions depends on the quality and comparability of the included studies.
 

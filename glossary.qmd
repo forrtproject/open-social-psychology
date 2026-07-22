@@ -57,7 +57,7 @@ In some experiments, researchers are interested in the behavior of participants 
 #### [Confirmatory Study](chapter6.qmd#def-confirmatorystudy)
 A research investigation that tests (often preregistered) hypotheses derived from theory or prior empirical research.
 
-#### Contact Interventions ([Intergroup Contact Theory](chapter12.qmd#def-contactinterventions), [Hot Coffee Effect](chapter20.qmd#def-contactinterventions))
+#### [Contact Interventions](chapter12.qmd#def-contactinterventions),
 Carefully tailored interventions that apply intergroup contact in real-world settings to try and reduce prejudice among social groups.
 
 #### [Construct Validity](chapter15.qmd#def-constructvalidity)
@@ -69,9 +69,14 @@ Two variables are said to correlate when there is a relationship between the two
 #### [Correlation r](chapter26.qmd#def-correlationr)
 Correlation r typically refers to two metric variables that co-vary (increase or decrease together), expressed in a standardized effect size Pearson correlation coefficient r. An r = 1 (-1) refers to perfect positive (negative) association between these two variables, whereas effects near zero reflect no association. Small to medium- sized correlations are typically in the range of 0.10 to 0.30 [@cohen_statistical_1988].
 
+#### [Cortisol](chapter27.qmd#def-cortisol)
+Cortisol is often called the “stress hormone”, since it regulates your body’s response to stress. During stressful events it spikes and activates the body’s fight or flight response, meaning that you are on high alert to deal with a potential threat. 
 
 #### [Demand Characteristics](chapter10.qmd#def-demandcharacteristics)
 These are cues in an experiment that give away what the researcher expects, which can lead participants to change their behavior to fit those expectations.
+
+#### [Demand Effects](chapter27.qmd#def-demandeffects)
+Sometimes people participating in an experiment interpret what the experiment is supposed to measure and what the researcher expects. This can lead to them consciously or subconsciously changing their behavior to what they think is expected of them.
 
 #### [Descriptive Norms](chapter22.qmd#def-descriptivenorms)
 Descriptive norms refer to what people believe is the description of group behavior (decisions based on limited information may generate misperceptions; thus, perceived norms do not necessarily reflect actual group behavior), whose main influence on behavior is of informative nature.
@@ -98,6 +103,9 @@ An introductory article written by the editors of a special issue in an academic
 
 #### [Ego Depletion](chapter5.qmd#def-egodepletion)
 A concept that describes willpower as a limited resource that can be used up (depleted).
+
+#### [Embodiment](chapter27.qmd#def-embodiment) 
+The idea that the mind and body influence each other, so that the body plays a significant role in shaping how we think and feel.
 
 #### [Environment of Evolutionary Adaptedness](chapter26.qmd#def-environmentofevolutionaryadaptedness)
 The Environment of Evolutionary Adaptedness refers to the ancestral environments in which human psychological adaptations evolved over many generations. It describes the selection pressures that shaped the human mind, rather than a specific place or time, and helps explain why some evolved traits may not always fit modern environments [@tooby_past_1990].
@@ -257,6 +265,10 @@ Individuals tend to discriminate more when given positive outcomes (e.g., money 
 #### [Power Analysis](chapter6.qmd#def-poweranalysis)
 A power analysis is used in research to estimate the probability that an effect, if it does exist, could be found in the data given. Usually, a power analysis is conducted to estimate the minimum sample size needed to detect a certain effect before running the study (a priori).
 
+#### [Power Posing](chapter27.qmd#def-powerposing)
+Behavioral technique where a person assumes and holds an open pose that is associated with being powerful through taking up space in a room. This is intended to make you feel more confident and powerful.
+
+
 #### [Precognition or Premonition](chapter6.qmd#def-precognition)
 The conscious cognitive awareness or affective apprehension of a future event that could not otherwise be anticipated through any known inferential process [@bem_feeling_2011].
 
@@ -294,7 +306,10 @@ Prospect Theory is a framework of assumptions about how people perceive subjecti
 #### [Psychological Reactance](chapter4.qmd#def-psychologicalreactance)
 Psychological reactance states that individuals have certain freedoms with regard to their behaviour. If these behavioural freedoms are reduced or threatened with reduction, the individual will be motivationally aroused to regain them.
 
-#### [Publication Bias](science.qmd#def-publicationbias)
+#### [Psychological Warmth](chapter20.qmd#def-psychologicalwarmth)
+The sense that another person is friendly, kind, and has good intentions. It is one of the two central dimensions we rely on when forming first impressions, the other being competence. People tend to notice warmth quickly and often use it as a basis for deciding whether someone is trustworthy. Importantly, research suggests that experiences of physical warmth can subtly shape these social judgements [@williams_experiencing_2008; @fiske_universal_2007].
+
+#### Publication Bias ([Scientific Research in Social Psychology](science.qmd#def-publicationbias), [Power Posing](chapter27.qmd#def-publicationbias))
 Publication Bias is the tendency for journals to publish only "positive" results (studies where something happened) while ignoring "null" results (studies where nothing happened).
 
 #### [Publication Bias](chapter6.qmd#def-publicationbias)
@@ -392,7 +407,7 @@ Social Role Theory proposes that many differences in the behavior of women and m
 #### [Special Issue](chapter2.qmd#def-specialissue)
 A collection of articles on a specific topic, typically published together in a single issue of an academic journal. Special issues are often edited by guest editors and aim to provide a comprehensive exploration of the chosen theme or field of study.
 
-#### [Statistical Power](science.qmd#def-statisticalpower)
+#### Statistical Power ([Scientific Research in Social Psychology](science.qmd#def-statisticalpower), [Power Posing](chapter27.qmd#def-statisticalpower))
 Statistical power is the probability that a study will detect an effect (a real relationship) if that effect actually exists.
 
 
@@ -407,6 +422,10 @@ Stereotype threat refers to an individual’s fear that their own characteristic
 
 #### [Subliminal](chapter6.qmd#def-subliminal)
 Subliminal refers to the exposure of stimuli for such a short amount of time that humans are not aware of the stimuli perceived and therefore cannot actively process the information.
+
+
+#### [Testosterone](chapter27.qmd#def-testosterone)
+Testosterone is a hormone mainly associated with reproduction and physical development. It might be associated with certain behaviors such as competitive behavior, dominance, or aggression, although this depends on the situation and the individual. For a more recent article on the influence of hormones on psychology see @botzet_behavioural_2024.
 
 #### Treatment and Control Conditions ([Stereotype Threat](chapter12.qmd#def-treatmentandcontrolconditions), [Hot Coffee Effect](chapter20.qmd#def-treatmentandcontrolconditions))
 In experimental design, treatment condition refers to the participants who are randomly chosen to undergo the intervention (e.g., to play in the mixed soccer team). Control condition refers to the participants who are subject to intervention-like treatment that lacks the critical aspect of the intervention (e.g., those allocated to play in the all-Christian soccer team). Here, the critical aspect is intergroup contact within the team.

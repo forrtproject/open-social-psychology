@@ -29,7 +29,7 @@ Although the original study showed strong effect sizes and found a connection be
 
 One major concern is that the sample size of N = 30 was quite small, and that the sample was not representative, as it consisted only of a specific group that is undergraduate students only from New York University. 
 
-> [#definition]{#def-representativity style="color: orchid"} Representativity or representativeness
+> [#definition]{#def-representativity style="color: orchid"} Representativity or Representativeness
 >
 > The extent to which a study sample reflects a well-defined target population, such that the estimates or the interpretation of results can be generalized to that population [@rudolph_defining_2023].
 

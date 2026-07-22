@@ -40,7 +40,7 @@ On the other hand, following the course of the academic debate about these claim
 
 ## Stories of Change in this Book
 
-This book contains more than 20 stories of change in psychological science. We have compiled these stories from across the spectrum of topics that social psychology addresses. Clustering these themes broadly, the chapters included here address three major research trajectories. 
+This book contains more than 25 stories of change in psychological science. We have compiled these stories from across the spectrum of topics that social psychology addresses. Clustering these themes broadly, the chapters included here address three major research trajectories. 
 
 The first part of this book addresses research that is at the very core of social psychological inquiry. It addresses both classic questions of how we perceive our (social) environment and how our social perception comes into being. The research contained within asks questions such as "Can people predict the future?" (Chapter on [Feeling the Future](chapter6.qmd)), "Can believing in someone's success make them more successful?" (Chapter on the [Pygmalion Effect](chapter2.qmd)), or "Can humans run out of self-control?" (Chapter on [Ego Depletion](chapter5.qmd)). 
 
